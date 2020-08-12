@@ -1,0 +1,17 @@
+name: Nightly
+
+on:
+  push:
+    branches: [master]
+  # Run every night at midnight UTC.
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  lhci:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: yarn
+      # Download file
+      - run: yarn run lhci autorun --collect.url=https://www.consumerfinance.gov
