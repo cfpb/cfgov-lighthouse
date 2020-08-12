@@ -1,0 +1,9 @@
+{% for run in manifest %}
+  <p><a href="{{ run.url }}">{{ run.url }}</a></p>
+  <p><a href="{{ run.htmlPath.split('/') | last }}">Full report</a></p>
+  <ul>
+    {% for metric, score in run.summary %}
+    <li>{{ metric }}: {{ score }}</li>
+    {% endfor %}
+  </ul>
+{% endfor %}

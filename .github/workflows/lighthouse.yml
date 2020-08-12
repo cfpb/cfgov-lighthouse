@@ -1,0 +1,29 @@
+name: Run Lighthouse CI
+
+on:
+  push:
+    branches: [master]
+
+  # Run every night at midnight UTC.
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  lhci:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - run: yarn
+
+      - run: yarn lighthouse
+
+      - run: yarn build
+
+      - name: Commit reports back to GitHub
+        uses: EndBug/add-and-commit@v4
+        with:
+          add: docs/reports
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

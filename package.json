@@ -1,5 +1,27 @@
 {
-  "dependencies": {
-    "@lhci/cli": "^0.4.4"
+  "license": "SEE LICENSE IN TERMS.md",
+  "scripts": {
+    "build": "yarn compile-prod",
+    "clean": "rm -rf ./docs/static",
+    "compile-dev": "webpack --mode=development",
+    "compile-prod": "webpack --mode=production",
+    "lighthouse": "lhci collect && lhci upload",
+    "serve": "concurrently \"yarn serve-html\" \"yarn compile-dev --watch\"",
+    "serve-html": "http-server docs"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@lhci/cli": "^0.4.4",
+    "babel-loader": "^8.1.0",
+    "concurrently": "^5.3.0",
+    "css-loader": "^4.2.1",
+    "eslint": "^7.7.0",
+    "http-server": "^0.12.3",
+    "less-loader": "^6.2.0",
+    "mini-css-extract-plugin": "^0.10.0",
+    "nunjucks": "^3.2.2",
+    "nunjucks-webpack-plugin": "^5.0.0",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
   }
 }
