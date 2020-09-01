@@ -14,9 +14,8 @@
         <a href="{{ run.htmlPath.split('/') | last }}">Full report</a>
       </p>
       <ul>
-        {% for metric, score in run.summary %}
-          <li>{{ metric }}:
-            {{ score }}</li>
+        {% for metric, score in run.summary -%}
+          <li>{{ metric }}: {{ score }}</li>
         {% endfor %}
       </ul>
     {% endif %}
