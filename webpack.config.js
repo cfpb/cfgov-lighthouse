@@ -4,20 +4,23 @@ const path = require( 'path' );
 const MiniCssExtractPlugin = require( 'mini-css-extract-plugin' );
 const NunjucksWebpackPlugin = require( 'nunjucks-webpack-plugin' );
 
+const {
+  LighthouseSummaryReport,
+  REPORTS_ROOT
+} = require( './src/lighthouse/reports' );
+
 
 /**
  * Create plugin to generate HTML files using Nunjucks templates. Plugin will
  * generate a Lighthouse summary HTML file for each subdirectory under
- * ./docs/reports, plus a index.html that links to each of those summary files.
+ * ./docs/reports, plus an index.html that links to each of those summary files.
  *
  * @returns {NunjucksWebpackPlugin} Webpack plugin to create HTML files.
  */
 function buildReportPlugin() {
-  const BASE_PATH = './docs/reports';
-
   // eslint-disable-next-line no-sync
-  const subdirs = fs
-    .readdirSync( BASE_PATH, { withFileTypes: true } )
+  const timestamps = fs
+    .readdirSync( REPORTS_ROOT, { withFileTypes: true } )
     .filter( dirent => dirent.isDirectory() )
     .map( dirent => dirent.name );
 
@@ -25,24 +28,20 @@ function buildReportPlugin() {
     {
       templates: [
         {
-          from: './src/index.njk',
+          from: './src/templates/index.njk',
           to: 'index.html',
           context: {
-            manifests: subdirs
+            timestamps: timestamps
           }
         },
-        ...subdirs.map( subdir => {
-          const manifestFilename = `${ BASE_PATH }/${ subdir }/manifest.json`;
-
-          // eslint-disable-next-line no-sync
-          const manifest = JSON.parse( fs.readFileSync( manifestFilename ) );
+        ...timestamps.map( timestamp => {
+          const summaryReport = new LighthouseSummaryReport( timestamp );
 
           return {
-            from: './src/manifest.njk',
-            to: `reports/${ subdir }/index.html`,
+            from: './src/templates/summary_report.njk',
+            to: path.join( REPORTS_ROOT, timestamp, 'index.html' ),
             context: {
-              subdir: subdir,
-              manifest: manifest
+              summaryReport: summaryReport
             }
           };
         } )

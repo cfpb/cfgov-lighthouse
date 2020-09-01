@@ -1,29 +1,28 @@
-const fs = require( 'fs' );
+const path = require( 'path' );
 
-const BASE_URL = 'https://www.consumerfinance.gov';
+const { REPORTS_ROOT } = require( './src/lighthouse/reports' );
+const urls = require( './src/lighthouse/urls' );
 
+// eslint-disable-next-line no-process-env
+const baseUrl = process.env.BASE_URL || 'https://www.consumerfinance.gov';
+
+// Use custom --mobile flag to toggle between desktop and mobile testing.
+const mobile = process.argv.some( arg => arg === '--mobile' );
+
+// Store results in a folder named for the current timestamp.
 const timestamp = new Date().toISOString();
-
-// eslint-disable-next-line no-sync
-const urlsTxt = fs.readFileSync( 'urls.txt', 'utf-8' ).split( '\n' );
-
-// Filter out any lines that don't start with /
-let urls = urlsTxt.filter( url => url.match( /^\// ) );
-
-// Remove any duplicates from the list, and sort.
-urls = [ ...new Set( urls ) ].sort();
-
-// Prepend URLs with domain name.
-urls = urls.map( url => BASE_URL + url );
 
 module.exports = {
   ci: {
     collect: {
-      url: urls
+      url: urls.map( url => baseUrl + url ),
+      settings: {
+        emulatedFormFactor: mobile ? 'mobile' : 'desktop'
+      }
     },
     upload: {
       target: 'filesystem',
-      outputDir: `docs/reports/${ timestamp }`
+      outputDir: path.join( REPORTS_ROOT, timestamp )
     }
   }
 };

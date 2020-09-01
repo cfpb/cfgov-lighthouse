@@ -1,0 +1,9 @@
+{% extends "./base.njk" %}
+
+{% block body %}
+  {% for timestamp in timestamps | reverse %}
+    <p>
+      <a href="reports/{{ timestamp }}/">{{ timestamp }}</a>
+    </p>
+  {% endfor %}
+{% endblock %}
