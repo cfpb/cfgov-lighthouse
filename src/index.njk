@@ -1,15 +1,10 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <link rel="stylesheet" href="static/css/main.css">
-    </head>
-    <body>
-        {% for manifest in manifests %}
-        <p>
-          <a href="reports/{{ manifest }}/">{{ manifest }}</a>
-        </p>
-        {% endfor %}
+{% extends "./templates/base.njk" %}
 
-        <script src="static/js/main.js"></script>
-    </body>
-</html>
+{% block body %}
+    {% for manifest in manifests | reverse %}
+        <p>
+            <a href="reports/{{ manifest }}/">{{ manifest }}</a>
+        </p>
+    {% endfor %}
+
+{% endblock %}
