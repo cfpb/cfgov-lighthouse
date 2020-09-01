@@ -1,9 +1,9 @@
-name: Run Lighthouse CI
+name: Build static site
 
 on:
-  # Run every night at midnight UTC.
-  schedule:
-    - cron: '0 0 * * *'
+  # Run on every commit to master.
+  push:
+    branches: [master]
 
 jobs:
   lhci:
@@ -14,11 +14,11 @@ jobs:
 
       - run: yarn
 
-      - run: yarn lighthouse
+      - run: yarn build
 
       - name: Commit reports back to GitHub
         uses: EndBug/add-and-commit@v4
         with:
-          add: docs/reports
+          add: docs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
