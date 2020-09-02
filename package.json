@@ -6,6 +6,7 @@
     "compile-dev": "webpack --mode=development",
     "compile-prod": "webpack --mode=production",
     "lighthouse": "lhci collect && lhci upload",
+    "lint": "eslint --max-warnings=0 lighthouserc.js src webpack.config.js",
     "serve": "concurrently \"yarn serve-html\" \"yarn compile-dev --watch\"",
     "serve-html": "http-server docs"
   },
