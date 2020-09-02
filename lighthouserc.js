@@ -1,13 +1,14 @@
-const fs = require('fs');
+const fs = require( 'fs' );
 
 const BASE_URL = 'https://www.consumerfinance.gov';
 
 const timestamp = new Date().toISOString();
 
-const urls_txt = fs.readFileSync( 'urls.txt', 'utf-8' ).split( '\n' );
+// eslint-disable-next-line no-sync
+const urlsTxt = fs.readFileSync( 'urls.txt', 'utf-8' ).split( '\n' );
 
 // Filter out any lines that don't start with /
-let urls = urls_txt.filter( url => url.match( /^\// ) );
+let urls = urlsTxt.filter( url => url.match( /^\// ) );
 
 // Remove any duplicates from the list, and sort.
 urls = [ ...new Set( urls ) ].sort();
@@ -22,7 +23,7 @@ module.exports = {
     },
     upload: {
       target: 'filesystem',
-      outputDir: `docs/reports/${timestamp}`
+      outputDir: `docs/reports/${ timestamp }`
     }
   }
 };
