@@ -8,7 +8,7 @@
     "lighthouse": "lhci collect && lhci upload",
     "lint": "eslint --max-warnings=0 lighthouserc.js src webpack.config.js",
     "serve": "concurrently \"yarn serve-html\" \"yarn compile-dev --watch\"",
-    "serve-html": "http-server docs"
+    "serve-html": "http-server docs --cors"
   },
   "devDependencies": {
     "@babel/core": "^7.11.1",

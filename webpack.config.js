@@ -57,11 +57,12 @@ module.exports = ( env, argv ) => {
   const config = {
     mode: argv.mode || 'development',
     entry: {
-      main: [ './src/js/main.js', './src/css/main.less' ]
+      main: [ './src/css/main.less' ],
+      report: [ './src/js/report.js' ]
     },
     output: {
       path: path.resolve( __dirname, 'docs' ),
-      filename: 'static/js/main.js'
+      filename: 'static/js/[name].js'
     },
     plugins: [
       new MiniCssExtractPlugin(
