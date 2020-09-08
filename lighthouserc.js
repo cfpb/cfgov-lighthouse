@@ -1,7 +1,7 @@
 const path = require( 'path' );
 
 const { REPORTS_ROOT } = require( './src/lighthouse/reports' );
-const urls = require( './src/lighthouse/urls' );
+const { getUrls } = require( './src/lighthouse/urls' );
 
 // eslint-disable-next-line no-process-env
 const baseUrl = process.env.BASE_URL || 'https://www.consumerfinance.gov';
@@ -15,7 +15,8 @@ const timestamp = new Date().toISOString();
 module.exports = {
   ci: {
     collect: {
-      url: urls.map( url => baseUrl + url ),
+      numberOfRuns: 1,
+      url: getUrls( baseUrl, mobile ),
       settings: {
         emulatedFormFactor: mobile ? 'mobile' : 'desktop'
       }

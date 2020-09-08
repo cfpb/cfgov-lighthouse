@@ -25,4 +25,37 @@ const urls = [
   '/start-small-save-up/start-saving/'
 ];
 
-module.exports = urls;
+const MOBILE_QUERY_STRING_PARAM = 'mobile';
+
+/**
+ * Generate a list of absolute URLs for testing.
+ * @param {string} baseUrl Base URL, e.g. https://www.consumerfinance.gov.
+ * @param {boolean} mobile Whether URLs should be decorated for mobile testing.
+ * @returns {URL[]} List of absolute URLs.
+ */
+function getUrls( baseUrl, mobile ) {
+  return urls.map( url => {
+    const absoluteUrl = new URL( url, baseUrl );
+
+    if ( mobile ) {
+      absoluteUrl.searchParams.set( MOBILE_QUERY_STRING_PARAM, '1' );
+    }
+
+    return absoluteUrl;
+  } );
+}
+
+/**
+ * Remove any mobile testing decoration from a Lighthouse report URL.
+ * @param {string} url URL from Lighthouse report.
+ * @returns {string} URL without any mobile testing decoration.
+ **/
+function getCleanedUrl( url ) {
+  const cleanedUrl = new URL( url );
+
+  cleanedUrl.searchParams.delete( MOBILE_QUERY_STRING_PARAM );
+
+  return cleanedUrl.href;
+}
+
+module.exports = { getCleanedUrl, getUrls };

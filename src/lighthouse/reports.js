@@ -1,6 +1,8 @@
 const fs = require( 'fs' );
 const path = require( 'path' );
 
+const { getCleanedUrl } = require( './urls' );
+
 const REPORTS_ROOT = path.resolve( __dirname, '../../docs/reports' );
 
 const MANIFEST_FILENAME = 'manifest.json';
@@ -27,13 +29,16 @@ class LighthouseSummaryReport {
       run => run.isRepresentativeRun
     );
 
-    const runsByUrl = this._groupBy( representativeRuns, run => run.url );
+    const runsByUrl = this._groupBy(
+      representativeRuns,
+      run => getCleanedUrl( run.url )
+    );
 
     const pages = runsByUrl.map( runs => {
       const reports = runs.map( this._parseRun );
 
       return {
-        url: runs[0].url,
+        url: getCleanedUrl( runs[0].url ),
         reports: reports.sort( ( a, b ) => a.name > b.name )
       };
     } );
