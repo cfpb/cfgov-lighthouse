@@ -22,7 +22,12 @@ function buildReportPlugin() {
   const timestamps = fs
     .readdirSync( REPORTS_ROOT, { withFileTypes: true } )
     .filter( dirent => dirent.isDirectory() )
-    .map( dirent => dirent.name );
+    .map( dirent => dirent.name )
+    .sort();
+
+  const latestTimestamp = timestamps[timestamps.length - 1];
+
+  const summaryReport = new LighthouseSummaryReport( latestTimestamp );
 
   return new NunjucksWebpackPlugin(
     {
@@ -31,20 +36,9 @@ function buildReportPlugin() {
           from: './src/templates/index.njk',
           to: 'index.html',
           context: {
-            timestamps: timestamps
+            summaryReport: summaryReport
           }
-        },
-        ...timestamps.map( timestamp => {
-          const summaryReport = new LighthouseSummaryReport( timestamp );
-
-          return {
-            from: './src/templates/summary_report.njk',
-            to: path.join( REPORTS_ROOT, timestamp, 'index.html' ),
-            context: {
-              summaryReport: summaryReport
-            }
-          };
-        } )
+        }
       ]
     }
   );
@@ -56,8 +50,7 @@ module.exports = ( env, argv ) => {
   const config = {
     mode: argv.mode || 'development',
     entry: {
-      main: [ './src/css/main.less' ],
-      report: [ './src/js/report.js' ]
+      main: [ './src/css/main.less', './src/js/main.js' ]
     },
     output: {
       path: path.resolve( __dirname, 'docs' ),

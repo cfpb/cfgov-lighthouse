@@ -1,9 +1,22 @@
 {% extends "./base.njk" %}
 
 {% block body %}
-  {% for timestamp in timestamps | reverse %}
+  <p>Summary for {{ summaryReport.timestamp }}</p>
+  {% for page in summaryReport.pages %}
     <p>
-      <a href="reports/{{ timestamp }}/">{{ timestamp }}</a>
+      <a href="{{ page.url }}">{{ page.url }}</a>
     </p>
+    {% for report in page.reports %}
+      <p>
+        <a class="report-link" href="{{ report.jsonPath }}">
+          Full report ({{ report.name }})
+        </a>
+      </p>
+      <ul>
+        {% for metric, score in report.summary -%}
+          <li>{{ metric }}: {{ score * 100 }}</li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
   {% endfor %}
 {% endblock %}

@@ -15,7 +15,6 @@ const timestamp = new Date().toISOString();
 module.exports = {
   ci: {
     collect: {
-      numberOfRuns: 1,
       url: getUrls( baseUrl, mobile ),
       settings: {
         emulatedFormFactor: mobile ? 'mobile' : 'desktop'

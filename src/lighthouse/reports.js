@@ -10,7 +10,7 @@ const MANIFEST_FILENAME = 'manifest.json';
 class LighthouseSummaryReport {
 
   constructor( timestamp ) {
-    this._timestamp = timestamp;
+    this.timestamp = timestamp;
 
     this._manifestFilename = path.join(
       REPORTS_ROOT,
@@ -65,22 +65,17 @@ class LighthouseSummaryReport {
   }
 
   _parseRun( manifestRun ) {
-    const jsonParts = manifestRun.jsonPath.split( '/' ).reverse();
-    const jsonFilename = jsonParts[0];
-    const reportTimestamp = jsonParts[1];
+    const jsonParts = manifestRun.jsonPath.split( '/' ).slice( -2 );
+    const jsonPath = jsonParts.join( '/' );
 
-    const jsonFilenameFull = path.join(
-      REPORTS_ROOT,
-      reportTimestamp,
-      jsonFilename
-    );
+    const jsonFilename = path.join( REPORTS_ROOT, jsonPath );
 
     // eslint-disable-next-line no-sync
-    const report = JSON.parse( fs.readFileSync( jsonFilenameFull ) );
+    const report = JSON.parse( fs.readFileSync( jsonFilename ) );
 
     return {
       name: report.configSettings.emulatedFormFactor,
-      jsonFilename: jsonFilename,
+      jsonPath: `reports/${ jsonPath }`,
       summary: manifestRun.summary
     };
   }
