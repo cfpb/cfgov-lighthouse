@@ -1,8 +1,6 @@
-name: Build static site
+name: Build
 
-on:
-  push:
-    branches: [master]
+on: pull_request
 
 jobs:
   build:
@@ -14,10 +12,3 @@ jobs:
       - run: yarn
 
       - run: yarn build
-
-      - name: Commit site back to GitHub
-        uses: EndBug/add-and-commit@v4
-        with:
-          add: docs
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
