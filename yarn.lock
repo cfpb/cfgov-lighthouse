@@ -176,6 +176,27 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
+"@cfpb/cfpb-core@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-core/-/cfpb-core-0.3.0.tgz#87428475f22aa0fe4f54fcdd625843e4e78e6fac"
+  integrity sha512-FjfoStvxtoiyHbmPs5veji64P13ursOWAc60wJLd2Fi4jYc8dr3cWNKI8/Olp0LkI0oHeFKjQ9Mk6Y4S5Vh5SQ==
+  dependencies:
+    normalize-css "^2.0.0"
+    normalize-legacy-addon "0.1.0"
+
+"@cfpb/cfpb-icons@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-icons/-/cfpb-icons-0.3.0.tgz#5059e3c17027fa9ecf059dc48f62f6b31b3b400e"
+  integrity sha512-4e3tVbHtrXilkswC00+Hh/yZ/4Omeo/rSEvnCW+r1qg7XDsAqRQhgeH7xyxGiCzfqiPPySCSlH1/97V0ksisNg==
+
+"@cfpb/cfpb-typography@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-typography/-/cfpb-typography-0.3.0.tgz#bef284740ed468c6b0017ae86114e700b82641eb"
+  integrity sha512-hUIE7In2WAoLkSTbR0c+KBFvVO/0CHy38i6S9nyfAnBVCznHYMwi/oQwiBXUhQ/oJGRzyVGYRHffWX/nVRKsAQ==
+  dependencies:
+    "@cfpb/cfpb-core" "^0.3.0"
+    "@cfpb/cfpb-icons" "^0.3.0"
+
 "@lhci/cli@^0.4.4":
   version "0.4.4"
   resolved "https://registry.yarnpkg.com/@lhci/cli/-/cli-0.4.4.tgz#52d179658aeccb228ba94525d87bbe954bc8f87d"
@@ -2779,6 +2800,11 @@ inquirer@^6.3.1:
     strip-ansi "^5.1.0"
     through "^2.3.6"
 
+insert-css@0.0.0:
+  version "0.0.0"
+  resolved "https://registry.yarnpkg.com/insert-css/-/insert-css-0.0.0.tgz#2304bfa6f893abecb8ff9ca8d9c7605d94cf2911"
+  integrity sha1-IwS/pviTq+y4/5yo2cdgXZTPKRE=
+
 interpret@^1.4.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/interpret/-/interpret-1.4.0.tgz#665ab8bc4da27a774a40584e812e3e0fa45b1a1e"
@@ -3652,6 +3678,11 @@ mkdirp@^0.5.1, mkdirp@^0.5.3, mkdirp@^0.5.5:
   dependencies:
     minimist "^1.2.5"
 
+moment@^2.9.0:
+  version "2.27.0"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.27.0.tgz#8bff4e3e26a236220dfe3e36de756b6ebaa0105d"
+  integrity sha512-al0MUK7cpIcglMv3YF13qSgdAIqxHTO7brRtaz3DlSULbqfazqkc5kEjNrLDOM7fsjshoFIihnU8snrP7zUvhQ==
+
 move-concurrently@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/move-concurrently/-/move-concurrently-1.0.1.tgz#be2c005fda32e0b29af1f05d7c4b33214c701f92"
@@ -3773,6 +3804,18 @@ node-libs-browser@^2.2.1:
     util "^0.11.0"
     vm-browserify "^1.0.1"
 
+normalize-css@^2.0.0:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/normalize-css/-/normalize-css-2.3.1.tgz#fc03e3b91e3a51aa7a1836bae7b2b6ac6d51e156"
+  integrity sha1-/APjuR46Uap6GDa657K2rG1R4VY=
+  dependencies:
+    insert-css "0.0.0"
+
+normalize-legacy-addon@0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/normalize-legacy-addon/-/normalize-legacy-addon-0.1.0.tgz#8ca131e8503943a3a9e4d0d70cc0e80a27a40c9e"
+  integrity sha1-jKEx6FA5Q6Op5NDXDMDoCiekDJ4=
+
 normalize-package-data@^2.3.2:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/normalize-package-data/-/normalize-package-data-2.5.0.tgz#e66db1838b200c1dfc233225d12cb36520e234a8"
@@ -3821,6 +3864,13 @@ number-is-nan@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
   integrity sha1-CXtgK1NCKlIsGvuHkDGDNpQaAR0=
+
+nunjucks-date-filter@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/nunjucks-date-filter/-/nunjucks-date-filter-0.1.1.tgz#a936d44d2cc9898d95c6ab7b2aba7084fa60aba6"
+  integrity sha1-qTbUTSzJiY2Vxqt7KrpwhPpgq6Y=
+  dependencies:
+    moment "^2.9.0"
 
 nunjucks-webpack-plugin@^5.0.0:
   version "5.0.0"

@@ -9,12 +9,12 @@ const MANIFEST_FILENAME = 'manifest.json';
 
 class LighthouseSummaryReport {
 
-  constructor( timestamp ) {
-    this.timestamp = timestamp;
+  constructor( timestampString ) {
+    this.timestamp = new Date( timestampString );
 
     this._manifestFilename = path.join(
       REPORTS_ROOT,
-      timestamp,
+      timestampString,
       MANIFEST_FILENAME
     );
 
@@ -35,11 +35,17 @@ class LighthouseSummaryReport {
     );
 
     const pages = runsByUrl.map( runs => {
-      const reports = runs.map( this._parseRun );
+      const url = getCleanedUrl( runs[0].url );
+
+      const reports = new Map(
+        runs
+          .map( this._parseRun )
+          .map( report => [ report.name, report ] )
+      );
 
       return {
-        url: getCleanedUrl( runs[0].url ),
-        reports: reports.sort( ( a, b ) => a.name > b.name )
+        url: new URL( url ),
+        reports: reports
       };
     } );
 

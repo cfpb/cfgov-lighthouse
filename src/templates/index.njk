@@ -1,22 +1,49 @@
 {% extends "./base.njk" %}
 
 {% block body %}
-  <p>Summary for {{ summaryReport.timestamp }}</p>
-  {% for page in summaryReport.pages %}
-    <p>
-      <a href="{{ page.url }}">{{ page.url }}</a>
-    </p>
-    {% for report in page.reports %}
-      <p>
-        <a class="report-link" href="{{ report.jsonPath }}">
-          Full report ({{ report.name }})
-        </a>
-      </p>
-      <ul>
-        {% for metric, score in report.summary -%}
+<h1>Lighthouse report summary</h1>
+
+<h2>{{ summaryReport.timestampString | date( "MMM. D, YYYY" ) }}</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Cf.gov Page</th>
+      <th>Mobile scores</th>
+      <th>Desktop scores</th>
+      <th>Reports</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for page in summaryReport.pages %}
+    <tr>
+      <td>
+        <a href="{{ page.url.href }}">{{ page.url.pathname }}</a>
+      </td>
+      {% set reports = ['mobile', 'desktop'] %}
+      {% for report in reports %}
+      <td>
+        <ul>
+          {% for metric, score in page.reports.get( report ).summary -%}
           <li>{{ metric }}: {{ score * 100 }}</li>
+          {% endfor %}
+        </ul>
+      </td>
+      {% endfor %}
+      <td>
+        {% for report in reports %}
+        <p>
+          <a
+            class="report-link"
+            href="{{ page.reports.get( report ).jsonPath }}"
+          >
+            View {{ report }} report
+          </a>
+        </p>
         {% endfor %}
-      </ul>
+      </td>
+    </tr>
     {% endfor %}
-  {% endfor %}
+  </tbody>
+</table>
 {% endblock %}
