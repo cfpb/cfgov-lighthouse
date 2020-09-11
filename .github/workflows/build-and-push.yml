@@ -1,12 +1,11 @@
-name: Run Lighthouse, build, and push
+name: Build and push
 
 on:
-  # Run every night at midnight UTC.
-  schedule:
-    - cron: '0 0 * * *'
+  push:
+    branches: [master]
 
 jobs:
-  lhci:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -14,11 +13,9 @@ jobs:
 
       - run: yarn
 
-      - run: yarn lighthouse
-
       - run: yarn build
 
-      - name: Commit reports and site back to GitHub
+      - name: Commit site back to GitHub
         uses: EndBug/add-and-commit@v4
         with:
           add: docs
