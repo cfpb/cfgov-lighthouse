@@ -11,6 +11,7 @@ const {
   REPORTS_ROOT
 } = require( './src/lighthouse/reports' );
 
+const cleanUpRuns = require( './src/lighthouse/cleanup' );
 
 /**
  * Create plugin to generate HTML files using Nunjucks templates. Plugin will
@@ -30,6 +31,8 @@ function buildReportPlugin() {
   const latestTimestamp = timestamps[timestamps.length - 1];
 
   const summaryReport = new LighthouseSummaryReport( latestTimestamp );
+
+  cleanUpRuns( summaryReport );
 
   const nunjucksEnvironment = nunjucks.configure();
   nunjucksEnvironment.addFilter( 'date', nunjucksDateFilter );
