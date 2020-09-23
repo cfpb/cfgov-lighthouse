@@ -2,8 +2,6 @@
 const fs = require( 'fs' );
 const path = require( 'path' );
 
-const CI_ROOT = '/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/';
-
 /**
  * Takes a summary report and deletes all "non-representative" runs from
  * the filesystem to save disk space.
@@ -13,8 +11,9 @@ const cleanUpRuns = summaryReport => {
 
   summaryReport.nonRepresentativeRuns.forEach( run => {
 
-    const filePath = path.join( __dirname, '../../', run.jsonPath.replace( CI_ROOT, '' ) );
-    const fileName = filePath.split( '/' ).pop();
+    const fileName = path.basename( run.jsonPath );
+    const fileDir = path.basename( path.dirname( run.jsonPath ) );
+    const filePath = path.join( __dirname, '../../docs/reports/', fileDir, fileName );
 
     fs.unlink( filePath, err => {
       if ( err ) {
