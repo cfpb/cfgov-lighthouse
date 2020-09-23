@@ -7,7 +7,7 @@ const CI_ROOT = '/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/';
 /**
  * Takes a summary report and deletes all "non-representative" runs from
  * the filesystem to save disk space.
- * @param {object} summaryReport A LighthouseSummaryReport (see reports.js)
+ * @param {Object} summaryReport A LighthouseSummaryReport (see reports.js)
  */
 const cleanUpRuns = summaryReport => {
 
@@ -20,7 +20,7 @@ const cleanUpRuns = summaryReport => {
       if ( err ) {
         return console.error( `Tried to delete ${ fileName } but failed. It might already be deleted.` );
       }
-      console.log( `Deleted non-representative run ${ fileName }.` );
+      return console.log( `Deleted non-representative run ${ fileName }.` );
     } );
 
   } );

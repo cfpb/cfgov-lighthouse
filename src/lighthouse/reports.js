@@ -19,7 +19,7 @@ class LighthouseSummaryReport {
     );
 
     this.pages = this._parseManifest( this._manifestFilename );
-    this.nonRepresentativeRuns = this._getNonRepresentativeRuns( this._manifestFilename );
+    this.nonRepresentativeRuns = this._getNonRepRuns( this._manifestFilename );
   }
 
   _parseManifest( manifestFilename ) {
@@ -53,7 +53,7 @@ class LighthouseSummaryReport {
     return pages.sort( ( a, b ) => a.url > b.url );
   }
 
-  _getNonRepresentativeRuns( manifestFilename ) {
+  _getNonRepRuns( manifestFilename ) {
     // eslint-disable-next-line no-sync
     const manifest = JSON.parse( fs.readFileSync( manifestFilename ) );
 
