@@ -1,3 +1,47 @@
+@import "node_modules/@cfpb/cfpb-layout/src/cfpb-layout.less";
 @import "node_modules/@cfpb/cfpb-typography/src/cfpb-typography.less";
 
 @use-font-cdn: true;
+
+.cfpblh-container {
+    width: 100%;
+    padding-top: 15px;
+}
+
+.cfpblh-container header,
+.cfpblh-table {
+    margin: auto;
+    width: calc( 100% - 60px );
+}
+
+// First column.
+.cfpblh-table td:nth-child(1){
+    //max-width: 25%;
+}
+
+// Second column
+.cfpblh-table td:nth-child(2){
+    min-width: 160px;
+}
+
+// Third column
+.cfpblh-table td:nth-child(3){
+    min-width: 160px;
+}
+
+// Fourth column
+.cfpblh-table td:nth-child(4){
+    vertical-align: top;
+}
+
+.u-transparent {
+    opacity: 0;
+}
+
+.u-fill-red {
+    fill: @red;
+}
+
+.u-fill-gold {
+    fill: @gold;
+}

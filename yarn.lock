@@ -184,10 +184,34 @@
     normalize-css "^2.0.0"
     normalize-legacy-addon "0.1.0"
 
+"@cfpb/cfpb-core@^0.3.1":
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-core/-/cfpb-core-0.3.1.tgz#a3a85da32e31296c7bdcc381f65fc6a099e63b28"
+  integrity sha512-sbxJN19n9qM+mXPiLGg5gYAxkmYFTHoLlAdMGmgSxEHXFwnrmW5a6o16XDhYuVZOBCxRP9nCQOKXeVoeRP7IGg==
+  dependencies:
+    normalize-css "^2.0.0"
+    normalize-legacy-addon "0.1.0"
+
+"@cfpb/cfpb-grid@^0.3.1":
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-grid/-/cfpb-grid-0.3.1.tgz#6fee7c65f1ce93e0269f405c97d339329a953afc"
+  integrity sha512-CZD0kz/DEEMLZ6PJya/X+DwjMVT6WVwCKbe0WjDUP3K2/FGVD+WsUM461nD/vhXNnCbY0fh+cD0dQV9DQ13Jvw==
+  dependencies:
+    normalize-css "^2.0.0"
+    normalize-legacy-addon "0.1.0"
+
 "@cfpb/cfpb-icons@^0.3.0":
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/@cfpb/cfpb-icons/-/cfpb-icons-0.3.0.tgz#5059e3c17027fa9ecf059dc48f62f6b31b3b400e"
   integrity sha512-4e3tVbHtrXilkswC00+Hh/yZ/4Omeo/rSEvnCW+r1qg7XDsAqRQhgeH7xyxGiCzfqiPPySCSlH1/97V0ksisNg==
+
+"@cfpb/cfpb-layout@^0.3.0":
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-layout/-/cfpb-layout-0.3.1.tgz#b372bdc7c2d37eaacea520a8b8f514b4fff8c2f2"
+  integrity sha512-yhVBka4fUAN5O8/XsKPW5pzHC8N81KxznIkjsZRDnioGqxMskbopa2UBWRWCE/sf/lGJtAC1AvwgsY9NKBZA+Q==
+  dependencies:
+    "@cfpb/cfpb-core" "^0.3.1"
+    "@cfpb/cfpb-grid" "^0.3.1"
 
 "@cfpb/cfpb-typography@^0.3.0":
   version "0.3.0"
