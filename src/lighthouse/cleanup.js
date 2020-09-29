@@ -2,6 +2,8 @@
 const fs = require( 'fs' );
 const path = require( 'path' );
 
+const { REPORTS_ROOT } = require( './reports' );
+
 /**
  * Takes a summary report and deletes all "non-representative" runs from
  * the filesystem to save disk space.
@@ -13,7 +15,7 @@ const cleanUpRuns = summaryReport => {
 
     const fileName = path.basename( run.jsonPath );
     const fileDir = path.basename( path.dirname( run.jsonPath ) );
-    const filePath = path.join( __dirname, '../../docs/reports/', fileDir, fileName );
+    const filePath = path.join( REPORTS_ROOT, fileDir, fileName );
 
     fs.unlink( filePath, err => {
       if ( err ) {
