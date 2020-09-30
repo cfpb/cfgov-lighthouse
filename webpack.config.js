@@ -1,4 +1,6 @@
 const fs = require( 'fs' );
+const nunjucks = require( 'nunjucks' );
+const nunjucksDateFilter = require( 'nunjucks-date-filter' );
 const path = require( 'path' );
 
 const MiniCssExtractPlugin = require( 'mini-css-extract-plugin' );
@@ -9,6 +11,7 @@ const {
   REPORTS_ROOT
 } = require( './src/lighthouse/reports' );
 
+const cleanUpRuns = require( './src/lighthouse/cleanup' );
 
 /**
  * Create plugin to generate HTML files using Nunjucks templates. Plugin will
@@ -29,6 +32,11 @@ function buildReportPlugin() {
 
   const summaryReport = new LighthouseSummaryReport( latestTimestamp );
 
+  cleanUpRuns( summaryReport );
+
+  const nunjucksEnvironment = nunjucks.configure();
+  nunjucksEnvironment.addFilter( 'date', nunjucksDateFilter );
+
   return new NunjucksWebpackPlugin(
     {
       templates: [
@@ -39,7 +47,8 @@ function buildReportPlugin() {
             summaryReport: summaryReport
           }
         }
-      ]
+      ],
+      configure: nunjucksEnvironment
     }
   );
 }

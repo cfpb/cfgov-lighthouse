@@ -1,44 +1,47 @@
-* {
-    box-sizing: border-box;
-    -webkit-font-smoothing: antialiased;
+@import "node_modules/@cfpb/cfpb-layout/src/cfpb-layout.less";
+@import "node_modules/@cfpb/cfpb-typography/src/cfpb-typography.less";
+
+@use-font-cdn: true;
+
+.cfpblh-container {
+    width: 100%;
+    padding-top: 15px;
 }
 
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Roboto, Helvetica, Arial, sans-serif;
-    color: rgb(33, 33, 33);
+.cfpblh-container header,
+.cfpblh-table {
+    margin: auto;
+    width: calc( 100% - 60px );
 }
 
-.container {
-    padding: 0 16px;
+// First column.
+.cfpblh-table td:nth-child(1){
+    //max-width: 25%;
 }
 
-.lh-topbar {
-    position: sticky;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 1000;
-    display: flex;
-    align-items: center;
-    height: 32px;
-    background-color: rgb(245, 245, 245);
-    padding: 0 8px;
+// Second column
+.cfpblh-table td:nth-child(2){
+    min-width: 160px;
 }
 
-.lh-topbar__logo {
-    width: 24px;
-    height: 24px;
-    user-select: none;
-    flex: none;
+// Third column
+.cfpblh-table td:nth-child(3){
+    min-width: 160px;
 }
 
-.lh-heading {
-    font-size: 1em;
-    font-weight: normal;
+// Fourth column
+.cfpblh-table td:nth-child(4){
+    vertical-align: top;
 }
 
-svg:not(:root) {
-    overflow: hidden;
+.u-transparent {
+    opacity: 0;
+}
+
+.u-fill-red {
+    fill: @red;
+}
+
+.u-fill-gold {
+    fill: @gold;
 }

@@ -9,16 +9,17 @@ const MANIFEST_FILENAME = 'manifest.json';
 
 class LighthouseSummaryReport {
 
-  constructor( timestamp ) {
-    this.timestamp = timestamp;
+  constructor( timestampString ) {
+    this.timestamp = new Date( timestampString );
 
     this._manifestFilename = path.join(
       REPORTS_ROOT,
-      timestamp,
+      timestampString,
       MANIFEST_FILENAME
     );
 
     this.pages = this._parseManifest( this._manifestFilename );
+    this.nonRepresentativeRuns = this._getNonRepRuns( this._manifestFilename );
   }
 
   _parseManifest( manifestFilename ) {
@@ -35,15 +36,32 @@ class LighthouseSummaryReport {
     );
 
     const pages = runsByUrl.map( runs => {
-      const reports = runs.map( this._parseRun );
+      const url = getCleanedUrl( runs[0].url );
+
+      const reports = new Map(
+        runs
+          .map( this._parseRun )
+          .map( report => [ report.name, report ] )
+      );
 
       return {
-        url: getCleanedUrl( runs[0].url ),
-        reports: reports.sort( ( a, b ) => a.name > b.name )
+        url: new URL( url ),
+        reports: reports
       };
     } );
 
     return pages.sort( ( a, b ) => a.url > b.url );
+  }
+
+  _getNonRepRuns( manifestFilename ) {
+    // eslint-disable-next-line no-sync
+    const manifest = JSON.parse( fs.readFileSync( manifestFilename ) );
+
+    const nonRepresentativeRuns = manifest.filter(
+      run => !run.isRepresentativeRun
+    );
+
+    return nonRepresentativeRuns;
   }
 
   _groupBy( seq, keyGetter ) {
