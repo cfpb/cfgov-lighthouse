@@ -3342,10 +3342,10 @@ a.a-heading__icon.active {
   width: calc(100% - 60px);
 }
 .cfpblh-table td:nth-child(2) {
-  min-width: 160px;
+  min-width: 200px;
 }
 .cfpblh-table td:nth-child(3) {
-  min-width: 160px;
+  min-width: 200px;
 }
 .cfpblh-table td:nth-child(4) {
   vertical-align: top;
@@ -3358,5 +3358,13 @@ a.a-heading__icon.active {
 }
 .u-fill-gold {
   fill: #ff9e1b;
+}
+.u-unstyled-link {
+  font-style: none !important;
+  color: #101820 !important;
+  border-bottom: none !important;
+}
+.u-unstyled-link:hover {
+  color: #0050b4 !important;
 }
 
