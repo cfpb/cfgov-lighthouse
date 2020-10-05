@@ -11,9 +11,9 @@
   <thead>
     <tr>
       <th>Cf.gov Page</th>
-      <th>Mobile scores</th>
-      <th>Desktop scores</th>
-      <th>Reports</th>
+      <th>MOBILE REPORT</th>
+      <th>DESKTOP REPORT</th>
+      <th>HISTORY</th>
     </tr>
   </thead>
   <tbody>
@@ -27,42 +27,58 @@
       <td>
         <ul class="m-list m-list__unstyled">
           {% for metric, score in page.reports.get( report ).summary -%}
-          <li class="m-list_item">
 
-            {# Error icon for less than 50% pass rate. #}
-            {% if score < 0.5 %}
-            <svg class="u-fill-red cf-icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm261.8 692.2c19.4 19.6 19.3 51.3-.3 70.7-19.5 19.3-50.9 19.3-70.4 0L499.6 676.6 308 868.1c-19.6 19.4-51.3 19.3-70.7-.3-19.3-19.5-19.3-50.9 0-70.4l191.6-191.5-191.6-191.6c-19.3-19.8-18.9-51.4.9-70.7 19.4-18.9 50.4-18.9 69.8 0l191.6 191.5 191.5-191.5c19.6-19.4 51.3-19.3 70.7.3 19.3 19.5 19.3 50.9 0 70.4L570.3 605.9l191.5 191.5z"></path></svg>
+          {# Skip PWA #}
+          {% if metric != 'pwa' %}
+
+            <li class="m-list_item">
+
+              {% set metric_display = metric %}
+
+              {% if metric == 'seo' %}
+                {% set metric_display = metric | upper %}
+              {% elif metric == 'best-practices' %}
+                {% set metric_display = 'Best practices' %}
+              {% else %}
+                {% set metric_display = metric | capitalize %}
+              {% endif %}
+
+              {% set report_link = page.reports.get( report ).jsonPath + '#' + metric %}
+              <a class="u-unstyled-link report-link" target="_blank" href="{{ report_link }}">
+                {{ metric_display }} <strong>{{ ( score * 100 ) | round }}</strong>
+              </a>
+
+              {# Error icon for less than 50% pass rate. #}
+              {% if score < 0.5 %}
+              <svg class="u-fill-red cf-icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm261.8 692.2c19.4 19.6 19.3 51.3-.3 70.7-19.5 19.3-50.9 19.3-70.4 0L499.6 676.6 308 868.1c-19.6 19.4-51.3 19.3-70.7-.3-19.3-19.5-19.3-50.9 0-70.4l191.6-191.5-191.6-191.6c-19.3-19.8-18.9-51.4.9-70.7 19.4-18.9 50.4-18.9 69.8 0l191.6 191.5 191.5-191.5c19.6-19.4 51.3-19.3 70.7.3 19.3 19.5 19.3 50.9 0 70.4L570.3 605.9l191.5 191.5z"></path></svg>
+              {% endif %}
+
+              {# Warning icon for between 50% and 90% pass rate. #}
+              {% if score >= 0.5 and score < 0.9 %}
+              <svg class="u-fill-gold cf-icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm-49.7 234.6c0-27.6 22.4-50 50-50s50 22.4 50 50v328.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V339.8zm50 582.5c-39.6 0-71.7-32.1-71.7-71.7s32.1-71.7 71.7-71.7S572 811 572 850.6s-32.1 71.7-71.7 71.7z"></path></svg>
+              {% endif %}
+
+            </li>
             {% endif %}
-
-            {# Warning icon for between 50% and 90% pass rate. #}
-            {% if score >= 0.5 and score < 0.9 %}
-            <svg class="u-fill-gold cf-icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm-49.7 234.6c0-27.6 22.4-50 50-50s50 22.4 50 50v328.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V339.8zm50 582.5c-39.6 0-71.7-32.1-71.7-71.7s32.1-71.7 71.7-71.7S572 811 572 850.6s-32.1 71.7-71.7 71.7z"></path></svg>
-            {% endif %}
-
-            {# Success icon for between 50% and 90% pass rate.
-               This icon is visually hidden,
-               but included to occupy space in the layout. #}
-            {% if score >= 0.9 %}
-            <svg class="u-transparent cf-icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"></path></svg>
-            {% endif %}
-
-            <strong>{{ ( score * 100 ) | round }}</strong> {{ metric | capitalize }}
-          </li>
           {% endfor %}
         </ul>
+
+        <div>
+          <a target="_blank"
+             class="report-link"
+             href="{{ page.reports.get( report ).jsonPath }}">
+            View full {{ report }} report
+          </a>
+        </div>
+
       </td>
       {% endfor %}
       <td>
-        {% for report in reports %}
-        <div>
-          <a
-            class="report-link"
-            href="{{ page.reports.get( report ).jsonPath }}"
-          >
-            View {{ report }} report
-          </a>
-        </div>
-        {% endfor %}
+        <a class="report-link"
+           href="#">
+          View report history
+          (coming soon)
+        </a>
       </td>
     </tr>
     {% endfor %}
