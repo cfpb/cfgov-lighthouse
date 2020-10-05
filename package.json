@@ -5,10 +5,12 @@
     "clean": "rm -rf ./docs/static",
     "compile-dev": "webpack --mode=development",
     "compile-prod": "webpack --mode=production",
+    "index": "node scripts/main.js",
     "lighthouse": "lhci collect && lhci collect --additive --mobile && lhci upload",
     "lint": "eslint --max-warnings=0 lighthouserc.js src webpack.config.js",
     "serve": "concurrently \"yarn serve-html\" \"yarn compile-dev --watch\"",
-    "serve-html": "http-server docs --cors"
+    "serve-html": "http-server docs --cors",
+    "test": "ava test/*.js --verbose"
   },
   "devDependencies": {
     "@babel/core": "7.11.6",
@@ -24,8 +26,9 @@
     "nunjucks": "^3.2.2",
     "nunjucks-date-filter": "^0.1.1",
     "nunjucks-webpack-plugin": "^5.0.0",
-    "webpack": "4.44.2",
-    "webpack-cli": "^3.3.12"
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12",
+    "winston": "^3.3.3"
   },
   "dependencies": {
     "@cfpb/cfpb-layout": "^0.3.0",

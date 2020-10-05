@@ -45,17 +45,4 @@ function getUrls( baseUrl, mobile ) {
   } );
 }
 
-/**
- * Remove any mobile testing decoration from a Lighthouse report URL.
- * @param {string} url URL from Lighthouse report.
- * @returns {string} URL without any mobile testing decoration.
- **/
-function getCleanedUrl( url ) {
-  const cleanedUrl = new URL( url );
-
-  cleanedUrl.searchParams.delete( MOBILE_QUERY_STRING_PARAM );
-
-  return cleanedUrl.href;
-}
-
-module.exports = { getCleanedUrl, getUrls };
+module.exports = { getUrls };
