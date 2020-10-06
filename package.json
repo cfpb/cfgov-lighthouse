@@ -11,23 +11,24 @@
     "serve-html": "http-server docs --cors"
   },
   "devDependencies": {
-    "@babel/core": "^7.11.1",
-    "@lhci/cli": "^0.4.4",
+    "@babel/core": "7.11.6",
+    "@lhci/cli": "0.5.0",
     "babel-loader": "^8.1.0",
     "concurrently": "^5.3.0",
-    "css-loader": "^4.2.1",
-    "eslint": "^7.7.0",
+    "css-loader": "4.3.0",
+    "eslint": "7.10.0",
     "http-server": "^0.12.3",
-    "less-loader": "^6.2.0",
-    "mini-css-extract-plugin": "^0.10.0",
+    "less": "^3.5.0",
+    "less-loader": "7.0.1",
+    "mini-css-extract-plugin": "0.11.3",
     "nunjucks": "^3.2.2",
     "nunjucks-date-filter": "^0.1.1",
     "nunjucks-webpack-plugin": "^5.0.0",
-    "webpack": "^4.44.1",
+    "webpack": "4.44.2",
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
     "@cfpb/cfpb-layout": "^0.3.0",
-    "@cfpb/cfpb-typography": "^0.3.0"
+    "@cfpb/cfpb-typography": "0.3.2"
   }
 }
