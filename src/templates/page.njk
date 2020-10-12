@@ -2,25 +2,29 @@
 
 {% block body %}
 <header>
-<h1>Lighthouse report summary</h1>
+<h1>Lighthouse report history</h1>
 
-<h2>{{ date | replace( "_", "-") | date( "MMM. D, YYYY" ) }}</h2>
+<h2>
+  <a class="u-unstyled-link" target="_blank" href="{{ url }}">
+    {{ url }}
+  </a>
+</h2>
 </header>
 
 <table class="cfpblh-table">
   <thead>
     <tr>
-      <th>Cf.gov Page</th>
+      <th>DATE</th>
       <th>MOBILE REPORT</th>
       <th>DESKTOP REPORT</th>
       <th>REPORTS</th>
     </tr>
   </thead>
   <tbody>
-    {% for page, results in summaryReport | dictsort %}
+    {% for date, results in summaryReport | dictsort | reverse %}
     <tr>
       <td>
-        <a href="{{ results.url }}">{{ results.url }}</a>
+        {{ date | replace( "_", "-") | date( "MMM. D, YYYY" ) }}
       </td>
       <td>
         <ul class="m-list m-list__unstyled">
@@ -46,14 +50,6 @@
             </a>
           </li>
         </ul>
-
-        <div>
-          <a target="_blank"
-             class="report-link"
-             href="{{ results.mobile.jsonPath }}">
-            View full mobile report
-          </a>
-        </div>
       </td>
       <td>
         <ul class="m-list m-list__unstyled">
@@ -79,19 +75,24 @@
             </a>
           </li>
         </ul>
-
-        <div>
-          <a target="_blank"
-             class="report-link"
-             href="{{ results.desktop.jsonPath }}">
-            View full mobile report
-          </a>
-        </div>
       </td>
       <td>
-        <a href="/{{page}}">
-          View report history
-        </a>
+        <ul class="m-list m-list__unstyled">
+          <li class="m-list_item">
+            <a target="_blank"
+              class="report-link"
+              href="{{ results.mobile.jsonPath }}">
+              View mobile report
+            </a>
+          </li>
+          <li class="m-list_item">
+            <a target="_blank"
+              class="report-link"
+              href="{{ results.desktop.jsonPath }}">
+              View desktop report
+            </a>
+          </li>
+        </ul>
       </td>
     </tr>
     {% endfor %}

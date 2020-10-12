@@ -2,7 +2,7 @@ const path = require( 'path' );
 const { promises: fs } = require( 'fs' );
 
 // Location where the reports are stored, organized by timestamp
-const REPORTS_ROOT = path.resolve( __dirname, '../docs/reports' );
+const REPORTS_ROOT = path.resolve( __dirname, '../../docs/reports' );
 
 /**
  * Get list of Lighthouse report manifest locations.
@@ -47,7 +47,7 @@ function getManifestRuns( manifest ) {
 /**
  * Get the local location of a run's JSON. The manifest files store
  * their locations relative to GitHub Action's filesystem.
- * @param {String} Lighthouse run's JSON path from its manifest file.
+ * @param {String} jsonPath Lighthouse run's JSON path from its manifest file.
  * @returns {String} Local location of run's JSON.
  */
 function getRunLocation( jsonPath ) {
@@ -67,13 +67,16 @@ async function deleteRun( runFile ) {
 }
 
 /**
- * Clean up a list of runs and add useful metadata.
+ * Given a list of Lighthouse run data, pull out the useful info and return
+ * a better-organized array.
  * @param {Array} runs List of Lighthouse runs.
  * @returns {Array} List of Lighthouse runs with additional metadata.
  */
 function processManifestRuns( runs ) {
   return runs.map( run => {
     const runFilename = path.basename( run.jsonPath );
+    const runDirectory = path.basename( path.dirname( run.jsonPath ) );
+    // Report filenames are in the format: URL_YYYY_MM_DD_HH_MM_SS.report.json
     const details = runFilename.match( /(.+)_\-(\d\d\d\d_\d\d_\d\d)_\d\d_\d\d_\d\d\.report\.json/ );
     const slug = details[1];
     const date = details[2];
@@ -81,7 +84,7 @@ function processManifestRuns( runs ) {
       slug,
       date,
       url: run.url.replace( '?mobile=1', '' ),
-      jsonPath: run.jsonPath,
+      jsonPath: `${ runDirectory }/${ runFilename }`,
       formFactor: run.url.includes( '?mobile=1' ) ? 'mobile' : 'desktop',
       summary: run.summary
     };
@@ -100,15 +103,15 @@ function buildIndex( runs, index = { dates: {}, pages: {}} ) {
   const reducer = ( index, run ) => {
     index.dates[run.date] = index.dates[run.date] || {};
     index.dates[run.date][run.slug] = index.dates[run.date][run.slug] || {};
+    index.dates[run.date][run.slug].url = run.url;
     index.dates[run.date][run.slug][run.formFactor] = {
-      url: run.url,
       jsonPath: run.jsonPath,
       summary: run.summary
     };
     index.pages[run.slug] = index.pages[run.slug] || {};
     index.pages[run.slug][run.date] = index.pages[run.slug][run.date] || {};
+    index.pages[run.slug][run.date].url = run.url;
     index.pages[run.slug][run.date][run.formFactor] = {
-      url: run.url,
       jsonPath: run.jsonPath,
       summary: run.summary
     };

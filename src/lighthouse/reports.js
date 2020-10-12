@@ -1,7 +1,7 @@
 const fs = require( 'fs' );
 const path = require( 'path' );
 
-const { getCleanedUrl } = require( '../../scripts/urls' );
+const { getCleanedUrl } = require( '../../scripts/lib/urls' );
 
 const REPORTS_ROOT = path.resolve( __dirname, '../../docs/reports' );
 
