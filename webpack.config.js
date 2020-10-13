@@ -64,7 +64,6 @@ function buildReportPlugin( reports ) {
   );
 }
 
-// console.log(JSON.stringify(buildReportPlugin(reports)));
 module.exports = ( env, argv ) => {
 
   const config = {

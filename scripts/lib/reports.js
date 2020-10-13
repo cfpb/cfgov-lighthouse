@@ -84,7 +84,7 @@ function processManifestRuns( runs ) {
       slug,
       date,
       url: run.url.replace( '?mobile=1', '' ),
-      jsonPath: `reports/${ runDirectory }/${ runFilename }`,
+      jsonPath: `${ runDirectory }/${ runFilename }`,
       formFactor: run.url.includes( '?mobile=1' ) ? 'mobile' : 'desktop',
       summary: run.summary
     };
