@@ -30,7 +30,7 @@ function getPageTemplates( reports ) {
       from: './src/templates/page.njk',
       to: `${ slug }/index.html`,
       context: {
-        url: summary[Object.keys( summary )[0]].mobile.url,
+        url: summary[Object.keys( summary )[0]].url,
         summaryReport: summary
       }
     } );
