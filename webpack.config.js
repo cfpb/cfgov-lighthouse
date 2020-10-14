@@ -8,10 +8,10 @@ const MiniCssExtractPlugin = require( 'mini-css-extract-plugin' );
 const NunjucksWebpackPlugin = require( 'nunjucks-webpack-plugin' );
 
 // eslint-disable-next-line no-sync
-const reports = JSON.parse( fs.readFileSync( path.resolve( 'docs/reports.json' ) ) );
+const allReports = JSON.parse( fs.readFileSync( path.resolve( 'docs/reports.json' ) ) );
 
-const mostRecentDate = Object.keys( reports.dates ).pop();
-const mostRecentReport = reports.dates[mostRecentDate];
+const mostRecentDate = Object.keys( allReports.dates ).pop();
+const mostRecentReport = allReports.dates[mostRecentDate];
 
 const nunjucksEnvironment = nunjucks.configure();
 nunjucksEnvironment.addFilter( 'date', nunjucksDateFilter );
@@ -81,7 +81,7 @@ module.exports = ( env, argv ) => {
           filename: 'static/css/[name].css'
         }
       ),
-      buildReportPlugin( reports )
+      buildReportPlugin( allReports )
     ],
     module: {
       rules: [
