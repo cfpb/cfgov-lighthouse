@@ -28,7 +28,6 @@
       <th>DATE</th>
       <th>MOBILE REPORT</th>
       <th>DESKTOP REPORT</th>
-      <th>REPORTS</th>
     </tr>
   </thead>
   <tbody>
@@ -61,6 +60,13 @@
             </a>
           </li>
         </ul>
+        <div>
+          <a target="_blank"
+             class="report-link"
+             href="../reports/{{ results.mobile.jsonPath }}">
+            View full mobile report
+          </a>
+        </div>
       </td>
       <td>
         <ul class="m-list m-list__unstyled">
@@ -86,24 +92,13 @@
             </a>
           </li>
         </ul>
-      </td>
-      <td>
-        <ul class="m-list m-list__unstyled">
-          <li class="m-list_item">
-            <a target="_blank"
-              class="report-link"
-              href="../reports/{{ results.mobile.jsonPath }}">
-              View mobile report
-            </a>
-          </li>
-          <li class="m-list_item">
-            <a target="_blank"
-              class="report-link"
-              href="../reports/{{ results.desktop.jsonPath }}">
-              View desktop report
-            </a>
-          </li>
-        </ul>
+        <div>
+          <a target="_blank"
+             class="report-link"
+             href="../reports/{{ results.desktop.jsonPath }}">
+            View full desktop report
+          </a>
+        </div>
       </td>
     </tr>
     {% endfor %}
