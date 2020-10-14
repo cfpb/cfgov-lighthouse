@@ -42,7 +42,7 @@ function getPageTemplates( reports ) {
  * Create plugin to generate HTML files using Nunjucks templates. Plugin will
  * generate a Lighthouse summary HTML file for each subdirectory under
  * ./docs/reports, plus an index.html that links to each of those summary files.
- * @param {Object}
+ * @param {Object} reports All the Lighthouse reports read from reports.json.
  * @returns {NunjucksWebpackPlugin} Webpack plugin to create HTML files.
  */
 function buildReportPlugin( reports ) {

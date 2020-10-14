@@ -1,3 +1,8 @@
+/**
+ * Custom Nunjucks filter that returns an SVG icon for the Lighthouse scores.
+ * @param {Number} score Lighthouse score between 0 and 1.
+ * @returns {String} SVG icon (or empty string)
+ */
 function scoreIcon( score ) {
   let icon = '';
   if ( score < 0.5 ) {

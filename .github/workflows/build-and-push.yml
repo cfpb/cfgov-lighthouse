@@ -13,6 +13,8 @@ jobs:
 
       - run: yarn
 
+      - run: yarn index-reports
+
       - run: yarn build
 
       - name: Commit site back to GitHub

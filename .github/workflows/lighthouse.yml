@@ -16,7 +16,7 @@ jobs:
 
       - run: yarn lighthouse
 
-      - run: yarn build
+      - run: yarn index-reports
 
       - name: Commit reports and site back to GitHub
         uses: EndBug/add-and-commit@v4

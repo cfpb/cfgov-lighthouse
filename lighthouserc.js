@@ -1,7 +1,7 @@
 const path = require( 'path' );
 
-const { REPORTS_ROOT } = require( './scripts/reports' );
-const { getUrls } = require( './scripts/urls' );
+const { REPORTS_ROOT } = require( './scripts/lib/reports' );
+const { getUrls } = require( './scripts/lib/urls' );
 
 // eslint-disable-next-line no-process-env
 const baseUrl = process.env.BASE_URL || 'https://www.consumerfinance.gov';
