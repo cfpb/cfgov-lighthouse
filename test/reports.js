@@ -30,7 +30,7 @@ test( 'Read a manifest', async t => {
 
 test( 'Delete a run file', async t => {
   const reallyCoolRun = path.resolve( __dirname, 'fixtures/sample-reports/2020-09-29T00:56:16.943Z/temp-run-file.json' );
-  await fs.writeFile( reallyCoolRun );
+  await fs.writeFile( reallyCoolRun, '' );
   await t.notThrowsAsync( fs.readFile( reallyCoolRun ), 'The fake temporary run file should have been created.' );
   await deleteRun( reallyCoolRun );
   await t.throwsAsync( fs.readFile( reallyCoolRun ), { code: 'ENOENT' }, 'The fake temporary run file should have been deleted.' );
