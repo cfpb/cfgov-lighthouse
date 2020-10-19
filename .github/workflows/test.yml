@@ -1,0 +1,25 @@
+name: Lint, test and verify build
+
+on: pull_request
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install dependencies with Yarn
+        run: yarn
+
+      - name: Lint source files
+        run: yarn lint
+
+      - name: Run unit tests
+        run: yarn test
+
+      - name: Index all the Lighthouse reports and generate reports.json
+        run: yarn index-reports
+
+      - name: Verify the static website builds without errors
+        run: yarn build

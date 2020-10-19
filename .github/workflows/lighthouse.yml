@@ -12,11 +12,17 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - run: yarn
+      - name: Install dependencies with Yarn
+        run: yarn
 
-      - run: yarn lighthouse
+      - name: Run Lighthouse CLI against specified cf.gov pages
+        run: yarn lighthouse
 
-      - run: yarn index-reports
+      - name: Index all the Lighthouse reports and generate reports.json
+        run: yarn index-reports
+
+      - name: Build the static website
+        run: yarn build
 
       - name: Commit reports and site back to GitHub
         uses: EndBug/add-and-commit@v4
