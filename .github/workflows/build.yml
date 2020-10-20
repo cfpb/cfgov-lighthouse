@@ -19,6 +19,8 @@ jobs:
 
       - name: Build the static website
         run: yarn build
+        env:
+          LIGHTHOUSE_RELATIVE_URL: /cfgov-lighthouse
 
       - name: Commit site back to GitHub
         uses: EndBug/add-and-commit@v4
