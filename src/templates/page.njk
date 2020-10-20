@@ -1,0 +1,107 @@
+{% extends "./base.njk" %}
+
+{% block body %}
+<header>
+
+<nav class="u-mb30" aria-label="Breadcrumbs">
+    <a href="../">
+        <svg class="cf-icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 559.6 1200">
+            <path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"></path>
+        </svg>
+        <span class="a-link_text">Lighthouse report summary</span>
+    </a>
+</nav>
+
+<h1>Lighthouse report history</h1>
+
+<h2>
+  <a class="u-unstyled-link" target="_blank" href="{{ url }}">
+    {{ url }}
+  </a>
+</h2>
+
+</header>
+
+<table class="cfpblh-table">
+  <thead>
+    <tr>
+      <th>DATE</th>
+      <th>MOBILE REPORT</th>
+      <th>DESKTOP REPORT</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for date, results in summaryReport | dictsort | reverse %}
+    <tr>
+      <td>
+        {{ date | replace( "_", "-") | date( "MMM. D, YYYY" ) }}
+      </td>
+      <td>
+        <ul class="m-list m-list__unstyled">
+          <li class="m-list_item">
+            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.mobile.jsonPath }}#performance">
+              Performance <strong>{{ ( results.mobile.summary.performance * 100 ) | round }}</strong>
+            </a>
+            {{ results.mobile.summary.performance | scoreIcon | safe }}
+          </li>
+          <li class="m-list_item">
+            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.mobile.jsonPath }}#accessibility">
+              Accessibility <strong>{{ ( results.mobile.summary.accessibility * 100 ) | round }}</strong>
+            </a>
+          </li>
+          <li class="m-list_item">
+            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.mobile.jsonPath }}#best-practices">
+              Best practices <strong>{{ ( results.mobile.summary["best-practices"] * 100 ) | round }}</strong>
+            </a>
+          </li>
+          <li class="m-list_item">
+            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.mobile.jsonPath }}#seo">
+              SEO <strong>{{ ( results.mobile.summary.seo * 100 ) | round }}</strong>
+            </a>
+          </li>
+        </ul>
+        <div>
+          <a target="_blank"
+             class="report-link"
+             href="../reports/{{ results.mobile.jsonPath }}">
+            View full mobile report
+          </a>
+        </div>
+      </td>
+      <td>
+        <ul class="m-list m-list__unstyled">
+          <li class="m-list_item">
+            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.desktop.jsonPath }}#performance">
+              Performance <strong>{{ ( results.desktop.summary.performance * 100 ) | round }}</strong>
+            </a>
+            {{ results.desktop.summary.performance | scoreIcon | safe }}
+          </li>
+          <li class="m-list_item">
+            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.desktop.jsonPath }}#accessibility">
+              Accessibility <strong>{{ ( results.desktop.summary.accessibility * 100 ) | round }}</strong>
+            </a>
+          </li>
+          <li class="m-list_item">
+            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.desktop.jsonPath }}#best-practices">
+              Best practices <strong>{{ ( results.desktop.summary["best-practices"] * 100 ) | round }}</strong>
+            </a>
+          </li>
+          <li class="m-list_item">
+            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.desktop.jsonPath }}#seo">
+              SEO <strong>{{ ( results.desktop.summary.seo * 100 ) | round }}</strong>
+            </a>
+          </li>
+        </ul>
+        <div>
+          <a target="_blank"
+             class="report-link"
+             href="../reports/{{ results.desktop.jsonPath }}">
+            View full desktop report
+          </a>
+        </div>
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+{% endblock %}

@@ -4,7 +4,7 @@
 <header>
 <h1>Lighthouse report summary</h1>
 
-<h2>{{ summaryReport.timestampString | date( "MMM. D, YYYY" ) }}</h2>
+<h2>{{ date | replace( "_", "-") | date( "MMM. D, YYYY" ) }}</h2>
 </header>
 
 <table class="cfpblh-table">
@@ -13,75 +13,85 @@
       <th>Cf.gov Page</th>
       <th>MOBILE REPORT</th>
       <th>DESKTOP REPORT</th>
-      <th>HISTORY</th>
+      <th>REPORTS</th>
     </tr>
   </thead>
   <tbody>
-    {% for page in summaryReport.pages %}
+    {% for page, results in summaryReport | dictsort %}
     <tr>
       <td>
-        <a href="{{ page.url.href }}">{{ page.url.pathname }}</a>
+        <a href="{{ results.url }}">{{ results.url }}</a>
       </td>
-      {% set reports = ['mobile', 'desktop'] %}
-      {% for report in reports %}
       <td>
         <ul class="m-list m-list__unstyled">
-          {% for metric, score in page.reports.get( report ).summary -%}
-
-          {# Skip PWA #}
-          {% if metric != 'pwa' %}
-
-            <li class="m-list_item">
-
-              {% set metric_display = metric %}
-
-              {% if metric == 'seo' %}
-                {% set metric_display = metric | upper %}
-              {% elif metric == 'best-practices' %}
-                {% set metric_display = 'Best practices' %}
-              {% else %}
-                {% set metric_display = metric | capitalize %}
-              {% endif %}
-
-              {% set report_link = page.reports.get( report ).jsonPath + '#' + metric %}
-              <a class="u-unstyled-link report-link" target="_blank" href="{{ report_link }}">
-                {{ metric_display }} <strong>{{ ( score * 100 ) | round }}</strong>
-              </a>
-
-              {# Error icon for less than 50% pass rate. #}
-              {% if score < 0.5 %}
-              <svg class="u-fill-red cf-icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm261.8 692.2c19.4 19.6 19.3 51.3-.3 70.7-19.5 19.3-50.9 19.3-70.4 0L499.6 676.6 308 868.1c-19.6 19.4-51.3 19.3-70.7-.3-19.3-19.5-19.3-50.9 0-70.4l191.6-191.5-191.6-191.6c-19.3-19.8-18.9-51.4.9-70.7 19.4-18.9 50.4-18.9 69.8 0l191.6 191.5 191.5-191.5c19.6-19.4 51.3-19.3 70.7.3 19.3 19.5 19.3 50.9 0 70.4L570.3 605.9l191.5 191.5z"></path></svg>
-              {% endif %}
-
-              {# Warning icon for between 50% and 90% pass rate. #}
-              {% if score >= 0.5 and score < 0.9 %}
-              <svg class="u-fill-gold cf-icon-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm-49.7 234.6c0-27.6 22.4-50 50-50s50 22.4 50 50v328.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V339.8zm50 582.5c-39.6 0-71.7-32.1-71.7-71.7s32.1-71.7 71.7-71.7S572 811 572 850.6s-32.1 71.7-71.7 71.7z"></path></svg>
-              {% endif %}
-
-            </li>
-            {% endif %}
-          {% endfor %}
+          <li class="m-list_item">
+            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.mobile.jsonPath }}#performance">
+              Performance <strong>{{ ( results.mobile.summary.performance * 100 ) | round }}</strong>
+            </a>
+            {{ results.mobile.summary.performance | scoreIcon | safe }}
+          </li>
+          <li class="m-list_item">
+            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.mobile.jsonPath }}#accessibility">
+              Accessibility <strong>{{ ( results.mobile.summary.accessibility * 100 ) | round }}</strong>
+            </a>
+          </li>
+          <li class="m-list_item">
+            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.mobile.jsonPath }}#best-practices">
+              Best practices <strong>{{ ( results.mobile.summary["best-practices"] * 100 ) | round }}</strong>
+            </a>
+          </li>
+          <li class="m-list_item">
+            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.mobile.jsonPath }}#seo">
+              SEO <strong>{{ ( results.mobile.summary.seo * 100 ) | round }}</strong>
+            </a>
+          </li>
         </ul>
 
         <div>
           <a target="_blank"
              class="report-link"
-             href="{{ page.reports.get( report ).jsonPath }}">
-            View full {{ report }} report
+             href="reports/{{ results.mobile.jsonPath }}">
+            View full mobile report
           </a>
         </div>
-
       </td>
-      {% endfor %}
       <td>
-        <em>not available</em>
-        <!-- TODO: Add history reports.
-        <a class="report-link"
-           href="#">
+        <ul class="m-list m-list__unstyled">
+          <li class="m-list_item">
+            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.desktop.jsonPath }}#performance">
+              Performance <strong>{{ ( results.desktop.summary.performance * 100 ) | round }}</strong>
+            </a>
+            {{ results.desktop.summary.performance | scoreIcon | safe }}
+          </li>
+          <li class="m-list_item">
+            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.desktop.jsonPath }}#accessibility">
+              Accessibility <strong>{{ ( results.desktop.summary.accessibility * 100 ) | round }}</strong>
+            </a>
+          </li>
+          <li class="m-list_item">
+            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.desktop.jsonPath }}#best-practices">
+              Best practices <strong>{{ ( results.desktop.summary["best-practices"] * 100 ) | round }}</strong>
+            </a>
+          </li>
+          <li class="m-list_item">
+            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.desktop.jsonPath }}#seo">
+              SEO <strong>{{ ( results.desktop.summary.seo * 100 ) | round }}</strong>
+            </a>
+          </li>
+        </ul>
+
+        <div>
+          <a target="_blank"
+             class="report-link"
+             href="reports/{{ results.desktop.jsonPath }}">
+            View full mobile report
+          </a>
+        </div>
+      </td>
+      <td>
+        <a href="/{{page}}">
           View report history
-          (coming soon)
         </a>
-        -->
       </td>
     </tr>
     {% endfor %}

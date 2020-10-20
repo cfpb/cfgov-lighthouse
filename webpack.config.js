@@ -2,41 +2,50 @@ const fs = require( 'fs' );
 const nunjucks = require( 'nunjucks' );
 const nunjucksDateFilter = require( 'nunjucks-date-filter' );
 const path = require( 'path' );
+const filters = require( './scripts/lib/filters' );
 
 const MiniCssExtractPlugin = require( 'mini-css-extract-plugin' );
 const NunjucksWebpackPlugin = require( 'nunjucks-webpack-plugin' );
 
-const {
-  LighthouseSummaryReport,
-  REPORTS_ROOT
-} = require( './src/lighthouse/reports' );
+// eslint-disable-next-line no-sync
+const allReports = JSON.parse( fs.readFileSync( path.resolve( 'docs/reports.json' ) ) );
 
-const cleanUpRuns = require( './src/lighthouse/cleanup' );
+const mostRecentDate = Object.keys( allReports.dates ).pop();
+const mostRecentReport = allReports.dates[mostRecentDate];
+
+const nunjucksEnvironment = nunjucks.configure();
+nunjucksEnvironment.addFilter( 'date', nunjucksDateFilter );
+
+nunjucksEnvironment.addFilter( 'scoreIcon', filters.scoreIcon );
+
+/**
+ * Get a list of all the pages and their report data for Webpack to templatize.
+ * @param {Object} reports Lighthouse reports organized by cf.gov page slug and date.
+ * @returns {Array} List of templates to pass to nunjucks webpack plugin.
+ */
+function getPageTemplates( reports ) {
+  const templates = [];
+  for ( const [ slug, summary ] of Object.entries( reports.pages ) ) {
+    templates.push( {
+      from: './src/templates/page.njk',
+      to: `${ slug }/index.html`,
+      context: {
+        url: summary[Object.keys( summary )[0]].url,
+        summaryReport: summary
+      }
+    } );
+  }
+  return templates;
+}
 
 /**
  * Create plugin to generate HTML files using Nunjucks templates. Plugin will
  * generate a Lighthouse summary HTML file for each subdirectory under
  * ./docs/reports, plus an index.html that links to each of those summary files.
- *
+ * @param {Object} reports All the Lighthouse reports read from reports.json.
  * @returns {NunjucksWebpackPlugin} Webpack plugin to create HTML files.
  */
-function buildReportPlugin() {
-  // eslint-disable-next-line no-sync
-  const timestamps = fs
-    .readdirSync( REPORTS_ROOT, { withFileTypes: true } )
-    .filter( dirent => dirent.isDirectory() )
-    .map( dirent => dirent.name )
-    .sort();
-
-  const latestTimestamp = timestamps[timestamps.length - 1];
-
-  const summaryReport = new LighthouseSummaryReport( latestTimestamp );
-
-  cleanUpRuns( summaryReport );
-
-  const nunjucksEnvironment = nunjucks.configure();
-  nunjucksEnvironment.addFilter( 'date', nunjucksDateFilter );
-
+function buildReportPlugin( reports ) {
   return new NunjucksWebpackPlugin(
     {
       templates: [
@@ -44,15 +53,16 @@ function buildReportPlugin() {
           from: './src/templates/index.njk',
           to: 'index.html',
           context: {
-            summaryReport: summaryReport
+            date: mostRecentDate,
+            summaryReport: mostRecentReport
           }
-        }
+        },
+        ...getPageTemplates( reports )
       ],
       configure: nunjucksEnvironment
     }
   );
 }
-
 
 module.exports = ( env, argv ) => {
 
@@ -71,7 +81,7 @@ module.exports = ( env, argv ) => {
           filename: 'static/css/[name].css'
         }
       ),
-      buildReportPlugin()
+      buildReportPlugin( allReports )
     ],
     module: {
       rules: [
