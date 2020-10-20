@@ -7,6 +7,10 @@ const filters = require( './scripts/lib/filters' );
 const MiniCssExtractPlugin = require( 'mini-css-extract-plugin' );
 const NunjucksWebpackPlugin = require( 'nunjucks-webpack-plugin' );
 
+// eslint-disable-next-line no-process-env
+const LIGHTHOUSE_RELATIVE_URL = process.env.LIGHTHOUSE_RELATIVE_URL || '';
+const STATIC_ASSETS_PATH = `${ LIGHTHOUSE_RELATIVE_URL }/static`;
+
 // eslint-disable-next-line no-sync
 const allReports = JSON.parse( fs.readFileSync( path.resolve( 'docs/reports.json' ) ) );
 
@@ -30,6 +34,7 @@ function getPageTemplates( reports ) {
       from: './src/templates/page.njk',
       to: `${ slug }/index.html`,
       context: {
+        STATIC_ASSETS_PATH,
         url: summary[Object.keys( summary )[0]].url,
         summaryReport: summary
       }
@@ -53,6 +58,7 @@ function buildReportPlugin( reports ) {
           from: './src/templates/index.njk',
           to: 'index.html',
           context: {
+            STATIC_ASSETS_PATH,
             date: mostRecentDate,
             summaryReport: mostRecentReport
           }
