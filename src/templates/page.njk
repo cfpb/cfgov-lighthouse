@@ -22,12 +22,22 @@
 
 </header>
 
+{% set factors = [ 'mobile', 'desktop' ] -%}
+
+{% set categories = [
+  [ 'Performance', 'performance' ],
+  [ 'Accessibility', 'accessibility' ],
+  [ 'Best practices', 'best-practices' ],
+  [ 'SEO', 'seo' ]
+] -%}
+
 <table class="cfpblh-table">
   <thead>
     <tr>
       <th>DATE</th>
-      <th>MOBILE REPORT</th>
-      <th>DESKTOP REPORT</th>
+      {% for factor in factors %}
+        <th>{{ factor | upper }} REPORT</th>
+      {% endfor %}
     </tr>
   </thead>
   <tbody>
@@ -36,70 +46,25 @@
       <td>
         {{ date | replace( "_", "-") | date( "MMM. D, YYYY" ) }}
       </td>
+      {% for factor in factors %}
       <td>
         <ul class="m-list m-list__unstyled">
+          {% for name, slug in categories %}
           <li class="m-list_item">
-            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.mobile.jsonPath }}#performance">
-              Performance <strong>{{ ( results.mobile.summary.performance * 100 ) | round }}</strong>
-            </a>
-            {{ results.mobile.summary.performance | scoreIcon | safe }}
+            {{ name }} <strong>{{ ( results[ factor ].summary[ slug ] * 100 ) | round }}</strong>
+            {{ results[ factor ].summary[ slug ] | scoreIcon | safe }}
           </li>
-          <li class="m-list_item">
-            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.mobile.jsonPath }}#accessibility">
-              Accessibility <strong>{{ ( results.mobile.summary.accessibility * 100 ) | round }}</strong>
-            </a>
-          </li>
-          <li class="m-list_item">
-            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.mobile.jsonPath }}#best-practices">
-              Best practices <strong>{{ ( results.mobile.summary["best-practices"] * 100 ) | round }}</strong>
-            </a>
-          </li>
-          <li class="m-list_item">
-            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.mobile.jsonPath }}#seo">
-              SEO <strong>{{ ( results.mobile.summary.seo * 100 ) | round }}</strong>
-            </a>
-          </li>
+          {% endfor %}
         </ul>
         <div>
           <a target="_blank"
              class="report-link"
-             href="../reports/{{ results.mobile.jsonPath }}">
-            View full mobile report
+             href="../reports/{{ results[ factor ].jsonPath }}">
+            View full {{ factor }} report
           </a>
         </div>
       </td>
-      <td>
-        <ul class="m-list m-list__unstyled">
-          <li class="m-list_item">
-            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.desktop.jsonPath }}#performance">
-              Performance <strong>{{ ( results.desktop.summary.performance * 100 ) | round }}</strong>
-            </a>
-            {{ results.desktop.summary.performance | scoreIcon | safe }}
-          </li>
-          <li class="m-list_item">
-            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.desktop.jsonPath }}#accessibility">
-              Accessibility <strong>{{ ( results.desktop.summary.accessibility * 100 ) | round }}</strong>
-            </a>
-          </li>
-          <li class="m-list_item">
-            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.desktop.jsonPath }}#best-practices">
-              Best practices <strong>{{ ( results.desktop.summary["best-practices"] * 100 ) | round }}</strong>
-            </a>
-          </li>
-          <li class="m-list_item">
-            <a class="u-unstyled-link report-link" target="_blank" href="{{ results.desktop.jsonPath }}#seo">
-              SEO <strong>{{ ( results.desktop.summary.seo * 100 ) | round }}</strong>
-            </a>
-          </li>
-        </ul>
-        <div>
-          <a target="_blank"
-             class="report-link"
-             href="../reports/{{ results.desktop.jsonPath }}">
-            View full desktop report
-          </a>
-        </div>
-      </td>
+      {% endfor %}
     </tr>
     {% endfor %}
   </tbody>
