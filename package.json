@@ -13,13 +13,13 @@
     "test": "ava test/*.js --verbose"
   },
   "devDependencies": {
-    "@babel/core": "7.12.3",
+    "@babel/core": "7.12.7",
     "@lhci/cli": "0.6.1",
     "ava": "^3.13.0",
     "babel-loader": "8.2.1",
     "concurrently": "^5.3.0",
     "css-loader": "5.0.1",
-    "eslint": "7.13.0",
+    "eslint": "7.14.0",
     "http-server": "^0.12.3",
     "less": "^3.5.0",
     "less-loader": "7.1.0",
@@ -27,12 +27,12 @@
     "nunjucks": "^3.2.2",
     "nunjucks-date-filter": "^0.1.1",
     "nunjucks-webpack-plugin": "^5.0.0",
-    "webpack": "5.4.0",
+    "webpack": "5.6.0",
     "webpack-cli": "4.2.0",
     "winston": "^3.3.3"
   },
   "dependencies": {
-    "@cfpb/cfpb-layout": "0.4.0",
-    "@cfpb/cfpb-typography": "0.4.0"
+    "@cfpb/cfpb-layout": "0.5.0",
+    "@cfpb/cfpb-typography": "0.5.0"
   }
 }
