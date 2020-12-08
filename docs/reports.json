@@ -46535,6 +46535,560 @@
           }
         }
       }
+    },
+    "2020_12_08": {
+      "www_consumerfinance_gov-": {
+        "url": "https://www.consumerfinance.gov/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_-2020_12_08_00_24_47.report.json",
+          "summary": {
+            "performance": 0.52,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_-2020_12_08_00_36_28.report.json",
+          "summary": {
+            "performance": 0.94,
+            "accessibility": 0.98,
+            "best-practices": 0.79,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
+      },
+      "www_consumerfinance_gov-_about_us_blog": {
+        "url": "https://www.consumerfinance.gov/about-us/blog/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_blog_-2020_12_08_00_25_06.report.json",
+          "summary": {
+            "performance": 0.68,
+            "accessibility": 0.87,
+            "best-practices": 0.86,
+            "seo": 0.83,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_blog_-2020_12_08_00_37_00.report.json",
+          "summary": {
+            "performance": 0.96,
+            "accessibility": 0.87,
+            "best-practices": 0.86,
+            "seo": 0.86,
+            "pwa": 0.54
+          }
+        }
+      },
+      "www_consumerfinance_gov-_about_us_blog_economic_impact_payment_prepaid_card": {
+        "url": "https://www.consumerfinance.gov/about-us/blog/economic-impact-payment-prepaid-card/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_blog_economic_impact_payment_prepaid_card_-2020_12_08_00_25_36.report.json",
+          "summary": {
+            "performance": 0.4,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.26
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_blog_economic_impact_payment_prepaid_card_-2020_12_08_00_37_20.report.json",
+          "summary": {
+            "performance": 0.75,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.29
+          }
+        }
+      },
+      "www_consumerfinance_gov-_about_us_blog_guide_covid_19_economic_stimulus_checks": {
+        "url": "https://www.consumerfinance.gov/about-us/blog/guide-covid-19-economic-stimulus-checks/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_blog_guide_covid_19_economic_stimulus_checks_-2020_12_08_00_26_24.report.json",
+          "summary": {
+            "performance": 0.8,
+            "accessibility": 0.97,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_blog_guide_covid_19_economic_stimulus_checks_-2020_12_08_00_37_56.report.json",
+          "summary": {
+            "performance": 0.95,
+            "accessibility": 0.97,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
+      },
+      "www_consumerfinance_gov-_about_us_blog_protect_yourself_financially_from_impact_of_coronavirus": {
+        "url": "https://www.consumerfinance.gov/about-us/blog/protect-yourself-financially-from-impact-of-coronavirus/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_blog_protect_yourself_financially_from_impact_of_coronavirus_-2020_12_08_00_26_43.report.json",
+          "summary": {
+            "performance": 0.49,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.26
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_blog_protect_yourself_financially_from_impact_of_coronavirus_-2020_12_08_00_38_05.report.json",
+          "summary": {
+            "performance": 0.71,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
+      },
+      "www_consumerfinance_gov-_about_us_contact_us": {
+        "url": "https://www.consumerfinance.gov/about-us/contact-us/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_contact_us_-2020_12_08_00_27_19.report.json",
+          "summary": {
+            "performance": 0.8,
+            "accessibility": 0.97,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_contact_us_-2020_12_08_00_38_54.report.json",
+          "summary": {
+            "performance": 0.97,
+            "accessibility": 0.97,
+            "best-practices": 0.86,
+            "seo": 0.99,
+            "pwa": 0.54
+          }
+        }
+      },
+      "www_consumerfinance_gov-_ask_cfpb": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_-2020_12_08_00_27_28.report.json",
+          "summary": {
+            "performance": 0.65,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_-2020_12_08_00_39_20.report.json",
+          "summary": {
+            "performance": 0.94,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
+      },
+      "www_consumerfinance_gov-_ask_cfpb_how_can_i_tell_who_owns_my_mortgage_en_214": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/how-can-i-tell-who-owns-my-mortgage-en-214/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_how_can_i_tell_who_owns_my_mortgage_en_214_-2020_12_08_00_28_03.report.json",
+          "summary": {
+            "performance": 0.61,
+            "accessibility": 0.96,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_how_can_i_tell_who_owns_my_mortgage_en_214_-2020_12_08_00_39_29.report.json",
+          "summary": {
+            "performance": 0.93,
+            "accessibility": 0.96,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
+      },
+      "www_consumerfinance_gov-_ask_cfpb_what_is_a_debt_to_income_ratio_why_is_the_43_debt_to_income_ratio_important_en_1791": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-why-is-the-43-debt-to-income-ratio-important-en-1791/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_what_is_a_debt_to_income_ratio_why_is_the_43_debt_to_income_ratio_important_en_1791_-2020_12_08_00_28_21.report.json",
+          "summary": {
+            "performance": 0.39,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.26
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_what_is_a_debt_to_income_ratio_why_is_the_43_debt_to_income_ratio_important_en_1791_-2020_12_08_00_40_22.report.json",
+          "summary": {
+            "performance": 0.69,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.29
+          }
+        }
+      },
+      "www_consumerfinance_gov-_ask_cfpb_what_is_forbearance_en_289": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-forbearance-en-289/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_what_is_forbearance_en_289_-2020_12_08_00_29_07.report.json",
+          "summary": {
+            "performance": 0.18,
+            "accessibility": 0.93,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.26
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_what_is_forbearance_en_289_-2020_12_08_00_40_47.report.json",
+          "summary": {
+            "performance": 0.7,
+            "accessibility": 0.93,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.29
+          }
+        }
+      },
+      "www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-best-way-to-negotiate-a-settlement-with-a-debt-collector-en-1447/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2020_12_08_00_29_45.report.json",
+          "summary": {
+            "performance": 0.36,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 0.92,
+            "pwa": 0.26
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2020_12_08_00_41_33.report.json",
+          "summary": {
+            "performance": 0.67,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 0.93,
+            "pwa": 0.29
+          }
+        }
+      },
+      "www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-when-a-debt-collector-contacts-me-en-1695/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2020_12_08_00_30_10.report.json",
+          "summary": {
+            "performance": 0.55,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2020_12_08_00_41_59.report.json",
+          "summary": {
+            "performance": 0.91,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
+      },
+      "www_consumerfinance_gov-_complaint": {
+        "url": "https://www.consumerfinance.gov/complaint/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_complaint_-2020_12_08_00_30_51.report.json",
+          "summary": {
+            "performance": 0.67,
+            "accessibility": 0.91,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_complaint_-2020_12_08_00_42_50.report.json",
+          "summary": {
+            "performance": 0.97,
+            "accessibility": 0.91,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
+      },
+      "www_consumerfinance_gov-_complaint_getting_started": {
+        "url": "https://www.consumerfinance.gov/complaint/getting-started/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_complaint_getting_started_-2020_12_08_00_31_08.report.json",
+          "summary": {
+            "performance": 0.75,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 0.92,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_complaint_getting_started_-2020_12_08_00_43_14.report.json",
+          "summary": {
+            "performance": 0.97,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 0.93,
+            "pwa": 0.54
+          }
+        }
+      },
+      "www_consumerfinance_gov-_consumer_tools_prepaid_cards": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2020_12_08_00_31_40.report.json",
+          "summary": {
+            "performance": 0.58,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 0.92,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2020_12_08_00_43_41.report.json",
+          "summary": {
+            "performance": 0.82,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 0.93,
+            "pwa": 0.54
+          }
+        }
+      },
+      "www_consumerfinance_gov-_coronavirus": {
+        "url": "https://www.consumerfinance.gov/coronavirus/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_coronavirus_-2020_12_08_00_32_05.report.json",
+          "summary": {
+            "performance": 0.59,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_coronavirus_-2020_12_08_00_43_50.report.json",
+          "summary": {
+            "performance": 0.92,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
+      },
+      "www_consumerfinance_gov-_coronavirus_managing_your_finances_economic_impact_payment_prepaid_debit_cards": {
+        "url": "https://www.consumerfinance.gov/coronavirus/managing-your-finances/economic-impact-payment-prepaid-debit-cards/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_coronavirus_managing_your_finances_economic_impact_payment_prepaid_debit_cards_-2020_12_08_00_32_22.report.json",
+          "summary": {
+            "performance": 0.19,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_coronavirus_managing_your_finances_economic_impact_payment_prepaid_debit_cards_-2020_12_08_00_44_18.report.json",
+          "summary": {
+            "performance": 0.49,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
+      },
+      "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2020_12_08_00_32_51.report.json",
+          "summary": {
+            "performance": 0.18,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.26
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2020_12_08_00_44_47.report.json",
+          "summary": {
+            "performance": 0.41,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.29
+          }
+        }
+      },
+      "www_consumerfinance_gov-_coronavirus_student_loans": {
+        "url": "https://www.consumerfinance.gov/coronavirus/student-loans/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_coronavirus_student_loans_-2020_12_08_00_33_38.report.json",
+          "summary": {
+            "performance": 0.76,
+            "accessibility": 0.97,
+            "best-practices": 0.86,
+            "seo": 0.92,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_coronavirus_student_loans_-2020_12_08_00_45_29.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 0.97,
+            "best-practices": 0.86,
+            "seo": 0.93,
+            "pwa": 0.54
+          }
+        }
+      },
+      "www_consumerfinance_gov-_find_a_housing_counselor": {
+        "url": "https://www.consumerfinance.gov/find-a-housing-counselor/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_find_a_housing_counselor_-2020_12_08_00_33_46.report.json",
+          "summary": {
+            "performance": 0.71,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 0.92,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_find_a_housing_counselor_-2020_12_08_00_45_45.report.json",
+          "summary": {
+            "performance": 0.95,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 0.93,
+            "pwa": 0.54
+          }
+        }
+      },
+      "www_consumerfinance_gov-_learnmore": {
+        "url": "https://www.consumerfinance.gov/learnmore/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_learnmore_-2020_12_08_00_34_16.report.json",
+          "summary": {
+            "performance": 0.71,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_learnmore_-2020_12_08_00_46_13.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
+      },
+      "www_consumerfinance_gov-_owning_a_home": {
+        "url": "https://www.consumerfinance.gov/owning-a-home/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_owning_a_home_-2020_12_08_00_35_02.report.json",
+          "summary": {
+            "performance": 0.3,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 0.92,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_owning_a_home_-2020_12_08_00_46_48.report.json",
+          "summary": {
+            "performance": 0.69,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 0.93,
+            "pwa": 0.54
+          }
+        }
+      },
+      "www_consumerfinance_gov-_rules_policy_regulations": {
+        "url": "https://www.consumerfinance.gov/rules-policy/regulations/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_rules_policy_regulations_-2020_12_08_00_35_14.report.json",
+          "summary": {
+            "performance": 0.54,
+            "accessibility": 0.97,
+            "best-practices": 0.79,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_rules_policy_regulations_-2020_12_08_00_47_34.report.json",
+          "summary": {
+            "performance": 0.91,
+            "accessibility": 0.97,
+            "best-practices": 0.79,
+            "seo": 0.93,
+            "pwa": 0.68
+          }
+        }
+      },
+      "www_consumerfinance_gov-_start_small_save_up_start_saving": {
+        "url": "https://www.consumerfinance.gov/start-small-save-up/start-saving/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_start_small_save_up_start_saving_-2020_12_08_00_36_02.report.json",
+          "summary": {
+            "performance": 0.78,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 0.92,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_start_small_save_up_start_saving_-2020_12_08_00_48_01.report.json",
+          "summary": {
+            "performance": 0.95,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 0.93,
+            "pwa": 0.54
+          }
+        }
+      }
     }
   },
   "pages": {
@@ -48464,6 +49018,29 @@
           "jsonPath": "2020-12-07T00:49:10.104Z/www_consumerfinance_gov-_-2020_12_07_00_37_21.report.json",
           "summary": {
             "performance": 0.92,
+            "accessibility": 0.98,
+            "best-practices": 0.79,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_-2020_12_08_00_24_47.report.json",
+          "summary": {
+            "performance": 0.52,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_-2020_12_08_00_36_28.report.json",
+          "summary": {
+            "performance": 0.94,
             "accessibility": 0.98,
             "best-practices": 0.79,
             "seo": 1,
@@ -50404,6 +50981,29 @@
             "pwa": 0.54
           }
         }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/about-us/blog/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_blog_-2020_12_08_00_25_06.report.json",
+          "summary": {
+            "performance": 0.68,
+            "accessibility": 0.87,
+            "best-practices": 0.86,
+            "seo": 0.83,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_blog_-2020_12_08_00_37_00.report.json",
+          "summary": {
+            "performance": 0.96,
+            "accessibility": 0.87,
+            "best-practices": 0.86,
+            "seo": 0.86,
+            "pwa": 0.54
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_about_us_blog_economic_impact_payment_prepaid_card": {
@@ -52332,6 +52932,29 @@
           "jsonPath": "2020-12-07T00:49:10.104Z/www_consumerfinance_gov-_about_us_blog_economic_impact_payment_prepaid_card_-2020_12_07_00_38_14.report.json",
           "summary": {
             "performance": 0.69,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.29
+          }
+        }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/about-us/blog/economic-impact-payment-prepaid-card/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_blog_economic_impact_payment_prepaid_card_-2020_12_08_00_25_36.report.json",
+          "summary": {
+            "performance": 0.4,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.26
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_blog_economic_impact_payment_prepaid_card_-2020_12_08_00_37_20.report.json",
+          "summary": {
+            "performance": 0.75,
             "accessibility": 0.95,
             "best-practices": 0.86,
             "seo": 1,
@@ -54272,6 +54895,29 @@
             "pwa": 0.54
           }
         }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/about-us/blog/guide-covid-19-economic-stimulus-checks/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_blog_guide_covid_19_economic_stimulus_checks_-2020_12_08_00_26_24.report.json",
+          "summary": {
+            "performance": 0.8,
+            "accessibility": 0.97,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_blog_guide_covid_19_economic_stimulus_checks_-2020_12_08_00_37_56.report.json",
+          "summary": {
+            "performance": 0.95,
+            "accessibility": 0.97,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_about_us_blog_protect_yourself_financially_from_impact_of_coronavirus": {
@@ -56206,6 +56852,29 @@
             "pwa": 0.54
           }
         }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/about-us/blog/protect-yourself-financially-from-impact-of-coronavirus/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_blog_protect_yourself_financially_from_impact_of_coronavirus_-2020_12_08_00_26_43.report.json",
+          "summary": {
+            "performance": 0.49,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.26
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_blog_protect_yourself_financially_from_impact_of_coronavirus_-2020_12_08_00_38_05.report.json",
+          "summary": {
+            "performance": 0.71,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_about_us_contact_us": {
@@ -58132,6 +58801,29 @@
         },
         "mobile": {
           "jsonPath": "2020-12-07T00:49:10.104Z/www_consumerfinance_gov-_about_us_contact_us_-2020_12_07_00_39_53.report.json",
+          "summary": {
+            "performance": 0.97,
+            "accessibility": 0.97,
+            "best-practices": 0.86,
+            "seo": 0.99,
+            "pwa": 0.54
+          }
+        }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/about-us/contact-us/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_contact_us_-2020_12_08_00_27_19.report.json",
+          "summary": {
+            "performance": 0.8,
+            "accessibility": 0.97,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_about_us_contact_us_-2020_12_08_00_38_54.report.json",
           "summary": {
             "performance": 0.97,
             "accessibility": 0.97,
@@ -60074,6 +60766,29 @@
             "pwa": 0.54
           }
         }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_-2020_12_08_00_27_28.report.json",
+          "summary": {
+            "performance": 0.65,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_-2020_12_08_00_39_20.report.json",
+          "summary": {
+            "performance": 0.94,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_ask_cfpb_how_can_i_tell_who_owns_my_mortgage_en_214": {
@@ -62002,6 +62717,29 @@
           "jsonPath": "2020-12-07T00:49:10.104Z/www_consumerfinance_gov-_ask_cfpb_how_can_i_tell_who_owns_my_mortgage_en_214_-2020_12_07_00_40_46.report.json",
           "summary": {
             "performance": 0.94,
+            "accessibility": 0.96,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/how-can-i-tell-who-owns-my-mortgage-en-214/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_how_can_i_tell_who_owns_my_mortgage_en_214_-2020_12_08_00_28_03.report.json",
+          "summary": {
+            "performance": 0.61,
+            "accessibility": 0.96,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_how_can_i_tell_who_owns_my_mortgage_en_214_-2020_12_08_00_39_29.report.json",
+          "summary": {
+            "performance": 0.93,
             "accessibility": 0.96,
             "best-practices": 0.86,
             "seo": 1,
@@ -63942,6 +64680,29 @@
             "pwa": 0.29
           }
         }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-why-is-the-43-debt-to-income-ratio-important-en-1791/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_what_is_a_debt_to_income_ratio_why_is_the_43_debt_to_income_ratio_important_en_1791_-2020_12_08_00_28_21.report.json",
+          "summary": {
+            "performance": 0.39,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.26
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_what_is_a_debt_to_income_ratio_why_is_the_43_debt_to_income_ratio_important_en_1791_-2020_12_08_00_40_22.report.json",
+          "summary": {
+            "performance": 0.69,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.29
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_ask_cfpb_what_is_forbearance_en_289": {
@@ -65870,6 +66631,29 @@
           "jsonPath": "2020-12-07T00:49:10.104Z/www_consumerfinance_gov-_ask_cfpb_what_is_forbearance_en_289_-2020_12_07_00_42_04.report.json",
           "summary": {
             "performance": 0.72,
+            "accessibility": 0.93,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.29
+          }
+        }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-forbearance-en-289/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_what_is_forbearance_en_289_-2020_12_08_00_29_07.report.json",
+          "summary": {
+            "performance": 0.18,
+            "accessibility": 0.93,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.26
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_what_is_forbearance_en_289_-2020_12_08_00_40_47.report.json",
+          "summary": {
+            "performance": 0.7,
             "accessibility": 0.93,
             "best-practices": 0.86,
             "seo": 1,
@@ -67810,6 +68594,29 @@
             "pwa": 0.29
           }
         }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-best-way-to-negotiate-a-settlement-with-a-debt-collector-en-1447/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2020_12_08_00_29_45.report.json",
+          "summary": {
+            "performance": 0.36,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 0.92,
+            "pwa": 0.26
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2020_12_08_00_41_33.report.json",
+          "summary": {
+            "performance": 0.67,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 0.93,
+            "pwa": 0.29
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695": {
@@ -69738,6 +70545,29 @@
           "jsonPath": "2020-12-07T00:49:10.104Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2020_12_07_00_43_16.report.json",
           "summary": {
             "performance": 0.93,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-when-a-debt-collector-contacts-me-en-1695/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2020_12_08_00_30_10.report.json",
+          "summary": {
+            "performance": 0.55,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2020_12_08_00_41_59.report.json",
+          "summary": {
+            "performance": 0.91,
             "accessibility": 0.95,
             "best-practices": 0.86,
             "seo": 1,
@@ -71678,6 +72508,29 @@
             "pwa": 0.54
           }
         }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/complaint/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_complaint_-2020_12_08_00_30_51.report.json",
+          "summary": {
+            "performance": 0.67,
+            "accessibility": 0.91,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_complaint_-2020_12_08_00_42_50.report.json",
+          "summary": {
+            "performance": 0.97,
+            "accessibility": 0.91,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_complaint_getting_started": {
@@ -73612,6 +74465,29 @@
             "pwa": 0.54
           }
         }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/complaint/getting-started/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_complaint_getting_started_-2020_12_08_00_31_08.report.json",
+          "summary": {
+            "performance": 0.75,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 0.92,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_complaint_getting_started_-2020_12_08_00_43_14.report.json",
+          "summary": {
+            "performance": 0.97,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 0.93,
+            "pwa": 0.54
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_consumer_tools_prepaid_cards": {
@@ -75538,6 +76414,29 @@
         },
         "mobile": {
           "jsonPath": "2020-12-07T00:49:10.104Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2020_12_07_00_44_35.report.json",
+          "summary": {
+            "performance": 0.82,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 0.93,
+            "pwa": 0.54
+          }
+        }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2020_12_08_00_31_40.report.json",
+          "summary": {
+            "performance": 0.58,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 0.92,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2020_12_08_00_43_41.report.json",
           "summary": {
             "performance": 0.82,
             "accessibility": 0.98,
@@ -77480,6 +78379,29 @@
             "pwa": 0.54
           }
         }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/coronavirus/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_coronavirus_-2020_12_08_00_32_05.report.json",
+          "summary": {
+            "performance": 0.59,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_coronavirus_-2020_12_08_00_43_50.report.json",
+          "summary": {
+            "performance": 0.92,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_coronavirus_managing_your_finances_economic_impact_payment_prepaid_debit_cards": {
@@ -79408,6 +80330,29 @@
           "jsonPath": "2020-12-07T00:49:10.104Z/www_consumerfinance_gov-_coronavirus_managing_your_finances_economic_impact_payment_prepaid_debit_cards_-2020_12_07_00_45_31.report.json",
           "summary": {
             "performance": 0.71,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/coronavirus/managing-your-finances/economic-impact-payment-prepaid-debit-cards/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_coronavirus_managing_your_finances_economic_impact_payment_prepaid_debit_cards_-2020_12_08_00_32_22.report.json",
+          "summary": {
+            "performance": 0.19,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_coronavirus_managing_your_finances_economic_impact_payment_prepaid_debit_cards_-2020_12_08_00_44_18.report.json",
+          "summary": {
+            "performance": 0.49,
             "accessibility": 0.95,
             "best-practices": 0.86,
             "seo": 1,
@@ -81348,6 +82293,29 @@
             "pwa": 0.54
           }
         }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2020_12_08_00_32_51.report.json",
+          "summary": {
+            "performance": 0.18,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.26
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2020_12_08_00_44_47.report.json",
+          "summary": {
+            "performance": 0.41,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.29
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_coronavirus_student_loans": {
@@ -83282,6 +84250,29 @@
             "pwa": 0.54
           }
         }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/coronavirus/student-loans/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_coronavirus_student_loans_-2020_12_08_00_33_38.report.json",
+          "summary": {
+            "performance": 0.76,
+            "accessibility": 0.97,
+            "best-practices": 0.86,
+            "seo": 0.92,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_coronavirus_student_loans_-2020_12_08_00_45_29.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 0.97,
+            "best-practices": 0.86,
+            "seo": 0.93,
+            "pwa": 0.54
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_find_a_housing_counselor": {
@@ -85208,6 +86199,29 @@
         },
         "mobile": {
           "jsonPath": "2020-12-07T00:49:10.104Z/www_consumerfinance_gov-_find_a_housing_counselor_-2020_12_07_00_46_51.report.json",
+          "summary": {
+            "performance": 0.95,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 0.93,
+            "pwa": 0.54
+          }
+        }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/find-a-housing-counselor/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_find_a_housing_counselor_-2020_12_08_00_33_46.report.json",
+          "summary": {
+            "performance": 0.71,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 0.92,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_find_a_housing_counselor_-2020_12_08_00_45_45.report.json",
           "summary": {
             "performance": 0.95,
             "accessibility": 0.98,
@@ -87150,6 +88164,29 @@
             "pwa": 0.54
           }
         }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/learnmore/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_learnmore_-2020_12_08_00_34_16.report.json",
+          "summary": {
+            "performance": 0.71,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_learnmore_-2020_12_08_00_46_13.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 1,
+            "pwa": 0.54
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_owning_a_home": {
@@ -89082,6 +90119,29 @@
             "best-practices": 0.86,
             "seo": 0.93,
             "pwa": 0.29
+          }
+        }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/owning-a-home/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_owning_a_home_-2020_12_08_00_35_02.report.json",
+          "summary": {
+            "performance": 0.3,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 0.92,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_owning_a_home_-2020_12_08_00_46_48.report.json",
+          "summary": {
+            "performance": 0.69,
+            "accessibility": 0.95,
+            "best-practices": 0.86,
+            "seo": 0.93,
+            "pwa": 0.54
           }
         }
       }
@@ -92676,6 +93736,29 @@
             "pwa": 0.54
           }
         }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/start-small-save-up/start-saving/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_start_small_save_up_start_saving_-2020_12_08_00_36_02.report.json",
+          "summary": {
+            "performance": 0.78,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 0.92,
+            "pwa": 0.52
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_start_small_save_up_start_saving_-2020_12_08_00_48_01.report.json",
+          "summary": {
+            "performance": 0.95,
+            "accessibility": 0.98,
+            "best-practices": 0.86,
+            "seo": 0.93,
+            "pwa": 0.54
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_rules_policy_regulations": {
@@ -92946,6 +94029,29 @@
         },
         "mobile": {
           "jsonPath": "2020-12-07T00:49:10.104Z/www_consumerfinance_gov-_rules_policy_regulations_-2020_12_07_00_48_36.report.json",
+          "summary": {
+            "performance": 0.91,
+            "accessibility": 0.97,
+            "best-practices": 0.79,
+            "seo": 0.93,
+            "pwa": 0.68
+          }
+        }
+      },
+      "2020_12_08": {
+        "url": "https://www.consumerfinance.gov/rules-policy/regulations/",
+        "desktop": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_rules_policy_regulations_-2020_12_08_00_35_14.report.json",
+          "summary": {
+            "performance": 0.54,
+            "accessibility": 0.97,
+            "best-practices": 0.79,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2020-12-08T00:48:07.395Z/www_consumerfinance_gov-_rules_policy_regulations_-2020_12_08_00_47_34.report.json",
           "summary": {
             "performance": 0.91,
             "accessibility": 0.97,
