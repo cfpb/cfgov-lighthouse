@@ -69,6 +69,7 @@ async function buildIndexOfAllReports( reportsRoot ) {
     await fs.writeFile( INDEX_LOCATION, JSON.stringify( index, 0, 2 ) );
     logger.info( `Successfully generated ${ INDEX_LOCATION }.` );
   } catch ( err ) {
-    logger.error( err );
+    logger.error( err.toString() );
+    console.error( err );
   }
 } )();
