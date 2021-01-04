@@ -76,8 +76,11 @@ function processManifestRuns( runs ) {
   return runs.map( run => {
     const runFilename = path.basename( run.jsonPath );
     const runDirectory = path.basename( path.dirname( run.jsonPath ) );
-    // Report filenames are in the format: URL_YYYY_MM_DD_HH_MM_SS.report.json
-    const details = runFilename.match( /(.+)_\-(\d\d\d\d_\d\d_\d\d)_\d\d_\d\d_\d\d\.report\.json/ );
+
+    // Report filenames are in the format:
+    // %%HOSTNAME%%-%%PATHNAME%%-%%DATETIME%%.report.%%EXTENSION%%
+    // https://github.com/GoogleChrome/lighthouse-ci/blob/master/docs/configuration.md#upload
+    const details = runFilename.match( /(.+)\-(\d\d\d\d_\d\d_\d\d)_\d\d_\d\d_\d\d\.report\.json/ );
     const slug = details[1];
     const date = details[2];
     return {
