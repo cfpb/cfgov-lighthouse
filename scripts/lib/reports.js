@@ -1,6 +1,11 @@
 const path = require( 'path' );
 const { promises: fs } = require( 'fs' );
 
+const {
+  getUrlWithoutMobileTestingParameter,
+  hasMobileTestingParameter
+} = require( './urls' );
+
 // Location where the reports are stored, organized by timestamp
 const REPORTS_ROOT = path.resolve( __dirname, '../../docs/reports' );
 
@@ -86,9 +91,9 @@ function processManifestRuns( runs ) {
     return {
       slug,
       date,
-      url: run.url.replace( '?mobile=1', '' ),
+      url: getUrlWithoutMobileTestingParameter( run.url ),
       jsonPath: `${ runDirectory }/${ runFilename }`,
-      formFactor: run.url.includes( '?mobile=1' ) ? 'mobile' : 'desktop',
+      formFactor: hasMobileTestingParameter( run.url ) ? 'mobile' : 'desktop',
       summary: run.summary
     };
   } );

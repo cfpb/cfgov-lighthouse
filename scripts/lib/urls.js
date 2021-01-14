@@ -45,4 +45,30 @@ function getUrls( baseUrl, mobile ) {
   } );
 }
 
-module.exports = { getUrls };
+/**
+ * Remove mobile testing parameter from a URL, if it exists.
+ * @param {string} url URL, e.g. https://www.consumerfinance.gov/?mobile=1.
+ * @returns {URL} URL without mobile testing parameter.
+ */
+function getUrlWithoutMobileTestingParameter( url ) {
+  const urlObj = new URL( url );
+
+  urlObj.searchParams.delete( MOBILE_QUERY_STRING_PARAM );
+
+  return urlObj.href;
+}
+
+/**
+ * Test if a URL has been decorated for mobile testing.
+ * @param {string} url URL, e.g. https://www.consumerfinance.gov.
+ * @returns {boolean} Whether the URL has the ?mobile testing flag.
+ */
+function hasMobileTestingParameter( url ) {
+  return new URL( url ).searchParams.has( MOBILE_QUERY_STRING_PARAM );
+}
+
+module.exports = {
+  getUrls,
+  getUrlWithoutMobileTestingParameter,
+  hasMobileTestingParameter
+};
