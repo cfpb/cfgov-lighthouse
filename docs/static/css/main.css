@@ -1,9 +1,5 @@
 /* ==========================================================================
    Design System
-   Layout Helpers
-   ========================================================================== */
-/* ==========================================================================
-   Design System
    Core Less file
    ========================================================================== */
 /*! normalize.css v2.1.3 | MIT License | git.io/normalize */
@@ -609,7 +605,7 @@ input[type="radio"] {
   }
 }
 .u-hidden {
-  display: none;
+  display: none !important;
 }
 .u-invisible {
   visibility: hidden;
@@ -1253,53 +1249,11 @@ td {
 }
 thead th,
 thead td {
-  margin-bottom: 1.07142857em;
-  font-size: 0.875em;
-  font-weight: 600;
-  letter-spacing: 1px;
-  line-height: 1.25;
-  text-transform: uppercase;
   padding: 0.71428571em;
   background: #f7f8f9;
   color: #101820;
-}
-p + thead th,
-p + thead td,
-ul + thead th,
-ul + thead td,
-ol + thead th,
-ol + thead td,
-dl + thead th,
-dl + thead td,
-figure + thead th,
-figure + thead td,
-img + thead th,
-img + thead td,
-table + thead th,
-table + thead td,
-blockquote + thead th,
-blockquote + thead td,
-h1 + thead th,
-h1 + thead td,
-.h1 + thead th,
-.h1 + thead td,
-h2 + thead th,
-h2 + thead td,
-.h2 + thead th,
-.h2 + thead td,
-h3 + thead th,
-h3 + thead td,
-.h3 + thead th,
-.h3 + thead td,
-h4 + thead th,
-h4 + thead td,
-.h4 + thead th,
-.h4 + thead td,
-h6 + thead th,
-h6 + thead td,
-.h6 + thead th,
-.h6 + thead td {
-  margin-top: 2.14285714em;
+  font-size: 1em;
+  vertical-align: top;
 }
 thead,
 tbody tr {
@@ -1554,6 +1508,10 @@ pre code {
 /* ==========================================================================
    Design System
    Grid mixins
+   ========================================================================== */
+/* ==========================================================================
+   Design System
+   Layout Helpers
    ========================================================================== */
 .content-l {
   position: relative;
@@ -3006,10 +2964,6 @@ _:-ms-lang(x),
 }
 /* ==========================================================================
    Design System
-   Advanced Typography
-   ========================================================================== */
-/* ==========================================================================
-   Design System
    Icons
    ========================================================================== */
 .cf-icon-svg {
@@ -3036,6 +2990,10 @@ _:-ms-lang(x),
     transform: rotate(359deg);
   }
 }
+/* ==========================================================================
+   Design System
+   Advanced Typography
+   ========================================================================== */
 .a-date {
   margin-bottom: 1.07142857em;
   font-size: 0.875em;
