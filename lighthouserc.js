@@ -17,7 +17,8 @@ module.exports = {
     collect: {
       url: getUrls( baseUrl, mobile ),
       settings: {
-        formFactor: mobile ? 'mobile' : 'desktop'
+        formFactor: mobile ? 'mobile' : 'desktop',
+        screenEmulation: { mobile: mobile }
       }
     },
     upload: {
