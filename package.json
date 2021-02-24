@@ -27,7 +27,7 @@
     "nunjucks": "3.2.3",
     "nunjucks-date-filter": "^0.1.1",
     "nunjucks-webpack-plugin": "^5.0.0",
-    "webpack": "5.24.0",
+    "webpack": "5.24.1",
     "webpack-cli": "4.5.0",
     "winston": "^3.3.3"
   },
