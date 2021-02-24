@@ -18,7 +18,8 @@ module.exports = {
       url: getUrls( baseUrl, mobile ),
       settings: {
         formFactor: mobile ? 'mobile' : 'desktop',
-        screenEmulation: { mobile: mobile }
+        screenEmulation: { mobile: mobile },
+        maxWaitForLoad: 5000
       }
     },
     upload: {
