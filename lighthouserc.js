@@ -16,11 +16,7 @@ module.exports = {
   ci: {
     collect: {
       url: getUrls( baseUrl, mobile ),
-      settings: {
-        formFactor: mobile ? 'mobile' : 'desktop',
-        screenEmulation: { mobile: mobile },
-        maxWaitForLoad: 5000
-      }
+      settings: mobile ? null : { preset: 'desktop' }
     },
     upload: {
       target: 'filesystem',
