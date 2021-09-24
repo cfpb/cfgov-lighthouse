@@ -234,42 +234,42 @@
     "@babel/helper-validator-identifier" "^7.14.9"
     to-fast-properties "^2.0.0"
 
-"@cfpb/cfpb-core@^0.10.0":
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-core/-/cfpb-core-0.10.0.tgz#cd6094226547dfef53bc3140708140cc0c27a9c0"
-  integrity sha512-h9K4JFJj9KQ08YQTbKAiOSkDhoIcI6Ifuf/pkorAtBWy8xudapsdHkX1Y1VUXil60xsEsNoFNW+ypIMh4fFWxg==
+"@cfpb/cfpb-core@^0.11.0":
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-core/-/cfpb-core-0.11.0.tgz#91143be9e6f4215e9f90c688e3fc33a34ba98766"
+  integrity sha512-36/ALz6evGAuCZqqZ+On0oiW56hJTmUis0QGcG5C76ISMldAh+UNgRJWQRgxAfqS0ReGv2oVN9TmwS8AwePbeg==
   dependencies:
     normalize-css "^2.0.0"
     normalize-legacy-addon "0.1.0"
 
-"@cfpb/cfpb-grid@^0.10.0":
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-grid/-/cfpb-grid-0.10.0.tgz#3b5a459f0353b49501c5135c5f4f0c58ca95060c"
-  integrity sha512-3zwXo4+w1Qhp1lrX74buac3hKKv61jG4ivKNFvqJgH6EibdupCSx8J2C1XmonDBHD2f3OGhsY3/zTiU812Gd3g==
+"@cfpb/cfpb-grid@^0.11.0":
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-grid/-/cfpb-grid-0.11.0.tgz#115643c1e4d9f3bb106c6c914f5e35750738d484"
+  integrity sha512-HGGUWma5R/xTVcoypgTgd1/UDpBMdLO2yyXLaHvag5e0dMb9UCtvKNBTgSTCM4/gTv3onr/HPTrXu+dLGQjbWA==
   dependencies:
     normalize-css "^2.0.0"
     normalize-legacy-addon "0.1.0"
 
-"@cfpb/cfpb-icons@^0.10.0":
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-icons/-/cfpb-icons-0.10.0.tgz#38a9dbea0268ba687a3c331177b236d056d04e4f"
-  integrity sha512-xGV8keShLMlczl3rhScrj8f6a3z67z28AG8EBizAN3NjYmFIhnNIj5FHndOt9lMTmwbp1x9LIlXglMrJ4J3S8w==
+"@cfpb/cfpb-icons@^0.11.0":
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-icons/-/cfpb-icons-0.11.0.tgz#c6871d35e43b51ea9ba0762cc266d69093099213"
+  integrity sha512-xpWVAzRHd0VilA6CBXQ9Lk7w4tuuvw2PbuW/TdS/Qe1xR7fk80qRYnhnPBV6IkLUBnHkUKYy+E/qp+feDEK7cw==
 
-"@cfpb/cfpb-layout@0.10.0":
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-layout/-/cfpb-layout-0.10.0.tgz#76676904acdb1e614c0be791d5da39d593471874"
-  integrity sha512-v0gNKUgJoKbK0Vg8s1FaAZL5z0B00B29bbXY1lIi5JBL6QiVF9r7N15azlkCVqRg0X0ZUsZeo2sxmLAuPruYKg==
+"@cfpb/cfpb-layout@0.11.0":
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-layout/-/cfpb-layout-0.11.0.tgz#0914957d295b1d10bbb7609f3eb384f3e15e665c"
+  integrity sha512-oYyxVX4AsxotCTdwtWLNOKE+1rfm54a1xm743xhkD/h7DbjosB1K9/FTnBE/NUHRQWIpiBRp1r/hNvSyMPsN7A==
   dependencies:
-    "@cfpb/cfpb-core" "^0.10.0"
-    "@cfpb/cfpb-grid" "^0.10.0"
+    "@cfpb/cfpb-core" "^0.11.0"
+    "@cfpb/cfpb-grid" "^0.11.0"
 
-"@cfpb/cfpb-typography@0.10.0":
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-typography/-/cfpb-typography-0.10.0.tgz#05516b0c776d1e75efb7c8ce4c0880d1124d0eb3"
-  integrity sha512-wqPnQ4f8sKDFQLRc+1LbeGlMW2gpxdVb7jMSmKOJwG4Tz6ifZSMnRBE6gRUgxhXWtjO+fQYu23lqJ5wUxr50nw==
+"@cfpb/cfpb-typography@0.11.0":
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-typography/-/cfpb-typography-0.11.0.tgz#b09e2cf5289d233f1ddde77e495bbbed23c5e733"
+  integrity sha512-oAOQc/pZDZr96NzkdSsCT6sJ0ilcxBwvHLLQVQFxWVt410mlBhOc5zsJkzgj9TBVwFkNMaS7pVYR7ctDU9cc1Q==
   dependencies:
-    "@cfpb/cfpb-core" "^0.10.0"
-    "@cfpb/cfpb-icons" "^0.10.0"
+    "@cfpb/cfpb-core" "^0.11.0"
+    "@cfpb/cfpb-icons" "^0.11.0"
 
 "@concordance/react@^2.0.0":
   version "2.0.0"
@@ -1498,20 +1498,18 @@ csp_evaluator@^1.0.1:
   resolved "https://registry.yarnpkg.com/csp_evaluator/-/csp_evaluator-1.0.1.tgz#cef3b755b26cfff25701a2fdaeab27ddceb31b7c"
   integrity sha512-9L57/vkuwH1tJv9Sw9t13xKGKyRR7OKn/pizcLCHK/83WH+sqRav0JCFBmBLmpurQAcz5usU3efS1rabOPV/qA==
 
-css-loader@5.2.6:
-  version "5.2.6"
-  resolved "https://registry.yarnpkg.com/css-loader/-/css-loader-5.2.6.tgz#c3c82ab77fea1f360e587d871a6811f4450cc8d1"
-  integrity sha512-0wyN5vXMQZu6BvjbrPdUJvkCzGEO24HC7IS7nW4llc6BBFC+zwR9CKtYGv63Puzsg10L/o12inMY5/2ByzfD6w==
+css-loader@6.3.0:
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/css-loader/-/css-loader-6.3.0.tgz#334d3500ff0a0c14cfbd4b0670088dbb5b5c1530"
+  integrity sha512-9NGvHOR+L6ps13Ilw/b216++Q8q+5RpJcVufCdW9S/9iCzs4KBDNa8qnA/n3FK/sSfWmH35PAIK/cfPi7LOSUg==
   dependencies:
     icss-utils "^5.1.0"
-    loader-utils "^2.0.0"
     postcss "^8.2.15"
     postcss-modules-extract-imports "^3.0.0"
     postcss-modules-local-by-default "^4.0.0"
     postcss-modules-scope "^3.0.0"
     postcss-modules-values "^4.0.0"
     postcss-value-parser "^4.1.0"
-    schema-utils "^3.0.0"
     semver "^7.3.5"
 
 cssesc@^3.0.0:
@@ -1714,10 +1712,10 @@ end-of-stream@^1.1.0:
   dependencies:
     once "^1.4.0"
 
-enhanced-resolve@^5.8.0:
-  version "5.8.0"
-  resolved "https://registry.yarnpkg.com/enhanced-resolve/-/enhanced-resolve-5.8.0.tgz#d9deae58f9d3773b6a111a5a46831da5be5c9ac0"
-  integrity sha512-Sl3KRpJA8OpprrtaIswVki3cWPiPKxXuFxJXBp+zNb6s6VwNWwFRUdtmzd2ReUut8n+sCPx7QCtQ7w5wfJhSgQ==
+enhanced-resolve@^5.8.3:
+  version "5.8.3"
+  resolved "https://registry.yarnpkg.com/enhanced-resolve/-/enhanced-resolve-5.8.3.tgz#6d552d465cce0423f5b3d718511ea53826a7b2f0"
+  integrity sha512-EGAbGvH7j7Xt2nc0E7D99La1OiEs8LnyimkRgwExpUMScN6O+3x9tIWs7PLQZVNx4YD+00skHXPXi1yQHpAmZA==
   dependencies:
     graceful-fs "^4.2.4"
     tapable "^2.2.0"
@@ -1753,10 +1751,10 @@ error-ex@^1.3.1:
   dependencies:
     is-arrayish "^0.2.1"
 
-es-module-lexer@^0.7.1:
-  version "0.7.1"
-  resolved "https://registry.yarnpkg.com/es-module-lexer/-/es-module-lexer-0.7.1.tgz#c2c8e0f46f2df06274cdaf0dd3f3b33e0a0b267d"
-  integrity sha512-MgtWFl5No+4S3TmhDmCz2ObFGm6lEpTnzbQi+Dd+pw4mlTIZTmM2iAs5gRlmx5zS9luzobCSBSI90JM/1/JgOw==
+es-module-lexer@^0.9.0:
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/es-module-lexer/-/es-module-lexer-0.9.0.tgz#fe4c4621977bc668e285c5f1f70ca3b451095fda"
+  integrity sha512-qU2eN/XHsrl3E4y7mK1wdWnyy5c8gXtCbfP6Xcsemm7fPUR1PIV1JhZfP7ojcN0Fzp69CfrS3u76h2tusvfKiQ==
 
 escalade@^3.1.1:
   version "3.1.1"
@@ -3020,15 +3018,6 @@ loader-utils@^1.4.0:
     big.js "^5.2.2"
     emojis-list "^3.0.0"
     json5 "^1.0.1"
-
-loader-utils@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/loader-utils/-/loader-utils-2.0.0.tgz#e4cace5b816d425a166b5f097e10cd12b36064b0"
-  integrity sha512-rP4F0h2RaWSvPEkD7BLDFQnvSf+nK+wr3ESUjNTyAGobqrijmW92zc+SO6d4p4B1wh7+B/Jg1mkQe5NYUEHtHQ==
-  dependencies:
-    big.js "^5.2.2"
-    emojis-list "^3.0.0"
-    json5 "^2.1.2"
 
 locate-path@^3.0.0:
   version "3.0.0"
@@ -4892,10 +4881,10 @@ webpack-sources@^3.2.0:
   resolved "https://registry.yarnpkg.com/webpack-sources/-/webpack-sources-3.2.0.tgz#b16973bcf844ebcdb3afde32eda1c04d0b90f89d"
   integrity sha512-fahN08Et7P9trej8xz/Z7eRu8ltyiygEo/hnRi9KqBUs80KeDcnf96ZJo++ewWd84fEf3xSX9bp4ZS9hbw0OBw==
 
-webpack@5.53.0:
-  version "5.53.0"
-  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.53.0.tgz#f463cd9c6fc1356ae4b9b7ac911fd1f5b2df86af"
-  integrity sha512-RZ1Z3z3ni44snoWjfWeHFyzvd9HMVYDYC5VXmlYUT6NWgEOWdCNpad5Fve2CzzHoRED7WtsKe+FCyP5Vk4pWiQ==
+webpack@5.54.0:
+  version "5.54.0"
+  resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.54.0.tgz#629f0cd14c7a4340af758a3c7cef25c50670ae4d"
+  integrity sha512-MAVKJMsIUotOQKzFOmN8ZkmMlj7BOyjDU6t1lomW9dWOme5WTStzGa3HMLdV1KYD1AiFETGsznL4LMSvj4tukw==
   dependencies:
     "@types/eslint-scope" "^3.7.0"
     "@types/estree" "^0.0.50"
@@ -4906,8 +4895,8 @@ webpack@5.53.0:
     acorn-import-assertions "^1.7.6"
     browserslist "^4.14.5"
     chrome-trace-event "^1.0.2"
-    enhanced-resolve "^5.8.0"
-    es-module-lexer "^0.7.1"
+    enhanced-resolve "^5.8.3"
+    es-module-lexer "^0.9.0"
     eslint-scope "5.1.1"
     events "^3.2.0"
     glob-to-regexp "^0.4.1"
