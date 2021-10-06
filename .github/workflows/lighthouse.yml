@@ -1,11 +1,10 @@
 name: Run Lighthouse, build, and push
 
+# Run every night at midnight UTC (7PM EST, 8PM EDT).
 on:
-  # Run every night at midnight UTC.
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
-
 
 jobs:
   lhci:
@@ -18,9 +17,11 @@ jobs:
         run: yarn
 
       - name: Optionally fetch list of cf.gov pages to test
-        run: [[ -n "${TEST_PAGES_URL}" ]] && wget -O urls.txt "$TEST_PAGES_URL"
         env:
           TEST_PAGES_URL: ${{ secrets.TEST_PAGES_URL }}
+        run: >
+          [[ -n "${TEST_PAGES_URL}" ]] && wget -O urls.txt "$TEST_PAGES_URL"
+        continue-on-error: true
 
       - name: Run Lighthouse CLI against specified cf.gov pages
         run: yarn lighthouse
