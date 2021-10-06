@@ -43,8 +43,10 @@ function getManifestRuns( manifest ) {
     nonRepRuns: []
   };
   const reducer = ( prevRuns, run ) => ( {
-    repRuns: run.isRepresentativeRun ? [ ...prevRuns.repRuns, run ] : [ ...prevRuns.repRuns ],
-    nonRepRuns: run.isRepresentativeRun ? [ ...prevRuns.nonRepRuns ] : [ ...prevRuns.nonRepRuns, run ]
+    repRuns: run.isRepresentativeRun ?
+      [ ...prevRuns.repRuns, run ] : [ ...prevRuns.repRuns ],
+    nonRepRuns: run.isRepresentativeRun ?
+      [ ...prevRuns.nonRepRuns ] : [ ...prevRuns.nonRepRuns, run ]
   } );
   return manifest.reduce( reducer, runs );
 }
@@ -85,7 +87,7 @@ function processManifestRuns( runs ) {
     // Report filenames are in the format:
     // %%HOSTNAME%%-%%PATHNAME%%-%%DATETIME%%.report.%%EXTENSION%%
     // https://github.com/GoogleChrome/lighthouse-ci/blob/master/docs/configuration.md#upload
-    const details = runFilename.match( /(.+)\-(\d\d\d\d_\d\d_\d\d)_\d\d_\d\d_\d\d\.report\.json/ );
+    const details = runFilename.match( /(.+)-(\d\d\d\d_\d\d_\d\d)_\d\d_\d\d_\d\d\.report\.json/ );
     const slug = details[1];
     const date = details[2];
     return {
@@ -108,23 +110,25 @@ function processManifestRuns( runs ) {
  * @returns {Object} Object of Lighthouse runs organized by date and page.
  */
 function buildIndex( runs, index = { dates: {}, pages: {}} ) {
-  const reducer = ( index, run ) => {
-    index.dates[run.date] = index.dates[run.date] || {};
-    index.dates[run.date][run.slug] = index.dates[run.date][run.slug] || {};
-    index.dates[run.date][run.slug].url = run.url;
-    index.dates[run.date][run.slug][run.formFactor] = {
+  // eslint-disable-next-line complexity
+  const reducer = ( idx, run ) => {
+    idx.dates[run.date] = idx.dates[run.date] || {};
+    idx.dates[run.date][run.slug] = idx.dates[run.date][run.slug] || {};
+    idx.dates[run.date][run.slug].url = run.url;
+    idx.dates[run.date][run.slug][run.formFactor] = {
       jsonPath: run.jsonPath,
       summary: run.summary
     };
-    index.pages[run.slug] = index.pages[run.slug] || {};
-    index.pages[run.slug][run.date] = index.pages[run.slug][run.date] || {};
-    index.pages[run.slug][run.date].url = run.url;
-    index.pages[run.slug][run.date][run.formFactor] = {
+    idx.pages[run.slug] = idx.pages[run.slug] || {};
+    idx.pages[run.slug][run.date] = idx.pages[run.slug][run.date] || {};
+    idx.pages[run.slug][run.date].url = run.url;
+    idx.pages[run.slug][run.date][run.formFactor] = {
       jsonPath: run.jsonPath,
       summary: run.summary
     };
-    return index;
+    return idx;
   };
+
   return runs.reduce( reducer, index );
 }
 

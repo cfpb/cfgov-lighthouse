@@ -7,7 +7,7 @@
     "compile-prod": "webpack --mode=production",
     "index-reports": "node scripts/create-reports-index.js",
     "lighthouse": "lhci collect && lhci collect --additive --mobile && lhci upload",
-    "lint": "eslint --max-warnings=0 lighthouserc.js src webpack.config.js",
+    "lint": "eslint --max-warnings=0 lighthouserc.js scripts src webpack.config.js",
     "serve": "concurrently \"yarn serve-html\" \"yarn compile-dev --watch\"",
     "serve-html": "http-server docs --cors",
     "test": "ava test/*.js --verbose"

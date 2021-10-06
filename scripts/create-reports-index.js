@@ -70,6 +70,7 @@ async function buildIndexOfAllReports( reportsRoot ) {
     logger.info( `Successfully generated ${ INDEX_LOCATION }.` );
   } catch ( err ) {
     logger.error( err.toString() );
+    // eslint-disable-next-line no-console
     console.error( err );
   }
 } )();
