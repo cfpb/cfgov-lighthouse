@@ -103,22 +103,14 @@ function processManifestRuns( runs ) {
 
 /**
  * Given an array of Lighthouse runs from a manifest file, build an object
- * that organizes them by both date and page slug.
+ * that organizes them first by page slug and then by date.
  * See test/fixtures/partial-index.json for an example of expected output.
  * @param {Array} runs List of Lighthouse runs.
  * @param {Object} index Object to add runs to.
  * @returns {Object} Object of Lighthouse runs organized by date and page.
  */
-function buildIndex( runs, index = { dates: {}, pages: {}} ) {
-  // eslint-disable-next-line complexity
+function buildIndex( runs, index = { pages: {}} ) {
   const reducer = ( idx, run ) => {
-    idx.dates[run.date] = idx.dates[run.date] || {};
-    idx.dates[run.date][run.slug] = idx.dates[run.date][run.slug] || {};
-    idx.dates[run.date][run.slug].url = run.url;
-    idx.dates[run.date][run.slug][run.formFactor] = {
-      jsonPath: run.jsonPath,
-      summary: run.summary
-    };
     idx.pages[run.slug] = idx.pages[run.slug] || {};
     idx.pages[run.slug][run.date] = idx.pages[run.slug][run.date] || {};
     idx.pages[run.slug][run.date].url = run.url;

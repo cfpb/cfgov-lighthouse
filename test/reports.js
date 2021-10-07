@@ -64,7 +64,7 @@ test( 'Build an index of runs from a single report', async t => {
 
 test( 'Build an index of runs from all the reports', async t => {
   const expected = JSON.parse( await fs.readFile( path.resolve( __dirname, 'fixtures/full-index.json' ) ) );
-  const emptyIndex = { dates: {}, pages: {}};
+  const emptyIndex = { pages: {}};
   const manifests = await getManifests( REPORTS_ROOT );
 
   const reducer = async ( prevIndex, manifest ) => {

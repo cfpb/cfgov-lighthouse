@@ -31,14 +31,14 @@ const logger = winston.createLogger( {
 } );
 
 /**
- * Iterate over all the timestampped report directories and return an object
- * that organizes them by both date and page slug.
+ * Iterate over all the timestamped report directories and return an object
+ * that organizes them first by page slug and then by date.
  * See test/fixtures/full-index.json for an example of the expected output.
  * @param {String} reportsRoot Directory containing all the report subdirectories.
  * @returns {Object} Object of Lighthouse runs organized by date and page.
  */
 async function buildIndexOfAllReports( reportsRoot ) {
-  const emptyIndex = { dates: {}, pages: {}};
+  const emptyIndex = { pages: {}};
   const manifests = await getManifests( reportsRoot );
 
   const reducer = async ( prevIndex, manifest ) => {
@@ -50,9 +50,9 @@ async function buildIndexOfAllReports( reportsRoot ) {
       const runLocation = getRunLocation( nonRepRun.jsonPath );
       try {
         const deletedRun = await deleteRun( runLocation );
-        logger.info( `Deleted ${ deletedRun }.` );
+        logger.verbose( `Deleted ${ deletedRun }.` );
       } catch ( err ) {
-        logger.warn( `Unable to delete ${ runLocation }. It might have already been deleted.` );
+        logger.verbose( `Unable to delete ${ runLocation }. It might have already been deleted.` );
       }
     } );
 

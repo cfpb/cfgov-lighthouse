@@ -13,9 +13,6 @@ const RELATIVE_URL = process.env.LIGHTHOUSE_RELATIVE_URL || '';
 // eslint-disable-next-line no-sync
 const allReports = JSON.parse( fs.readFileSync( path.resolve( 'docs/reports.json' ) ) );
 
-const mostRecentDate = Object.keys( allReports.dates ).pop();
-const mostRecentReport = allReports.dates[mostRecentDate];
-
 const nunjucksEnvironment = nunjucks.configure();
 nunjucksEnvironment.addFilter( 'date', nunjucksDateFilter );
 
@@ -58,8 +55,7 @@ function buildReportPlugin( reports ) {
           to: 'index.html',
           context: {
             RELATIVE_URL,
-            date: mostRecentDate,
-            summaryReport: mostRecentReport
+            pages: allReports.pages
           }
         },
         ...getPageTemplates( reports )

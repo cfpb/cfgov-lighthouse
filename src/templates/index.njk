@@ -3,8 +3,6 @@
 {% block body %}
 <header>
 <h1>Lighthouse report summary</h1>
-
-<h2>{{ date | replace( "_", "-") | date( "MMM. D, YYYY" ) }}</h2>
 </header>
 
 {% set factors = [ 'mobile', 'desktop' ] -%}
@@ -19,7 +17,8 @@
 <table class="cfpblh-table">
   <thead>
     <tr>
-      <th>Cf.gov Page</th>
+      <th>URL</th>
+      <th>DATE</th>
       {% for factor in factors %}
         <th>{{ factor | upper }} REPORT</th>
       {% endfor %}
@@ -27,10 +26,16 @@
     </tr>
   </thead>
   <tbody>
-    {% for page, results in summaryReport | dictsort %}
+    {% for page, resultlist in pages | dictsort %}
+    {% set latest_result = resultlist | dictsort | last %}
+    {% set date = latest_result[0] %}
+    {% set results = latest_result[1] %}
     <tr>
       <td>
         <a href="{{ results.url }}">{{ results.url }}</a>
+      </td>
+      <td>
+        {{ date  | replace( "_", "-") | date( "MMM. D, YYYY" ) }}
       </td>
       {% for factor in factors %}
       <td>
