@@ -18,11 +18,11 @@
   <thead>
     <tr>
       <th>URL</th>
-      <th>DATE</th>
+      <th>REPORT DATE</th>
       {% for factor in factors %}
-        <th>{{ factor | upper }} REPORT</th>
+        <th>{{ factor | upper }}</th>
       {% endfor %}
-      <th>REPORTS</th>
+      <th>HISTORY</th>
     </tr>
   </thead>
   <tbody>
@@ -52,7 +52,7 @@
           <a target="_blank"
              class="report-link"
              href="reports/{{ results[ factor ].jsonPath }}">
-            View full {{ factor }} report
+            View full report
           </a>
         </div>
       </td>
@@ -60,7 +60,7 @@
 
       <td>
         <a href="{{ RELATIVE_URL }}/{{ page }}/">
-          View report history
+          View history
         </a>
       </td>
     </tr>
