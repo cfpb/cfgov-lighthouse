@@ -10,16 +10,27 @@ const {
 const REPORTS_ROOT = path.resolve( __dirname, '../../docs/reports' );
 
 /**
+ * Get list of Lighthouse report subdirectories.
+ *
+ * @param {String} reportsDir Lighthouse reports directory.
+ * @returns {Array} List of report subdirectories.
+ */
+async function getReportSubdirectories( reportsDir ) {
+  const reportDirs = await fs.readdir( reportsDir, { withFileTypes: true } );
+  return reportDirs.filter( reportDir => reportDir.isDirectory() ).sort();
+}
+
+/**
  * Get list of Lighthouse report manifest locations.
  * @param {String} reportsDir Location of lighthouse reports directory.
  * @returns {Array} List of manifest locations.
  */
 async function getManifests( reportsDir ) {
-  const reportDirs = await fs.readdir( reportsDir, { withFileTypes: true } );
-  const manifests = reportDirs.filter( reportDir => reportDir.isDirectory() )
-    .map( reportDir => `${ reportsDir }/${ reportDir.name }/manifest.json` )
-    .sort();
-  return manifests;
+  const subdirs = await getReportSubdirectories( reportsDir );
+
+  return subdirs.map(
+    reportDir => `${ reportsDir }/${ reportDir.name }/manifest.json`
+  );
 }
 
 /**
@@ -126,11 +137,12 @@ function buildIndex( runs, index = { pages: {}} ) {
 
 module.exports = {
   REPORTS_ROOT,
-  getManifests,
-  readManifest,
-  getRunLocation,
+  buildIndex,
   deleteRun,
   getManifestRuns,
+  getManifests,
+  getReportSubdirectories,
+  getRunLocation,
   processManifestRuns,
-  buildIndex
+  readManifest
 };

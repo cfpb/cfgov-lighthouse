@@ -26,8 +26,8 @@ jobs:
       - name: Run Lighthouse CLI against specified cf.gov pages
         run: yarn lighthouse
 
-      - name: Index all the Lighthouse reports and generate reports.json
-        run: yarn index-reports
+      - name: Process Lighthouse reports to generate reports.json
+        run: yarn process-reports
 
       - name: Build the static website
         run: yarn build

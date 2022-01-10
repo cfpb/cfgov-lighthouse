@@ -5,7 +5,7 @@
     "clean": "rm -rf ./docs/static",
     "compile-dev": "webpack --mode=development",
     "compile-prod": "webpack --mode=production",
-    "index-reports": "node scripts/create-reports-index.js",
+    "process-reports": "node scripts/process-reports.js",
     "lighthouse": "lhci collect && lhci collect --additive --mobile && lhci upload",
     "lint": "eslint --max-warnings=0 lighthouserc.js scripts src webpack.config.js",
     "serve": "concurrently \"yarn serve-html\" \"yarn compile-dev --watch\"",
