@@ -35,8 +35,9 @@ jobs:
           LIGHTHOUSE_RELATIVE_URL: /cfgov-lighthouse
 
       - name: Commit reports and site back to GitHub
-        uses: EndBug/add-and-commit@v4
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          add: docs
+          file_pattern: docs
+          commit_message: Nightly Lighthouse run
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
