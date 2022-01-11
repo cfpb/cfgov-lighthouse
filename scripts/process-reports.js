@@ -4,16 +4,19 @@ const { promises: fs } = require( 'fs' );
 
 const {
   REPORTS_ROOT,
-  getRunLocation,
+  buildIndex,
   deleteRun,
-  getManifests,
-  readManifest,
   getManifestRuns,
-  processManifestRuns,
-  buildIndex
+  getManifests,
+  getReportSubdirectories,
+  getRunLocation,
+  readManifest,
+  processManifestRuns
 } = require( './lib/reports.js' );
 
 const INDEX_LOCATION = path.resolve( __dirname, '../docs/reports.json' );
+
+const KEEP_REPORTS_DAYS = 30;
 
 const loggerFormat = winston.format.combine(
   winston.format.colorize(),
@@ -31,9 +34,35 @@ const logger = winston.createLogger( {
 } );
 
 /**
+ * Delete any report subdirectories that are older than KEEP_REPORTS_DAYS.
+ *
+ * @param {String} reportsRoot Directory containing report subdirectories.
+ */
+async function deleteOldReportSubdirectories( reportsRoot ) {
+  const deleteOlderThan = new Date();
+  const deleteOlderThanDay = deleteOlderThan.getDate() - KEEP_REPORTS_DAYS;
+  deleteOlderThan.setDate( deleteOlderThanDay );
+
+  const subdirs = await getReportSubdirectories( reportsRoot );
+  subdirs.forEach( async subdir => {
+    if ( new Date( subdir.name ) < deleteOlderThan ) {
+      logger.info( `Deleting old report directory ${ subdir.name }` );
+      await fs.rmdir(
+        path.join( reportsRoot, subdir.name ),
+        { recursive: true }
+      );
+    }
+  } );
+}
+
+/**
  * Iterate over all the timestamped report directories and return an object
  * that organizes them first by page slug and then by date.
  * See test/fixtures/full-index.json for an example of the expected output.
+ *
+ * This function also deletes any non-representative run reports in order to
+ * save disk space.
+ *
  * @param {String} reportsRoot Directory containing all the report subdirectories.
  * @returns {Object} Object of Lighthouse runs organized by date and page.
  */
@@ -65,6 +94,7 @@ async function buildIndexOfAllReports( reportsRoot ) {
 
 ( async () => {
   try {
+    await deleteOldReportSubdirectories( REPORTS_ROOT );
     const index = await buildIndexOfAllReports( REPORTS_ROOT );
     await fs.writeFile( INDEX_LOCATION, JSON.stringify( index, 0, 2 ) );
     logger.info( `Successfully generated ${ INDEX_LOCATION }.` );

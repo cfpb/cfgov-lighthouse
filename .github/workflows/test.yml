@@ -18,8 +18,8 @@ jobs:
       - name: Run unit tests
         run: yarn test
 
-      - name: Index all the Lighthouse reports and generate reports.json
-        run: yarn index-reports
+      - name: Process Lighthouse reports to generate reports.json
+        run: yarn process-reports
 
       - name: Verify the static website builds without errors
         run: yarn build
