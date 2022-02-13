@@ -1,0 +1,1874 @@
+[
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/find-help-with-rent-and-utilities/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_02_13_00_44_34.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_02_13_00_44_34.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/find-help-with-rent-and-utilities/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_02_13_00_45_22.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_02_13_00_45_22.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_-2022_02_13_00_45_56.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_-2022_02_13_00_45_56.report.json",
+    "summary": {
+      "performance": 0.96,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_-2022_02_13_00_46_07.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_-2022_02_13_00_46_07.report.json",
+    "summary": {
+      "performance": 0.96,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/complaint/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_-2022_02_13_00_46_18.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_-2022_02_13_00_46_18.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/complaint/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_-2022_02_13_00_46_29.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_-2022_02_13_00_46_29.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/emergency-rental-assistance-for-renters/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_02_13_00_47_02.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_02_13_00_47_02.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/emergency-rental-assistance-for-renters/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_02_13_00_47_13.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_02_13_00_47_13.report.json",
+    "summary": {
+      "performance": 0.96,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/find-a-housing-counselor/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_02_13_00_47_24.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_02_13_00_47_24.report.json",
+    "summary": {
+      "performance": 0.96,
+      "accessibility": 0.98,
+      "best-practices": 0.87,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/find-a-housing-counselor/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_02_13_00_47_35.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_02_13_00_47_35.report.json",
+    "summary": {
+      "performance": 0.96,
+      "accessibility": 0.98,
+      "best-practices": 0.87,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/learnmore/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_learnmore_-2022_02_13_00_48_09.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_learnmore_-2022_02_13_00_48_09.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/learnmore/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_learnmore_-2022_02_13_00_48_20.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_learnmore_-2022_02_13_00_48_20.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/complaint/getting-started/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_getting_started_-2022_02_13_00_48_42.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_getting_started_-2022_02_13_00_48_42.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.83,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/complaint/getting-started/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_getting_started_-2022_02_13_00_48_53.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_getting_started_-2022_02_13_00_48_53.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.83,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/consumer-tools/debt-collection/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_02_13_00_49_04.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_02_13_00_49_04.report.json",
+    "summary": {
+      "performance": 0.86,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/consumer-tools/debt-collection/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_02_13_00_49_28.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_02_13_00_49_28.report.json",
+    "summary": {
+      "performance": 0.92,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_02_13_00_49_41.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_02_13_00_49_41.report.json",
+    "summary": {
+      "performance": 0.68,
+      "accessibility": 0.96,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_02_13_00_49_54.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_02_13_00_49_54.report.json",
+    "summary": {
+      "performance": 0.67,
+      "accessibility": 0.96,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_-2022_02_13_00_50_20.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_-2022_02_13_00_50_20.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_-2022_02_13_00_50_31.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_-2022_02_13_00_50_31.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-when-a-debt-collector-contacts-me-en-1695/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_02_13_00_50_53.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_02_13_00_50_53.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-when-a-debt-collector-contacts-me-en-1695/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_02_13_00_51_04.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_02_13_00_51_04.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-best-way-to-negotiate-a-settlement-with-a-debt-collector-en-1447/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_02_13_00_51_39.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_02_13_00_51_39.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-best-way-to-negotiate-a-settlement-with-a-debt-collector-en-1447/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_02_13_00_51_51.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_02_13_00_51_51.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_02_13_00_52_03.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_02_13_00_52_03.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_02_13_00_52_15.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_02_13_00_52_15.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/what-to-do-if-youre-facing-eviction/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_02_13_00_52_38.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_02_13_00_52_38.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/what-to-do-if-youre-facing-eviction/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_02_13_00_53_00.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_02_13_00_53_00.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/about-us/blog/new-va-rule-relieves-financial-distress-for-thousands-of-veterans-with-medical-bills/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_about_us_blog_new_va_rule_relieves_financial_distress_for_thousands_of_veterans_with_medical_bills_-2022_02_13_00_53_11.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_about_us_blog_new_va_rule_relieves_financial_distress_for_thousands_of_veterans_with_medical_bills_-2022_02_13_00_53_11.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/about-us/blog/new-va-rule-relieves-financial-distress-for-thousands-of-veterans-with-medical-bills/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_about_us_blog_new_va_rule_relieves_financial_distress_for_thousands_of_veterans_with_medical_bills_-2022_02_13_00_53_33.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_about_us_blog_new_va_rule_relieves_financial_distress_for_thousands_of_veterans_with_medical_bills_-2022_02_13_00_53_33.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_02_13_00_53_55.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_02_13_00_53_55.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_02_13_00_54_06.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_02_13_00_54_06.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_02_13_00_54_17.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_02_13_00_54_17.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_02_13_00_54_39.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_02_13_00_54_39.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/rules-policy/regulations/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_02_13_00_55_02.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_02_13_00_55_02.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.91
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/rules-policy/regulations/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_02_13_00_55_13.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_02_13_00_55_13.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.91
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-copy-of-my-credit-reports-en-5/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_02_13_00_55_36.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_02_13_00_55_36.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-copy-of-my-credit-reports-en-5/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_02_13_00_55_48.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_02_13_00_55_48.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/learn-about-forbearance/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_learn_about_forbearance_-2022_02_13_00_56_12.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_learn_about_forbearance_-2022_02_13_00_56_12.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/learn-about-forbearance/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_learn_about_forbearance_-2022_02_13_00_56_24.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_learn_about_forbearance_-2022_02_13_00_56_24.report.json",
+    "summary": {
+      "performance": 0.98,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_02_13_00_56_37.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_02_13_00_56_37.report.json",
+    "summary": {
+      "performance": 0.98,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_02_13_00_56_50.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_02_13_00_56_50.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_02_13_00_57_12.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_02_13_00_57_12.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_02_13_00_57_35.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_02_13_00_57_35.report.json",
+    "summary": {
+      "performance": 0.98,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/es/coronavirus/asistencia-hipotecas-y-viviendas/protecciones-arrendatarios/encuentre-ayuda-para-pagar-renta-y-servicios/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_es_coronavirus_asistencia_hipotecas_y_viviendas_protecciones_arrendatarios_encuentre_ayuda_para_pagar_renta_y_servicios_-2022_02_13_00_57_46.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_es_coronavirus_asistencia_hipotecas_y_viviendas_protecciones_arrendatarios_encuentre_ayuda_para_pagar_renta_y_servicios_-2022_02_13_00_57_46.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/es/coronavirus/asistencia-hipotecas-y-viviendas/protecciones-arrendatarios/encuentre-ayuda-para-pagar-renta-y-servicios/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_es_coronavirus_asistencia_hipotecas_y_viviendas_protecciones_arrendatarios_encuentre_ayuda_para_pagar_renta_y_servicios_-2022_02_13_00_58_09.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_es_coronavirus_asistencia_hipotecas_y_viviendas_protecciones_arrendatarios_encuentre_ayuda_para_pagar_renta_y_servicios_-2022_02_13_00_58_09.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_02_13_00_59_06.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_02_13_00_59_06.report.json",
+    "summary": {
+      "performance": 0.98,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.91
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_02_13_00_59_17.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_02_13_00_59_17.report.json",
+    "summary": {
+      "performance": 0.86,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.91
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/find-help-with-rent-and-utilities/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_02_13_00_59_51.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_02_13_00_59_51.report.json",
+    "summary": {
+      "performance": 0.41,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/find-help-with-rent-and-utilities/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_02_13_01_00_13.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_02_13_01_00_13.report.json",
+    "summary": {
+      "performance": 0.52,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_-2022_02_13_01_00_36.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_-2022_02_13_01_00_36.report.json",
+    "summary": {
+      "performance": 0.66,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.93,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_-2022_02_13_01_00_47.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_-2022_02_13_01_00_47.report.json",
+    "summary": {
+      "performance": 0.67,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.93,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/complaint/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_-2022_02_13_01_01_20.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_-2022_02_13_01_01_20.report.json",
+    "summary": {
+      "performance": 0.74,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/complaint/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_-2022_02_13_01_01_31.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_-2022_02_13_01_01_31.report.json",
+    "summary": {
+      "performance": 0.83,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/emergency-rental-assistance-for-renters/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_02_13_01_01_53.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_02_13_01_01_53.report.json",
+    "summary": {
+      "performance": 0.75,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/emergency-rental-assistance-for-renters/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_02_13_01_02_05.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_02_13_01_02_05.report.json",
+    "summary": {
+      "performance": 0.76,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/find-a-housing-counselor/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_02_13_01_02_16.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_02_13_01_02_16.report.json",
+    "summary": {
+      "performance": 0.86,
+      "accessibility": 0.98,
+      "best-practices": 0.87,
+      "seo": 0.93,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/find-a-housing-counselor/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_02_13_01_02_27.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_02_13_01_02_27.report.json",
+    "summary": {
+      "performance": 0.88,
+      "accessibility": 0.98,
+      "best-practices": 0.87,
+      "seo": 0.93,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/learnmore/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_learnmore_-2022_02_13_01_03_00.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_learnmore_-2022_02_13_01_03_00.report.json",
+    "summary": {
+      "performance": 0.88,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/learnmore/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_learnmore_-2022_02_13_01_03_11.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_learnmore_-2022_02_13_01_03_11.report.json",
+    "summary": {
+      "performance": 0.9,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/complaint/getting-started/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_getting_started_-2022_02_13_01_03_22.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_getting_started_-2022_02_13_01_03_22.report.json",
+    "summary": {
+      "performance": 0.89,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.86,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/complaint/getting-started/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_getting_started_-2022_02_13_01_03_33.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_getting_started_-2022_02_13_01_03_33.report.json",
+    "summary": {
+      "performance": 0.9,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.86,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/consumer-tools/debt-collection/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_02_13_01_03_55.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_02_13_01_03_55.report.json",
+    "summary": {
+      "performance": 0.46,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.93,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/consumer-tools/debt-collection/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_02_13_01_04_19.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_02_13_01_04_19.report.json",
+    "summary": {
+      "performance": 0.5,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.93,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_02_13_01_04_31.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_02_13_01_04_31.report.json",
+    "summary": {
+      "performance": 0.31,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_02_13_01_04_55.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_02_13_01_04_55.report.json",
+    "summary": {
+      "performance": 0.27,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_-2022_02_13_01_05_07.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_-2022_02_13_01_05_07.report.json",
+    "summary": {
+      "performance": 0.72,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_-2022_02_13_01_05_18.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_-2022_02_13_01_05_18.report.json",
+    "summary": {
+      "performance": 0.74,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-when-a-debt-collector-contacts-me-en-1695/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_02_13_01_05_40.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_02_13_01_05_40.report.json",
+    "summary": {
+      "performance": 0.87,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-when-a-debt-collector-contacts-me-en-1695/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_02_13_01_05_51.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_02_13_01_05_51.report.json",
+    "summary": {
+      "performance": 0.88,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-best-way-to-negotiate-a-settlement-with-a-debt-collector-en-1447/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_02_13_01_06_13.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_02_13_01_06_13.report.json",
+    "summary": {
+      "performance": 0.67,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.93,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-best-way-to-negotiate-a-settlement-with-a-debt-collector-en-1447/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_02_13_01_06_26.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_02_13_01_06_26.report.json",
+    "summary": {
+      "performance": 0.64,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.93,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_02_13_01_06_51.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_02_13_01_06_51.report.json",
+    "summary": {
+      "performance": 0.56,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_02_13_01_07_14.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_02_13_01_07_14.report.json",
+    "summary": {
+      "performance": 0.52,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/what-to-do-if-youre-facing-eviction/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_02_13_01_07_37.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_02_13_01_07_37.report.json",
+    "summary": {
+      "performance": 0.77,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/what-to-do-if-youre-facing-eviction/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_02_13_01_07_48.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_02_13_01_07_48.report.json",
+    "summary": {
+      "performance": 0.76,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/about-us/blog/new-va-rule-relieves-financial-distress-for-thousands-of-veterans-with-medical-bills/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_about_us_blog_new_va_rule_relieves_financial_distress_for_thousands_of_veterans_with_medical_bills_-2022_02_13_01_08_10.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_about_us_blog_new_va_rule_relieves_financial_distress_for_thousands_of_veterans_with_medical_bills_-2022_02_13_01_08_10.report.json",
+    "summary": {
+      "performance": 0.88,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/about-us/blog/new-va-rule-relieves-financial-distress-for-thousands-of-veterans-with-medical-bills/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_about_us_blog_new_va_rule_relieves_financial_distress_for_thousands_of_veterans_with_medical_bills_-2022_02_13_01_08_21.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_about_us_blog_new_va_rule_relieves_financial_distress_for_thousands_of_veterans_with_medical_bills_-2022_02_13_01_08_21.report.json",
+    "summary": {
+      "performance": 0.84,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_02_13_01_08_43.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_02_13_01_08_43.report.json",
+    "summary": {
+      "performance": 0.75,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_02_13_01_08_54.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_02_13_01_08_54.report.json",
+    "summary": {
+      "performance": 0.77,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_02_13_01_09_16.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_02_13_01_09_16.report.json",
+    "summary": {
+      "performance": 0.85,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_02_13_01_09_27.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_02_13_01_09_27.report.json",
+    "summary": {
+      "performance": 0.85,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/rules-policy/regulations/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_02_13_01_09_38.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_02_13_01_09_38.report.json",
+    "summary": {
+      "performance": 0.84,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.92
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/rules-policy/regulations/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_02_13_01_09_49.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_02_13_01_09_49.report.json",
+    "summary": {
+      "performance": 0.89,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.92
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-copy-of-my-credit-reports-en-5/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_02_13_01_10_23.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_02_13_01_10_23.report.json",
+    "summary": {
+      "performance": 0.66,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-copy-of-my-credit-reports-en-5/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_02_13_01_10_35.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_02_13_01_10_35.report.json",
+    "summary": {
+      "performance": 0.66,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/learn-about-forbearance/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_learn_about_forbearance_-2022_02_13_01_10_59.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_learn_about_forbearance_-2022_02_13_01_10_59.report.json",
+    "summary": {
+      "performance": 0.56,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/learn-about-forbearance/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_learn_about_forbearance_-2022_02_13_01_11_10.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_learn_about_forbearance_-2022_02_13_01_11_10.report.json",
+    "summary": {
+      "performance": 0.57,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_02_13_01_11_22.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_02_13_01_11_22.report.json",
+    "summary": {
+      "performance": 0.88,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_02_13_01_11_33.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_02_13_01_11_33.report.json",
+    "summary": {
+      "performance": 0.89,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_02_13_01_12_07.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_02_13_01_12_07.report.json",
+    "summary": {
+      "performance": 0.77,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.93,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_02_13_01_12_18.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_02_13_01_12_18.report.json",
+    "summary": {
+      "performance": 0.68,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.93,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/es/coronavirus/asistencia-hipotecas-y-viviendas/protecciones-arrendatarios/encuentre-ayuda-para-pagar-renta-y-servicios/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_es_coronavirus_asistencia_hipotecas_y_viviendas_protecciones_arrendatarios_encuentre_ayuda_para_pagar_renta_y_servicios_-2022_02_13_01_12_51.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_es_coronavirus_asistencia_hipotecas_y_viviendas_protecciones_arrendatarios_encuentre_ayuda_para_pagar_renta_y_servicios_-2022_02_13_01_12_51.report.json",
+    "summary": {
+      "performance": 0.63,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/es/coronavirus/asistencia-hipotecas-y-viviendas/protecciones-arrendatarios/encuentre-ayuda-para-pagar-renta-y-servicios/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_es_coronavirus_asistencia_hipotecas_y_viviendas_protecciones_arrendatarios_encuentre_ayuda_para_pagar_renta_y_servicios_-2022_02_13_01_13_13.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_es_coronavirus_asistencia_hipotecas_y_viviendas_protecciones_arrendatarios_encuentre_ayuda_para_pagar_renta_y_servicios_-2022_02_13_01_13_13.report.json",
+    "summary": {
+      "performance": 0.62,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_02_13_01_13_36.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_02_13_01_13_36.report.json",
+    "summary": {
+      "performance": 0.73,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.92
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/?mobile=1",
+    "isRepresentativeRun": false,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_02_13_01_13_58.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_02_13_01_13_58.report.json",
+    "summary": {
+      "performance": 0.75,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.92
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/find-help-with-rent-and-utilities/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_02_13_00_44_58.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_02_13_00_44_58.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_-2022_02_13_00_45_45.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_-2022_02_13_00_45_45.report.json",
+    "summary": {
+      "performance": 0.96,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/complaint/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_-2022_02_13_00_46_40.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_-2022_02_13_00_46_40.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/emergency-rental-assistance-for-renters/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_02_13_00_46_51.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_02_13_00_46_51.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/find-a-housing-counselor/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_02_13_00_47_47.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_02_13_00_47_47.report.json",
+    "summary": {
+      "performance": 0.96,
+      "accessibility": 0.98,
+      "best-practices": 0.87,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/learnmore/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_learnmore_-2022_02_13_00_47_58.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_learnmore_-2022_02_13_00_47_58.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/complaint/getting-started/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_getting_started_-2022_02_13_00_48_31.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_getting_started_-2022_02_13_00_48_31.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.83,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/consumer-tools/debt-collection/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_02_13_00_49_16.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_02_13_00_49_16.report.json",
+    "summary": {
+      "performance": 0.93,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_02_13_00_50_07.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_02_13_00_50_07.report.json",
+    "summary": {
+      "performance": 0.66,
+      "accessibility": 0.96,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_-2022_02_13_00_50_42.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_-2022_02_13_00_50_42.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-when-a-debt-collector-contacts-me-en-1695/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_02_13_00_51_15.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_02_13_00_51_15.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-best-way-to-negotiate-a-settlement-with-a-debt-collector-en-1447/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_02_13_00_51_27.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_02_13_00_51_27.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_02_13_00_52_26.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_02_13_00_52_26.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/what-to-do-if-youre-facing-eviction/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_02_13_00_52_49.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_02_13_00_52_49.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/about-us/blog/new-va-rule-relieves-financial-distress-for-thousands-of-veterans-with-medical-bills/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_about_us_blog_new_va_rule_relieves_financial_distress_for_thousands_of_veterans_with_medical_bills_-2022_02_13_00_53_22.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_about_us_blog_new_va_rule_relieves_financial_distress_for_thousands_of_veterans_with_medical_bills_-2022_02_13_00_53_22.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_02_13_00_53_44.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_02_13_00_53_44.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_02_13_00_54_28.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_02_13_00_54_28.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/rules-policy/regulations/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_02_13_00_54_51.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_02_13_00_54_51.report.json",
+    "summary": {
+      "performance": 0.97,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.91
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-copy-of-my-credit-reports-en-5/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_02_13_00_55_24.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_02_13_00_55_24.report.json",
+    "summary": {
+      "performance": 0.98,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/learn-about-forbearance/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_learn_about_forbearance_-2022_02_13_00_56_00.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_learn_about_forbearance_-2022_02_13_00_56_00.report.json",
+    "summary": {
+      "performance": 0.99,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_02_13_00_57_01.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_02_13_00_57_01.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_02_13_00_57_23.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_02_13_00_57_23.report.json",
+    "summary": {
+      "performance": 0.98,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/es/coronavirus/asistencia-hipotecas-y-viviendas/protecciones-arrendatarios/encuentre-ayuda-para-pagar-renta-y-servicios/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_es_coronavirus_asistencia_hipotecas_y_viviendas_protecciones_arrendatarios_encuentre_ayuda_para_pagar_renta_y_servicios_-2022_02_13_00_58_32.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_es_coronavirus_asistencia_hipotecas_y_viviendas_protecciones_arrendatarios_encuentre_ayuda_para_pagar_renta_y_servicios_-2022_02_13_00_58_32.report.json",
+    "summary": {
+      "performance": 1,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.36
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_02_13_00_58_55.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_02_13_00_58_55.report.json",
+    "summary": {
+      "performance": 0.98,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.91
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/find-help-with-rent-and-utilities/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_02_13_00_59_29.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_02_13_00_59_29.report.json",
+    "summary": {
+      "performance": 0.54,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_-2022_02_13_01_00_58.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_-2022_02_13_01_00_58.report.json",
+    "summary": {
+      "performance": 0.64,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.93,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/complaint/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_-2022_02_13_01_01_09.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_-2022_02_13_01_01_09.report.json",
+    "summary": {
+      "performance": 0.82,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/emergency-rental-assistance-for-renters/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_02_13_01_01_42.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_02_13_01_01_42.report.json",
+    "summary": {
+      "performance": 0.71,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/find-a-housing-counselor/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_02_13_01_02_38.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_02_13_01_02_38.report.json",
+    "summary": {
+      "performance": 0.9,
+      "accessibility": 0.98,
+      "best-practices": 0.87,
+      "seo": 0.93,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/learnmore/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_learnmore_-2022_02_13_01_02_49.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_learnmore_-2022_02_13_01_02_49.report.json",
+    "summary": {
+      "performance": 0.89,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/complaint/getting-started/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_getting_started_-2022_02_13_01_03_44.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_complaint_getting_started_-2022_02_13_01_03_44.report.json",
+    "summary": {
+      "performance": 0.88,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.86,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/consumer-tools/debt-collection/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_02_13_01_04_07.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_02_13_01_04_07.report.json",
+    "summary": {
+      "performance": 0.51,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.93,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_02_13_01_04_43.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_02_13_01_04_43.report.json",
+    "summary": {
+      "performance": 0.27,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_-2022_02_13_01_05_29.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_-2022_02_13_01_05_29.report.json",
+    "summary": {
+      "performance": 0.76,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-when-a-debt-collector-contacts-me-en-1695/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_02_13_01_06_02.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_02_13_01_06_02.report.json",
+    "summary": {
+      "performance": 0.89,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-best-way-to-negotiate-a-settlement-with-a-debt-collector-en-1447/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_02_13_01_06_38.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_02_13_01_06_38.report.json",
+    "summary": {
+      "performance": 0.64,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.93,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_02_13_01_07_02.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_02_13_01_07_02.report.json",
+    "summary": {
+      "performance": 0.52,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/what-to-do-if-youre-facing-eviction/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_02_13_01_07_26.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_02_13_01_07_26.report.json",
+    "summary": {
+      "performance": 0.78,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/about-us/blog/new-va-rule-relieves-financial-distress-for-thousands-of-veterans-with-medical-bills/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_about_us_blog_new_va_rule_relieves_financial_distress_for_thousands_of_veterans_with_medical_bills_-2022_02_13_01_07_59.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_about_us_blog_new_va_rule_relieves_financial_distress_for_thousands_of_veterans_with_medical_bills_-2022_02_13_01_07_59.report.json",
+    "summary": {
+      "performance": 0.88,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_02_13_01_08_32.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_02_13_01_08_32.report.json",
+    "summary": {
+      "performance": 0.76,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_02_13_01_09_05.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_02_13_01_09_05.report.json",
+    "summary": {
+      "performance": 0.87,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/rules-policy/regulations/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_02_13_01_10_00.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_02_13_01_10_00.report.json",
+    "summary": {
+      "performance": 0.85,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.92
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-copy-of-my-credit-reports-en-5/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_02_13_01_10_11.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_02_13_01_10_11.report.json",
+    "summary": {
+      "performance": 0.66,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/learn-about-forbearance/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_learn_about_forbearance_-2022_02_13_01_10_47.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_learn_about_forbearance_-2022_02_13_01_10_47.report.json",
+    "summary": {
+      "performance": 0.56,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_02_13_01_11_44.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_02_13_01_11_44.report.json",
+    "summary": {
+      "performance": 0.87,
+      "accessibility": 1,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_02_13_01_11_55.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_02_13_01_11_55.report.json",
+    "summary": {
+      "performance": 0.66,
+      "accessibility": 1,
+      "best-practices": 0.87,
+      "seo": 0.93,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/es/coronavirus/asistencia-hipotecas-y-viviendas/protecciones-arrendatarios/encuentre-ayuda-para-pagar-renta-y-servicios/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_es_coronavirus_asistencia_hipotecas_y_viviendas_protecciones_arrendatarios_encuentre_ayuda_para_pagar_renta_y_servicios_-2022_02_13_01_12_29.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_es_coronavirus_asistencia_hipotecas_y_viviendas_protecciones_arrendatarios_encuentre_ayuda_para_pagar_renta_y_servicios_-2022_02_13_01_12_29.report.json",
+    "summary": {
+      "performance": 0.62,
+      "accessibility": 0.99,
+      "best-practices": 0.93,
+      "seo": 0.92,
+      "pwa": 0.42
+    }
+  },
+  {
+    "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/?mobile=1",
+    "isRepresentativeRun": true,
+    "htmlPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_02_13_01_13_47.report.html",
+    "jsonPath": "/home/runner/work/cfgov-lighthouse/cfgov-lighthouse/docs/reports/2022-02-13T01:14:08.249Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_02_13_01_13_47.report.json",
+    "summary": {
+      "performance": 0.73,
+      "accessibility": 0.98,
+      "best-practices": 0.93,
+      "seo": 1,
+      "pwa": 0.92
+    }
+  }
+]
