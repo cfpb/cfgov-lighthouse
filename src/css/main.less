@@ -1,57 +1,57 @@
-@import "node_modules/@cfpb/cfpb-layout/src/cfpb-layout.less";
-@import "node_modules/@cfpb/cfpb-typography/src/cfpb-typography.less";
+@import "@cfpb/cfpb-layout/src/cfpb-layout.less";
+@import "@cfpb/cfpb-typography/src/cfpb-typography.less";
 
 @use-font-cdn: true;
 
 .cfpblh-container {
-    width: 100%;
-    padding-top: 15px;
+  width: 100%;
+  padding-top: 15px;
 }
 
 .cfpblh-container header,
 .cfpblh-table {
-    margin: auto;
-    width: calc( 100% - 60px );
+  margin: auto;
+  width: calc(100% - 60px);
 }
 
 // First column.
-.cfpblh-table td:nth-child(1){
-    //max-width: 25%;
+.cfpblh-table td:nth-child(1) {
+  //max-width: 25%;
 }
 
 // Second column
-.cfpblh-table td:nth-child(2){
-    min-width: 200px;
+.cfpblh-table td:nth-child(2) {
+  min-width: 200px;
 }
 
 // Third column
-.cfpblh-table td:nth-child(3){
-    min-width: 200px;
+.cfpblh-table td:nth-child(3) {
+  min-width: 200px;
 }
 
 // Fourth column
-.cfpblh-table td:nth-child(4){
-    vertical-align: top;
+.cfpblh-table td:nth-child(4) {
+  vertical-align: top;
 }
 
 .u-transparent {
-    opacity: 0;
+  opacity: 0;
 }
 
 .u-fill-red {
-    fill: @red;
+  fill: @red;
 }
 
 .u-fill-gold {
-    fill: @gold;
+  fill: @gold;
 }
 
 .u-unstyled-link {
-    font-style: none !important;
-    color: @black !important;
-    border-bottom: none !important;
+  font-style: none !important;
+  color: @black !important;
+  border-bottom: none !important;
 
-    &:hover {
-        color: @pacific-dark !important;
-    }
+  &:hover {
+    color: @pacific-dark !important;
+  }
 }
