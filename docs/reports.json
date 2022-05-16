@@ -1,29 +1,6 @@
 {
   "pages": {
     "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/find-help-with-rent-and-utilities/",
-        "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_04_15_00_09_39.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 0.93,
-            "seo": 0.92,
-            "pwa": 0.73
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_04_15_00_22_52.report.json",
-          "summary": {
-            "performance": 0.6,
-            "accessibility": 1,
-            "best-practices": 0.93,
-            "seo": 0.92,
-            "pwa": 0.75
-          }
-        }
-      },
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/find-help-with-rent-and-utilities/",
         "desktop": {
@@ -713,32 +690,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/",
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/find-help-with-rent-and-utilities/",
         "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_-2022_04_15_00_10_35.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_05_16_00_12_48.report.json",
           "summary": {
-            "performance": 0.98,
+            "performance": 0.96,
             "accessibility": 1,
-            "best-practices": 0.93,
-            "seo": 1,
-            "pwa": 0.73
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_-2022_04_15_00_24_12.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_05_16_00_26_19.report.json",
           "summary": {
-            "performance": 0.67,
+            "performance": 0.61,
             "accessibility": 1,
-            "best-practices": 0.93,
-            "seo": 1,
-            "pwa": 0.75
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_": {
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/",
         "desktop": {
@@ -1428,32 +1405,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_complaint_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/complaint/",
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/",
         "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_complaint_-2022_04_15_00_11_21.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_-2022_05_16_00_13_22.report.json",
           "summary": {
-            "performance": 0.98,
+            "performance": 0.96,
             "accessibility": 1,
-            "best-practices": 0.93,
+            "best-practices": 1,
             "seo": 1,
-            "pwa": 0.73
+            "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_complaint_-2022_04_15_00_24_57.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_-2022_05_16_00_27_15.report.json",
           "summary": {
-            "performance": 0.61,
+            "performance": 0.66,
             "accessibility": 1,
-            "best-practices": 0.93,
+            "best-practices": 1,
             "seo": 1,
-            "pwa": 0.75
+            "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_complaint_": {
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/complaint/",
         "desktop": {
@@ -2143,32 +2120,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_find_a_housing_counselor_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/find-a-housing-counselor/",
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/complaint/",
         "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_04_15_00_11_54.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_complaint_-2022_05_16_00_13_57.report.json",
           "summary": {
-            "performance": 0.97,
-            "accessibility": 0.98,
-            "best-practices": 0.87,
-            "seo": 0.92,
-            "pwa": 0.73
+            "performance": 0.88,
+            "accessibility": 1,
+            "best-practices": 0.92,
+            "seo": 1,
+            "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_04_15_00_25_20.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_complaint_-2022_05_16_00_27_37.report.json",
           "summary": {
-            "performance": 0.9,
-            "accessibility": 0.98,
-            "best-practices": 0.87,
-            "seo": 0.93,
-            "pwa": 0.75
+            "performance": 0.51,
+            "accessibility": 1,
+            "best-practices": 0.92,
+            "seo": 1,
+            "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_find_a_housing_counselor_": {
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/find-a-housing-counselor/",
         "desktop": {
@@ -2858,32 +2835,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_learnmore_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/learnmore/",
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/find-a-housing-counselor/",
         "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_learnmore_-2022_04_15_00_12_05.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_05_16_00_14_44.report.json",
           "summary": {
-            "performance": 1,
-            "accessibility": 1,
-            "best-practices": 0.93,
-            "seo": 1,
-            "pwa": 0.73
+            "performance": 0.95,
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_learnmore_-2022_04_15_00_25_42.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_05_16_00_28_13.report.json",
           "summary": {
-            "performance": 0.87,
-            "accessibility": 1,
-            "best-practices": 0.93,
-            "seo": 1,
-            "pwa": 0.75
+            "performance": 0.82,
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_learnmore_": {
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/learnmore/",
         "desktop": {
@@ -3573,32 +3550,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/emergency-rental-assistance-for-renters/",
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/learnmore/",
         "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_04_15_00_12_38.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_learnmore_-2022_05_16_00_15_17.report.json",
           "summary": {
             "performance": 1,
-            "accessibility": 0.98,
-            "best-practices": 0.93,
-            "seo": 0.92,
-            "pwa": 0.73
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_04_15_00_26_38.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_learnmore_-2022_05_16_00_28_47.report.json",
           "summary": {
-            "performance": 0.75,
-            "accessibility": 0.98,
-            "best-practices": 0.93,
-            "seo": 0.92,
-            "pwa": 0.75
+            "performance": 0.84,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_": {
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/emergency-rental-assistance-for-renters/",
         "desktop": {
@@ -4288,32 +4265,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_consumer_tools_debt_collection_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/debt-collection/",
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/emergency-rental-assistance-for-renters/",
         "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_04_15_00_13_37.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_05_16_00_15_51.report.json",
           "summary": {
             "performance": 0.96,
             "accessibility": 0.98,
-            "best-practices": 0.93,
+            "best-practices": 1,
             "seo": 0.92,
-            "pwa": 0.73
+            "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_04_15_00_26_49.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_05_16_00_29_43.report.json",
           "summary": {
-            "performance": 0.4,
+            "performance": 0.74,
             "accessibility": 0.98,
-            "best-practices": 0.93,
-            "seo": 0.93,
-            "pwa": 0.75
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_consumer_tools_debt_collection_": {
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/consumer-tools/debt-collection/",
         "desktop": {
@@ -5003,32 +4980,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-when-a-debt-collector-contacts-me-en-1695/",
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/debt-collection/",
         "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_04_15_00_14_01.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_05_16_00_16_27.report.json",
           "summary": {
-            "performance": 1,
-            "accessibility": 1,
-            "best-practices": 0.93,
-            "seo": 1,
-            "pwa": 0.73
+            "performance": 0.94,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_04_15_00_27_26.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_05_16_00_29_54.report.json",
           "summary": {
-            "performance": 0.87,
-            "accessibility": 1,
-            "best-practices": 0.93,
-            "seo": 1,
-            "pwa": 0.75
+            "performance": 0.5,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 0.93,
+            "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_": {
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-when-a-debt-collector-contacts-me-en-1695/",
         "desktop": {
@@ -5494,29 +5471,6 @@
       }
     },
     "www_consumerfinance_gov-_data_research_consumer_complaints_search_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/",
-        "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_04_15_00_14_23.report.json",
-          "summary": {
-            "performance": 0.74,
-            "accessibility": 0.96,
-            "best-practices": 0.93,
-            "seo": 1,
-            "pwa": 0.73
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_04_15_00_28_14.report.json",
-          "summary": {
-            "performance": 0.31,
-            "accessibility": 0.98,
-            "best-practices": 0.93,
-            "seo": 0.99,
-            "pwa": 0.75
-          }
-        }
-      },
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/",
         "desktop": {
@@ -6206,32 +6160,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-best-way-to-negotiate-a-settlement-with-a-debt-collector-en-1447/",
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/",
         "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_04_15_00_15_10.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_05_16_00_16_39.report.json",
           "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 0.93,
-            "seo": 0.92,
-            "pwa": 0.73
+            "performance": 0.72,
+            "accessibility": 0.96,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_04_15_00_28_49.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_05_16_00_30_56.report.json",
           "summary": {
-            "performance": 0.66,
-            "accessibility": 1,
-            "best-practices": 0.93,
-            "seo": 0.93,
-            "pwa": 0.75
+            "performance": 0.3,
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 0.99,
+            "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_": {
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-best-way-to-negotiate-a-settlement-with-a-debt-collector-en-1447/",
         "desktop": {
@@ -6763,32 +6717,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_get_homeowner_assistance_funds_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/get-homeowner-assistance-funds/",
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-best-way-to-negotiate-a-settlement-with-a-debt-collector-en-1447/",
         "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_get_homeowner_assistance_funds_-2022_04_15_00_15_35.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_05_16_00_18_15.report.json",
           "summary": {
-            "performance": 1,
-            "accessibility": 0.98,
-            "best-practices": 0.93,
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 0.92,
             "seo": 0.92,
-            "pwa": 0.73
+            "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_get_homeowner_assistance_funds_-2022_04_15_00_29_13.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_05_16_00_32_06.report.json",
           "summary": {
-            "performance": 0.73,
-            "accessibility": 0.98,
-            "best-practices": 0.93,
-            "seo": 0.92,
-            "pwa": 0.75
+            "performance": 0.63,
+            "accessibility": 1,
+            "best-practices": 0.92,
+            "seo": 0.93,
+            "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_get_homeowner_assistance_funds_": {
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/get-homeowner-assistance-funds/",
         "desktop": {
@@ -7478,32 +7432,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-copy-of-my-credit-reports-en-5/",
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/get-homeowner-assistance-funds/",
         "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_04_15_00_16_20.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_get_homeowner_assistance_funds_-2022_05_16_00_18_50.report.json",
           "summary": {
-            "performance": 0.99,
+            "performance": 1,
             "accessibility": 0.98,
-            "best-practices": 0.93,
-            "seo": 1,
-            "pwa": 0.73
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_04_15_00_29_59.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_get_homeowner_assistance_funds_-2022_05_16_00_32_41.report.json",
           "summary": {
-            "performance": 0.66,
+            "performance": 0.73,
             "accessibility": 0.98,
-            "best-practices": 0.93,
-            "seo": 1,
-            "pwa": 0.75
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_": {
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-copy-of-my-credit-reports-en-5/",
         "desktop": {
@@ -7979,32 +7933,22 @@
             "pwa": 0.7
           }
         }
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-copy-of-my-credit-reports-en-5/",
+        "desktop": {
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_05_16_00_33_04.report.json",
+          "summary": {
+            "performance": 0.69,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 1,
+            "pwa": 0.7
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_rules_policy_regulations_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/rules-policy/regulations/",
-        "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_04_15_00_17_05.report.json",
-          "summary": {
-            "performance": 1,
-            "accessibility": 0.98,
-            "best-practices": 0.93,
-            "seo": 1,
-            "pwa": 0.91
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_04_15_00_30_34.report.json",
-          "summary": {
-            "performance": 0.86,
-            "accessibility": 0.98,
-            "best-practices": 0.93,
-            "seo": 1,
-            "pwa": 0.92
-          }
-        }
-      },
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/rules-policy/regulations/",
         "desktop": {
@@ -8694,32 +8638,32 @@
             "pwa": 0.9
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/what-to-do-if-youre-facing-eviction/",
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/rules-policy/regulations/",
         "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_04_15_00_17_38.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_05_16_00_20_23.report.json",
           "summary": {
             "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 0.93,
-            "seo": 0.92,
-            "pwa": 0.73
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.89
           }
         },
         "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_04_15_00_31_18.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_05_16_00_34_14.report.json",
           "summary": {
-            "performance": 0.77,
-            "accessibility": 1,
-            "best-practices": 0.93,
-            "seo": 0.92,
-            "pwa": 0.75
+            "performance": 0.82,
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.9
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_": {
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/what-to-do-if-youre-facing-eviction/",
         "desktop": {
@@ -9409,32 +9353,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/",
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/what-to-do-if-youre-facing-eviction/",
         "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_04_15_00_18_11.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_05_16_00_19_38.report.json",
           "summary": {
-            "performance": 1,
-            "accessibility": 0.98,
-            "best-practices": 0.93,
+            "performance": 0.86,
+            "accessibility": 1,
+            "best-practices": 1,
             "seo": 0.92,
-            "pwa": 0.73
+            "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_04_15_00_31_51.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_05_16_00_33_51.report.json",
           "summary": {
-            "performance": 0.76,
-            "accessibility": 0.98,
-            "best-practices": 0.93,
+            "performance": 0.7,
+            "accessibility": 1,
+            "best-practices": 1,
             "seo": 0.92,
-            "pwa": 0.75
+            "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_": {
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/",
         "desktop": {
@@ -10124,349 +10068,25 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
-        "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_15_00_18_22.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 0.99,
-            "best-practices": 0.93,
-            "seo": 0.92,
-            "pwa": 0.73
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_15_00_32_27.report.json",
-          "summary": {
-            "performance": 0.53,
-            "accessibility": 0.98,
-            "best-practices": 0.93,
-            "seo": 0.92,
-            "pwa": 0.75
-          }
-        }
       },
-      "2022_04_16": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/",
         "desktop": {
-          "jsonPath": "2022-04-16T00:36:48.495Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_16_00_19_29.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_05_16_00_20_57.report.json",
           "summary": {
-            "performance": 0.99,
-            "accessibility": 0.99,
-            "best-practices": 0.93,
-            "seo": 0.92,
-            "pwa": 0.73
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-16T00:36:48.495Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_16_00_33_07.report.json",
-          "summary": {
-            "performance": 0.52,
+            "performance": 1,
             "accessibility": 0.98,
-            "best-practices": 0.93,
-            "seo": 0.92,
-            "pwa": 0.75
-          }
-        }
-      },
-      "2022_04_17": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
-        "desktop": {
-          "jsonPath": "2022-04-17T00:40:29.373Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_17_00_21_38.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 0.99,
-            "best-practices": 0.93,
-            "seo": 0.92,
-            "pwa": 0.73
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-17T00:40:29.373Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_17_00_36_30.report.json",
-          "summary": {
-            "performance": 0.49,
-            "accessibility": 0.98,
-            "best-practices": 0.93,
-            "seo": 0.92,
-            "pwa": 0.75
-          }
-        }
-      },
-      "2022_04_18": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
-        "desktop": {
-          "jsonPath": "2022-04-18T00:37:48.455Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_18_00_20_19.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 0.99,
-            "best-practices": 0.93,
-            "seo": 0.92,
-            "pwa": 0.73
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-18T00:37:48.455Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_18_00_34_13.report.json",
-          "summary": {
-            "performance": 0.52,
-            "accessibility": 0.98,
-            "best-practices": 0.93,
-            "seo": 0.92,
-            "pwa": 0.75
-          }
-        }
-      },
-      "2022_04_19": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
-        "desktop": {
-          "jsonPath": "2022-04-19T00:37:19.750Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_19_00_19_32.report.json",
-          "summary": {
-            "performance": 0.98,
-            "accessibility": 0.99,
-            "best-practices": 0.92,
+            "best-practices": 1,
             "seo": 0.92,
             "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-04-19T00:37:19.750Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_19_00_33_41.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_05_16_00_34_59.report.json",
           "summary": {
-            "performance": 0.5,
+            "performance": 0.74,
             "accessibility": 0.98,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_04_20": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
-        "desktop": {
-          "jsonPath": "2022-04-20T00:38:45.774Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_20_00_21_05.report.json",
-          "summary": {
-            "performance": 0.98,
-            "accessibility": 0.99,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-20T00:38:45.774Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_20_00_34_55.report.json",
-          "summary": {
-            "performance": 0.52,
-            "accessibility": 0.98,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_04_21": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
-        "desktop": {
-          "jsonPath": "2022-04-21T00:39:28.057Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_21_00_21_45.report.json",
-          "summary": {
-            "performance": 0.98,
-            "accessibility": 0.99,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-21T00:39:28.057Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_21_00_35_55.report.json",
-          "summary": {
-            "performance": 0.57,
-            "accessibility": 0.98,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_04_22": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
-        "desktop": {
-          "jsonPath": "2022-04-22T00:38:53.241Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_22_00_21_33.report.json",
-          "summary": {
-            "performance": 0.98,
-            "accessibility": 0.99,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-22T00:38:53.241Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_22_00_34_54.report.json",
-          "summary": {
-            "performance": 0.52,
-            "accessibility": 0.98,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_04_23": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
-        "desktop": {
-          "jsonPath": "2022-04-23T00:38:50.943Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_23_00_20_10.report.json",
-          "summary": {
-            "performance": 0.98,
-            "accessibility": 0.99,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-23T00:38:50.943Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_23_00_35_01.report.json",
-          "summary": {
-            "performance": 0.46,
-            "accessibility": 0.98,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_04_24": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
-        "desktop": {
-          "jsonPath": "2022-04-24T00:40:12.582Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_24_00_21_36.report.json",
-          "summary": {
-            "performance": 0.97,
-            "accessibility": 0.99,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-24T00:40:12.582Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_24_00_36_25.report.json",
-          "summary": {
-            "performance": 0.49,
-            "accessibility": 0.98,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_04_25": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
-        "desktop": {
-          "jsonPath": "2022-04-25T00:37:12.740Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_25_00_20_04.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 0.99,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-25T00:37:12.740Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_25_00_33_38.report.json",
-          "summary": {
-            "performance": 0.54,
-            "accessibility": 0.98,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_04_26": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
-        "desktop": {
-          "jsonPath": "2022-04-26T00:38:46.361Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_26_00_20_46.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 0.99,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-26T00:38:46.361Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_26_00_34_56.report.json",
-          "summary": {
-            "performance": 0.51,
-            "accessibility": 0.98,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_04_27": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
-        "desktop": {
-          "jsonPath": "2022-04-27T00:37:46.697Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_27_00_21_19.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 0.99,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-27T00:37:46.697Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_27_00_34_23.report.json",
-          "summary": {
-            "performance": 0.53,
-            "accessibility": 0.98,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_04_28": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
-        "desktop": {
-          "jsonPath": "2022-04-28T00:39:29.772Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_28_00_24_53.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 0.99,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-28T00:39:29.772Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_28_00_38_20.report.json",
-          "summary": {
-            "performance": 0.53,
-            "accessibility": 0.98,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_05_15": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
-        "desktop": {
-          "jsonPath": "2022-05-15T00:42:05.703Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_05_15_00_21_44.report.json",
-          "summary": {
-            "performance": 0.98,
-            "accessibility": 0.99,
-            "best-practices": 0.92,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-05-15T00:42:05.703Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_05_15_00_36_10.report.json",
-          "summary": {
-            "performance": 0.51,
-            "accessibility": 0.98,
-            "best-practices": 0.92,
+            "best-practices": 1,
             "seo": 0.92,
             "pwa": 0.7
           }
@@ -10474,29 +10094,6 @@
       }
     },
     "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/",
-        "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_04_15_00_18_58.report.json",
-          "summary": {
-            "performance": 1,
-            "accessibility": 0.98,
-            "best-practices": 0.93,
-            "seo": 1,
-            "pwa": 0.73
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_04_15_00_33_01.report.json",
-          "summary": {
-            "performance": 0.83,
-            "accessibility": 0.98,
-            "best-practices": 0.93,
-            "seo": 1,
-            "pwa": 0.75
-          }
-        }
-      },
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/",
         "desktop": {
@@ -11186,25 +10783,48 @@
             "pwa": 0.7
           }
         }
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/",
+        "desktop": {
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_05_16_00_21_54.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_05_16_00_35_55.report.json",
+          "summary": {
+            "performance": 0.79,
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.7
+          }
+        }
       }
     },
-    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/",
+    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_": {
+      "2022_04_16": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
         "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_-2022_04_15_00_19_30.report.json",
+          "jsonPath": "2022-04-16T00:36:48.495Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_16_00_19_29.report.json",
           "summary": {
-            "performance": 1,
-            "accessibility": 0.98,
+            "performance": 0.99,
+            "accessibility": 0.99,
             "best-practices": 0.93,
             "seo": 0.92,
             "pwa": 0.73
           }
         },
         "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_-2022_04_15_00_33_24.report.json",
+          "jsonPath": "2022-04-16T00:36:48.495Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_16_00_33_07.report.json",
           "summary": {
-            "performance": 0.7,
+            "performance": 0.52,
             "accessibility": 0.98,
             "best-practices": 0.93,
             "seo": 0.92,
@@ -11212,6 +10832,307 @@
           }
         }
       },
+      "2022_04_17": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
+        "desktop": {
+          "jsonPath": "2022-04-17T00:40:29.373Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_17_00_21_38.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 0.99,
+            "best-practices": 0.93,
+            "seo": 0.92,
+            "pwa": 0.73
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-04-17T00:40:29.373Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_17_00_36_30.report.json",
+          "summary": {
+            "performance": 0.49,
+            "accessibility": 0.98,
+            "best-practices": 0.93,
+            "seo": 0.92,
+            "pwa": 0.75
+          }
+        }
+      },
+      "2022_04_18": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
+        "desktop": {
+          "jsonPath": "2022-04-18T00:37:48.455Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_18_00_20_19.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 0.99,
+            "best-practices": 0.93,
+            "seo": 0.92,
+            "pwa": 0.73
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-04-18T00:37:48.455Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_18_00_34_13.report.json",
+          "summary": {
+            "performance": 0.52,
+            "accessibility": 0.98,
+            "best-practices": 0.93,
+            "seo": 0.92,
+            "pwa": 0.75
+          }
+        }
+      },
+      "2022_04_19": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
+        "desktop": {
+          "jsonPath": "2022-04-19T00:37:19.750Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_19_00_19_32.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 0.99,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-04-19T00:37:19.750Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_19_00_33_41.report.json",
+          "summary": {
+            "performance": 0.5,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_04_20": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
+        "desktop": {
+          "jsonPath": "2022-04-20T00:38:45.774Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_20_00_21_05.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 0.99,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-04-20T00:38:45.774Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_20_00_34_55.report.json",
+          "summary": {
+            "performance": 0.52,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_04_21": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
+        "desktop": {
+          "jsonPath": "2022-04-21T00:39:28.057Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_21_00_21_45.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 0.99,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-04-21T00:39:28.057Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_21_00_35_55.report.json",
+          "summary": {
+            "performance": 0.57,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_04_22": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
+        "desktop": {
+          "jsonPath": "2022-04-22T00:38:53.241Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_22_00_21_33.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 0.99,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-04-22T00:38:53.241Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_22_00_34_54.report.json",
+          "summary": {
+            "performance": 0.52,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_04_23": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
+        "desktop": {
+          "jsonPath": "2022-04-23T00:38:50.943Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_23_00_20_10.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 0.99,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-04-23T00:38:50.943Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_23_00_35_01.report.json",
+          "summary": {
+            "performance": 0.46,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_04_24": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
+        "desktop": {
+          "jsonPath": "2022-04-24T00:40:12.582Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_24_00_21_36.report.json",
+          "summary": {
+            "performance": 0.97,
+            "accessibility": 0.99,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-04-24T00:40:12.582Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_24_00_36_25.report.json",
+          "summary": {
+            "performance": 0.49,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_04_25": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
+        "desktop": {
+          "jsonPath": "2022-04-25T00:37:12.740Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_25_00_20_04.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 0.99,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-04-25T00:37:12.740Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_25_00_33_38.report.json",
+          "summary": {
+            "performance": 0.54,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_04_26": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
+        "desktop": {
+          "jsonPath": "2022-04-26T00:38:46.361Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_26_00_20_46.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 0.99,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-04-26T00:38:46.361Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_26_00_34_56.report.json",
+          "summary": {
+            "performance": 0.51,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_04_27": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
+        "desktop": {
+          "jsonPath": "2022-04-27T00:37:46.697Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_27_00_21_19.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 0.99,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-04-27T00:37:46.697Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_27_00_34_23.report.json",
+          "summary": {
+            "performance": 0.53,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_04_28": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
+        "desktop": {
+          "jsonPath": "2022-04-28T00:39:29.772Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_28_00_24_53.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 0.99,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-04-28T00:39:29.772Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_04_28_00_38_20.report.json",
+          "summary": {
+            "performance": 0.53,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_05_15": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/repay-forbearance/",
+        "desktop": {
+          "jsonPath": "2022-05-15T00:42:05.703Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_05_15_00_21_44.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 0.99,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-05-15T00:42:05.703Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_repay_forbearance_-2022_05_15_00_36_10.report.json",
+          "summary": {
+            "performance": 0.51,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.7
+          }
+        }
+      }
+    },
+    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_": {
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/",
         "desktop": {
@@ -11605,29 +11526,6 @@
       }
     },
     "www_consumerfinance_gov-_owning_a_home_explore_rates_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/owning-a-home/explore-rates/",
-        "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_owning_a_home_explore_rates_-2022_04_15_00_20_15.report.json",
-          "summary": {
-            "performance": 1,
-            "accessibility": 0.97,
-            "best-practices": 0.93,
-            "seo": 0.92,
-            "pwa": 0.73
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_owning_a_home_explore_rates_-2022_04_15_00_33_57.report.json",
-          "summary": {
-            "performance": 0.81,
-            "accessibility": 0.97,
-            "best-practices": 0.93,
-            "seo": 0.93,
-            "pwa": 0.75
-          }
-        }
-      },
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/owning-a-home/explore-rates/",
         "desktop": {
@@ -11975,29 +11873,6 @@
       }
     },
     "www_consumerfinance_gov-_rules_policy_regulations_1026_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/",
-        "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_04_15_00_20_48.report.json",
-          "summary": {
-            "performance": 0.86,
-            "accessibility": 0.98,
-            "best-practices": 0.93,
-            "seo": 1,
-            "pwa": 0.91
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_04_15_00_34_43.report.json",
-          "summary": {
-            "performance": 0.72,
-            "accessibility": 0.98,
-            "best-practices": 0.93,
-            "seo": 1,
-            "pwa": 0.92
-          }
-        }
-      },
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/",
         "desktop": {
@@ -12687,32 +12562,32 @@
             "pwa": 0.9
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_ask_cfpb_where_can_i_get_my_credit_score_en_316_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/ask-cfpb/where-can-i-get-my-credit-score-en-316/",
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/",
         "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_ask_cfpb_where_can_i_get_my_credit_score_en_316_-2022_04_15_00_21_32.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_05_16_00_22_27.report.json",
           "summary": {
-            "performance": 1,
-            "accessibility": 1,
-            "best-practices": 0.93,
+            "performance": 0.85,
+            "accessibility": 0.98,
+            "best-practices": 1,
             "seo": 1,
-            "pwa": 0.73
+            "pwa": 0.89
           }
         },
         "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_ask_cfpb_where_can_i_get_my_credit_score_en_316_-2022_04_15_00_35_06.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_05_16_00_36_29.report.json",
           "summary": {
-            "performance": 0.85,
-            "accessibility": 1,
-            "best-practices": 0.93,
+            "performance": 0.69,
+            "accessibility": 0.98,
+            "best-practices": 1,
             "seo": 1,
-            "pwa": 0.75
+            "pwa": 0.9
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_ask_cfpb_where_can_i_get_my_credit_score_en_316_": {
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/ask-cfpb/where-can-i-get-my-credit-score-en-316/",
         "desktop": {
@@ -13175,32 +13050,22 @@
             "pwa": 0.7
           }
         }
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/where-can-i-get-my-credit-score-en-316/",
+        "desktop": {
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_ask_cfpb_where_can_i_get_my_credit_score_en_316_-2022_05_16_00_37_49.report.json",
+          "summary": {
+            "performance": 0.83,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.7
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/",
-        "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_04_15_00_22_07.report.json",
-          "summary": {
-            "performance": 1,
-            "accessibility": 1,
-            "best-practices": 0.93,
-            "seo": 1,
-            "pwa": 0.73
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_04_15_00_35_52.report.json",
-          "summary": {
-            "performance": 0.87,
-            "accessibility": 1,
-            "best-practices": 0.93,
-            "seo": 1,
-            "pwa": 0.75
-          }
-        }
-      },
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/",
         "desktop": {
@@ -13732,32 +13597,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_about_us_contact_us_": {
-      "2022_04_15": {
-        "url": "https://www.consumerfinance.gov/about-us/contact-us/",
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/",
         "desktop": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_about_us_contact_us_-2022_04_15_00_22_29.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_05_16_00_24_34.report.json",
           "summary": {
             "performance": 1,
-            "accessibility": 0.99,
-            "best-practices": 0.93,
+            "accessibility": 1,
+            "best-practices": 1,
             "seo": 1,
-            "pwa": 0.73
+            "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-04-15T00:36:35.321Z/www_consumerfinance_gov-_about_us_contact_us_-2022_04_15_00_36_14.report.json",
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_05_16_00_38_11.report.json",
           "summary": {
-            "performance": 0.86,
-            "accessibility": 0.99,
-            "best-practices": 0.93,
+            "performance": 0.87,
+            "accessibility": 1,
+            "best-practices": 1,
             "seo": 1,
-            "pwa": 0.75
+            "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_about_us_contact_us_": {
       "2022_04_16": {
         "url": "https://www.consumerfinance.gov/about-us/contact-us/",
         "desktop": {
@@ -14073,6 +13938,29 @@
           "jsonPath": "2022-05-15T00:42:05.703Z/www_consumerfinance_gov-_about_us_contact_us_-2022_05_15_00_41_55.report.json",
           "summary": {
             "performance": 0.85,
+            "accessibility": 0.99,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/about-us/contact-us/",
+        "desktop": {
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_about_us_contact_us_-2022_05_16_00_25_23.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 0.99,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_about_us_contact_us_-2022_05_16_00_39_34.report.json",
+          "summary": {
+            "performance": 0.87,
             "accessibility": 0.99,
             "best-practices": 1,
             "seo": 1,
@@ -15168,6 +15056,29 @@
             "pwa": 0.7
           }
         }
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_05_16_00_23_02.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_05_16_00_37_03.report.json",
+          "summary": {
+            "performance": 0.71,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_ask_cfpb_slug_en_1695_": {
@@ -15403,6 +15314,29 @@
             "pwa": 0.67
           }
         }
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/slug-en-1695/",
+        "desktop": {
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_ask_cfpb_slug_en_1695_-2022_05_16_00_17_16.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_ask_cfpb_slug_en_1695_-2022_05_16_00_31_07.report.json",
+          "summary": {
+            "performance": 0.84,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.7
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_ask_cfpb_slug_en_5_": {
@@ -15628,6 +15562,19 @@
             "pwa": 0.67
           }
         }
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/slug-en-5/",
+        "desktop": {
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_ask_cfpb_slug_en_5_-2022_05_16_00_19_01.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 1,
+            "pwa": 0.67
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_ask_cfpb_slug_en_316_": {
@@ -15840,6 +15787,19 @@
             "pwa": 0.67
           }
         }
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/slug-en-316/",
+        "desktop": {
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_ask_cfpb_slug_en_316_-2022_05_16_00_23_59.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.67
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_consumer_tools_credit_reports_and_scores_": {
@@ -15951,6 +15911,29 @@
           "jsonPath": "2022-05-14T00:39:57.297Z/www_consumerfinance_gov-_consumer_tools_credit_reports_and_scores_-2022_05_14_00_39_00.report.json",
           "summary": {
             "performance": 0.5,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/credit-reports-and-scores/",
+        "desktop": {
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_consumer_tools_credit_reports_and_scores_-2022_05_16_00_24_58.report.json",
+          "summary": {
+            "performance": 0.96,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_consumer_tools_credit_reports_and_scores_-2022_05_16_00_38_47.report.json",
+          "summary": {
+            "performance": 0.52,
             "accessibility": 0.98,
             "best-practices": 0.92,
             "seo": 0.93,
@@ -16275,6 +16258,29 @@
         },
         "mobile": {
           "jsonPath": "2022-05-14T00:39:57.297Z/www_consumerfinance_gov-_ask_cfpb_i_want_to_certify_that_i_work_for_a_qualified_employer_in_order_to_qualify_for_public_service_loan_forgiveness_what_do_i_do_en_1563_-2022_05_14_00_35_32.report.json",
+          "summary": {
+            "performance": 0.84,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_05_16": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/i-want-to-certify-that-i-work-for-a-qualified-employer-in-order-to-qualify-for-public-service-loan-forgiveness-what-do-i-do-en-1563/",
+        "desktop": {
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_ask_cfpb_i_want_to_certify_that_i_work_for_a_qualified_employer_in_order_to_qualify_for_public_service_loan_forgiveness_what_do_i_do_en_1563_-2022_05_16_00_21_42.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-05-16T00:39:44.561Z/www_consumerfinance_gov-_ask_cfpb_i_want_to_certify_that_i_work_for_a_qualified_employer_in_order_to_qualify_for_public_service_loan_forgiveness_what_do_i_do_en_1563_-2022_05_16_00_35_33.report.json",
           "summary": {
             "performance": 0.84,
             "accessibility": 1,
