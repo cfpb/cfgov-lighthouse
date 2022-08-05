@@ -27,5 +27,3 @@ jobs:
         with:
           file_pattern: docs
           commit_message: Site rebuild triggered by commit
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
