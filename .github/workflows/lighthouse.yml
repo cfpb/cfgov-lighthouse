@@ -39,5 +39,3 @@ jobs:
         with:
           file_pattern: docs
           commit_message: Nightly Lighthouse run
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
