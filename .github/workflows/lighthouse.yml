@@ -39,3 +39,4 @@ jobs:
         with:
           file_pattern: docs
           commit_message: Nightly Lighthouse run
+          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
