@@ -1,29 +1,6 @@
 {
   "pages": {
     "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/find-help-with-rent-and-utilities/",
-        "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_07_13_00_13_19.report.json",
-          "summary": {
-            "performance": 0.95,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_07_13_00_27_38.report.json",
-          "summary": {
-            "performance": 0.51,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.7
-          }
-        }
-      },
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/find-help-with-rent-and-utilities/",
         "desktop": {
@@ -713,55 +690,32 @@
             "pwa": 0.7
           }
         }
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/find-help-with-rent-and-utilities/",
+        "desktop": {
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_08_14_00_12_58.report.json",
+          "summary": {
+            "performance": 0.92,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_find_help_with_rent_and_utilities_-2022_08_14_00_27_04.report.json",
+          "summary": {
+            "performance": 0.41,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.7
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/",
-        "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_-2022_07_13_00_14_34.report.json",
-          "summary": {
-            "performance": 0.95,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 1,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_-2022_07_13_00_28_23.report.json",
-          "summary": {
-            "performance": 0.61,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 1,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_14": {
-        "url": "https://www.consumerfinance.gov/",
-        "desktop": {
-          "jsonPath": "2022-07-14T00:13:44.652Z/www_consumerfinance_gov-_-2022_07_14_00_12_49.report.json",
-          "summary": {
-            "performance": 0.96,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 1,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-14T00:13:44.652Z/www_consumerfinance_gov-_-2022_07_14_00_13_23.report.json",
-          "summary": {
-            "performance": 0.64,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 1,
-            "pwa": 0.7
-          }
-        }
-      },
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/",
         "desktop": {
@@ -1451,32 +1405,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_complaint_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/complaint/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_complaint_-2022_07_13_00_15_12.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_-2022_08_14_00_13_53.report.json",
           "summary": {
-            "performance": 0.96,
+            "performance": 0.95,
             "accessibility": 1,
-            "best-practices": 0.92,
+            "best-practices": 1,
             "seo": 1,
             "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_complaint_-2022_07_13_00_28_34.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_-2022_08_14_00_28_29.report.json",
           "summary": {
-            "performance": 0.59,
+            "performance": 0.53,
             "accessibility": 1,
-            "best-practices": 0.92,
+            "best-practices": 1,
             "seo": 1,
             "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_complaint_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/complaint/",
         "desktop": {
@@ -2166,32 +2120,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_learnmore_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/learnmore/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/complaint/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_learnmore_-2022_07_13_00_15_25.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_complaint_-2022_08_14_00_14_36.report.json",
           "summary": {
-            "performance": 1,
+            "performance": 0.84,
             "accessibility": 1,
-            "best-practices": 1,
+            "best-practices": 0.92,
             "seo": 1,
             "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_learnmore_-2022_07_13_00_29_21.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_complaint_-2022_08_14_00_29_05.report.json",
           "summary": {
-            "performance": 0.81,
+            "performance": 0.58,
             "accessibility": 1,
-            "best-practices": 1,
+            "best-practices": 0.92,
             "seo": 1,
             "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_learnmore_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/learnmore/",
         "desktop": {
@@ -2881,32 +2835,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/emergency-rental-assistance-for-renters/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/learnmore/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_07_13_00_16_25.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_learnmore_-2022_08_14_00_15_03.report.json",
           "summary": {
-            "performance": 0.96,
-            "accessibility": 0.98,
+            "performance": 1,
+            "accessibility": 1,
             "best-practices": 1,
-            "seo": 0.92,
+            "seo": 1,
             "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_07_13_00_30_06.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_learnmore_-2022_08_14_00_30_01.report.json",
           "summary": {
-            "performance": 0.67,
-            "accessibility": 0.98,
+            "performance": 0.72,
+            "accessibility": 1,
             "best-practices": 1,
-            "seo": 0.92,
+            "seo": 1,
             "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/emergency-rental-assistance-for-renters/",
         "desktop": {
@@ -3596,15 +3550,13 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_find_a_housing_counselor_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/find-a-housing-counselor/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/emergency-rental-assistance-for-renters/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_07_13_00_17_00.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_08_14_00_15_40.report.json",
           "summary": {
-            "performance": 0.94,
+            "performance": 1,
             "accessibility": 0.98,
             "best-practices": 1,
             "seo": 0.92,
@@ -3612,16 +3564,18 @@
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_07_13_00_30_29.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_emergency_rental_assistance_for_renters_-2022_08_14_00_30_26.report.json",
           "summary": {
-            "performance": 0.82,
+            "performance": 0.61,
             "accessibility": 0.98,
             "best-practices": 1,
-            "seo": 0.93,
+            "seo": 0.92,
             "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_find_a_housing_counselor_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/find-a-housing-counselor/",
         "desktop": {
@@ -4311,32 +4265,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_consumer_tools_debt_collection_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/debt-collection/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/find-a-housing-counselor/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_07_13_00_17_25.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_08_14_00_16_04.report.json",
           "summary": {
-            "performance": 0.96,
+            "performance": 1,
             "accessibility": 1,
-            "best-practices": 0.83,
+            "best-practices": 1,
             "seo": 0.92,
             "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_07_13_00_31_17.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_find_a_housing_counselor_-2022_08_14_00_31_27.report.json",
           "summary": {
-            "performance": 0.4,
+            "performance": 0.72,
             "accessibility": 1,
-            "best-practices": 0.83,
+            "best-practices": 1,
             "seo": 0.93,
             "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_consumer_tools_debt_collection_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/consumer-tools/debt-collection/",
         "desktop": {
@@ -5026,32 +4980,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_data_research_consumer_complaints_search_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/debt-collection/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_07_13_00_18_20.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_08_14_00_16_56.report.json",
           "summary": {
-            "performance": 0.65,
-            "accessibility": 0.96,
-            "best-practices": 1,
-            "seo": 1,
+            "performance": 0.88,
+            "accessibility": 1,
+            "best-practices": 0.83,
+            "seo": 0.92,
             "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_07_13_00_31_42.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_consumer_tools_debt_collection_-2022_08_14_00_31_39.report.json",
           "summary": {
-            "performance": 0.26,
-            "accessibility": 0.98,
-            "best-practices": 1,
-            "seo": 0.99,
+            "performance": 0.43,
+            "accessibility": 1,
+            "best-practices": 0.83,
+            "seo": 0.93,
             "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_data_research_consumer_complaints_search_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/",
         "desktop": {
@@ -5741,32 +5695,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-when-a-debt-collector-contacts-me-en-1695/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_07_13_00_18_34.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_08_14_00_17_27.report.json",
           "summary": {
-            "performance": 1,
-            "accessibility": 1,
-            "best-practices": 0.92,
+            "performance": 0.61,
+            "accessibility": 0.96,
+            "best-practices": 1,
             "seo": 1,
             "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_07_13_00_32_07.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2022_08_14_00_32_27.report.json",
           "summary": {
-            "performance": 0.82,
-            "accessibility": 1,
-            "best-practices": 0.92,
-            "seo": 1,
+            "performance": 0.22,
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 0.99,
             "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-when-a-debt-collector-contacts-me-en-1695/",
         "desktop": {
@@ -6456,15 +6410,13 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-copy-of-my-credit-reports-en-5/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-when-a-debt-collector-contacts-me-en-1695/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_07_13_00_19_10.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_08_14_00_18_27.report.json",
           "summary": {
-            "performance": 0.99,
+            "performance": 1,
             "accessibility": 1,
             "best-practices": 0.92,
             "seo": 1,
@@ -6472,16 +6424,18 @@
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_07_13_00_32_56.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2022_08_14_00_33_24.report.json",
           "summary": {
-            "performance": 0.63,
+            "performance": 0.72,
             "accessibility": 1,
             "best-practices": 0.92,
             "seo": 1,
             "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-copy-of-my-credit-reports-en-5/",
         "desktop": {
@@ -7171,32 +7125,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_get_homeowner_assistance_funds_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/get-homeowner-assistance-funds/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-copy-of-my-credit-reports-en-5/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_get_homeowner_assistance_funds_-2022_07_13_00_20_12.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_08_14_00_19_28.report.json",
           "summary": {
-            "performance": 1,
-            "accessibility": 0.98,
-            "best-practices": 1,
-            "seo": 0.92,
+            "performance": 0.97,
+            "accessibility": 1,
+            "best-practices": 0.92,
+            "seo": 1,
             "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_get_homeowner_assistance_funds_-2022_07_13_00_33_20.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_copy_of_my_credit_reports_en_5_-2022_08_14_00_34_42.report.json",
           "summary": {
-            "performance": 0.65,
-            "accessibility": 0.98,
-            "best-practices": 1,
-            "seo": 0.92,
+            "performance": 0.6,
+            "accessibility": 1,
+            "best-practices": 0.92,
+            "seo": 1,
             "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_get_homeowner_assistance_funds_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/get-homeowner-assistance-funds/",
         "desktop": {
@@ -7886,32 +7840,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/what-to-do-if-youre-facing-eviction/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/help-for-homeowners/get-homeowner-assistance-funds/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_07_13_00_20_36.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_get_homeowner_assistance_funds_-2022_08_14_00_19_16.report.json",
           "summary": {
             "performance": 1,
-            "accessibility": 1,
+            "accessibility": 0.98,
             "best-practices": 1,
             "seo": 0.92,
             "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_07_13_00_34_06.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_help_for_homeowners_get_homeowner_assistance_funds_-2022_08_14_00_34_14.report.json",
           "summary": {
-            "performance": 0.68,
-            "accessibility": 1,
+            "performance": 0.59,
+            "accessibility": 0.98,
             "best-practices": 1,
             "seo": 0.92,
             "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/what-to-do-if-youre-facing-eviction/",
         "desktop": {
@@ -8601,32 +8555,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-best-way-to-negotiate-a-settlement-with-a-debt-collector-en-1447/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/what-to-do-if-youre-facing-eviction/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_07_13_00_21_26.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_08_14_00_20_11.report.json",
           "summary": {
-            "performance": 0.98,
+            "performance": 0.86,
             "accessibility": 1,
-            "best-practices": 0.83,
+            "best-practices": 1,
             "seo": 0.92,
             "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_07_13_00_34_28.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_what_to_do_if_youre_facing_eviction_-2022_08_14_00_35_11.report.json",
           "summary": {
-            "performance": 0.63,
+            "performance": 0.6,
             "accessibility": 1,
-            "best-practices": 0.83,
-            "seo": 0.93,
+            "best-practices": 1,
+            "seo": 0.92,
             "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-best-way-to-negotiate-a-settlement-with-a-debt-collector-en-1447/",
         "desktop": {
@@ -9316,32 +9270,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-the-best-way-to-negotiate-a-settlement-with-a-debt-collector-en-1447/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_07_13_00_22_02.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_08_14_00_21_17.report.json",
           "summary": {
-            "performance": 1,
-            "accessibility": 0.98,
-            "best-practices": 1,
+            "performance": 0.93,
+            "accessibility": 1,
+            "best-practices": 0.83,
             "seo": 0.92,
             "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_07_13_00_35_28.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_ask_cfpb_what_is_the_best_way_to_negotiate_a_settlement_with_a_debt_collector_en_1447_-2022_08_14_00_35_48.report.json",
           "summary": {
-            "performance": 0.69,
-            "accessibility": 0.98,
-            "best-practices": 1,
-            "seo": 0.92,
+            "performance": 0.55,
+            "accessibility": 1,
+            "best-practices": 0.83,
+            "seo": 0.93,
             "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/",
         "desktop": {
@@ -10031,32 +9985,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_rules_policy_regulations_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/rules-policy/regulations/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/renter-protections/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_07_13_00_22_14.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_08_14_00_21_32.report.json",
           "summary": {
             "performance": 1,
             "accessibility": 0.98,
             "best-practices": 1,
-            "seo": 1,
-            "pwa": 0.89
+            "seo": 0.92,
+            "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_07_13_00_35_50.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_renter_protections_-2022_08_14_00_36_46.report.json",
           "summary": {
-            "performance": 0.79,
+            "performance": 0.61,
             "accessibility": 0.98,
             "best-practices": 1,
-            "seo": 1,
-            "pwa": 0.9
+            "seo": 0.92,
+            "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_rules_policy_regulations_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/rules-policy/regulations/",
         "desktop": {
@@ -10746,32 +10700,32 @@
             "pwa": 0.9
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/rules-policy/regulations/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_07_13_00_22_48.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_08_14_00_22_21.report.json",
           "summary": {
             "performance": 1,
-            "accessibility": 1,
+            "accessibility": 0.98,
             "best-practices": 1,
             "seo": 1,
-            "pwa": 0.67
+            "pwa": 0.89
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_07_13_00_36_13.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_rules_policy_regulations_-2022_08_14_00_37_10.report.json",
           "summary": {
-            "performance": 0.82,
-            "accessibility": 1,
+            "performance": 0.75,
+            "accessibility": 0.98,
             "best-practices": 1,
             "seo": 1,
-            "pwa": 0.7
+            "pwa": 0.9
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/",
         "desktop": {
@@ -11461,32 +11415,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-stop-automatic-payments-from-my-bank-account-en-2023/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_07_13_00_23_24.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_08_14_00_23_22.report.json",
           "summary": {
-            "performance": 0.99,
-            "accessibility": 0.98,
+            "performance": 1,
+            "accessibility": 1,
             "best-practices": 1,
             "seo": 1,
             "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_07_13_00_36_48.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_stop_automatic_payments_from_my_bank_account_en_2023_-2022_08_14_00_38_36.report.json",
           "summary": {
-            "performance": 0.78,
-            "accessibility": 0.98,
+            "performance": 0.72,
+            "accessibility": 1,
             "best-practices": 1,
             "seo": 1,
             "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/",
         "desktop": {
@@ -12176,747 +12130,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_consumer_tools_prepaid_cards_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/coronavirus/mortgage-and-housing-assistance/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_13_00_24_21.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_08_14_00_25_38.report.json",
           "summary": {
             "performance": 0.99,
-            "accessibility": 1,
+            "accessibility": 0.98,
             "best-practices": 1,
-            "seo": 0.92,
+            "seo": 1,
             "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_13_00_37_46.report.json",
-          "summary": {
-            "performance": 0.76,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_15": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-07-15T00:39:54.444Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_15_00_24_26.report.json",
-          "summary": {
-            "performance": 0.98,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-15T00:39:54.444Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_15_00_38_10.report.json",
-          "summary": {
-            "performance": 0.72,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_16": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-07-16T00:38:41.267Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_16_00_24_10.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-16T00:38:41.267Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_16_00_37_22.report.json",
-          "summary": {
-            "performance": 0.72,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_17": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-07-17T00:37:08.028Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_17_00_22_50.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-17T00:37:08.028Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_17_00_35_28.report.json",
-          "summary": {
-            "performance": 0.75,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_18": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-07-18T00:38:10.865Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_18_00_22_42.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-18T00:38:10.865Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_18_00_35_52.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_coronavirus_mortgage_and_housing_assistance_-2022_08_14_00_40_27.report.json",
           "summary": {
             "performance": 0.69,
-            "accessibility": 1,
+            "accessibility": 0.98,
             "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_19": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-07-19T00:39:27.935Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_19_00_24_19.report.json",
-          "summary": {
-            "performance": 0.98,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-19T00:39:27.935Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_19_00_37_13.report.json",
-          "summary": {
-            "performance": 0.77,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_20": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-07-20T00:39:43.708Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_20_00_23_40.report.json",
-          "summary": {
-            "performance": 0.98,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-20T00:39:43.708Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_20_00_37_46.report.json",
-          "summary": {
-            "performance": 0.7,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_21": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-07-21T00:38:24.540Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_21_00_23_45.report.json",
-          "summary": {
-            "performance": 0.98,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-21T00:38:24.540Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_21_00_36_54.report.json",
-          "summary": {
-            "performance": 0.76,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_22": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-07-22T00:39:01.071Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_22_00_24_16.report.json",
-          "summary": {
-            "performance": 0.96,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-22T00:39:01.071Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_22_00_37_19.report.json",
-          "summary": {
-            "performance": 0.64,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_23": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-07-23T00:39:44.192Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_23_00_24_26.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-23T00:39:44.192Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_23_00_38_10.report.json",
-          "summary": {
-            "performance": 0.7,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_24": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-07-24T00:42:24.701Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_24_00_25_56.report.json",
-          "summary": {
-            "performance": 0.98,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-24T00:42:24.701Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_24_00_40_36.report.json",
-          "summary": {
-            "performance": 0.66,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_25": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-07-25T00:38:11.287Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_25_00_22_33.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-25T00:38:11.287Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_25_00_35_54.report.json",
-          "summary": {
-            "performance": 0.72,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_26": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-07-26T00:41:30.864Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_26_00_24_31.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-26T00:41:30.864Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_26_00_39_04.report.json",
-          "summary": {
-            "performance": 0.68,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_27": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-07-27T00:38:33.320Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_27_00_24_21.report.json",
-          "summary": {
-            "performance": 0.98,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-27T00:38:33.320Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_27_00_37_13.report.json",
-          "summary": {
-            "performance": 0.76,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_28": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-07-28T00:38:49.795Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_28_00_23_41.report.json",
-          "summary": {
-            "performance": 0.98,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-28T00:38:49.795Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_28_00_37_02.report.json",
-          "summary": {
-            "performance": 0.73,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_29": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-07-29T00:38:59.472Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_29_00_23_33.report.json",
-          "summary": {
-            "performance": 1,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-29T00:38:59.472Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_29_00_37_35.report.json",
-          "summary": {
-            "performance": 0.7,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_30": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-07-30T00:38:08.678Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_30_00_22_44.report.json",
-          "summary": {
-            "performance": 0.97,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-30T00:38:08.678Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_30_00_36_44.report.json",
-          "summary": {
-            "performance": 0.74,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_07_31": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-07-31T00:40:22.755Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_31_00_24_39.report.json",
-          "summary": {
-            "performance": 0.98,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-31T00:40:22.755Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_31_00_38_58.report.json",
-          "summary": {
-            "performance": 0.74,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_08_01": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-08-01T00:39:11.100Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_01_00_24_04.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-08-01T00:39:11.100Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_01_00_37_38.report.json",
-          "summary": {
-            "performance": 0.73,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_08_02": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-08-02T00:37:56.320Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_02_00_22_27.report.json",
-          "summary": {
-            "performance": 0.98,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-08-02T00:37:56.320Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_02_00_35_51.report.json",
-          "summary": {
-            "performance": 0.75,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_08_03": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-08-03T00:37:35.012Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_03_00_23_51.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-08-03T00:37:35.012Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_03_00_36_51.report.json",
-          "summary": {
-            "performance": 0.8,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_08_04": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-08-04T00:37:39.525Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_04_00_23_28.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-08-04T00:37:39.525Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_04_00_36_55.report.json",
-          "summary": {
-            "performance": 0.77,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_08_05": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-08-05T00:39:27.044Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_05_00_25_40.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-08-05T00:39:27.044Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_05_00_39_16.report.json",
-          "summary": {
-            "performance": 0.81,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_08_06": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-08-06T00:38:56.168Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_06_00_25_11.report.json",
-          "summary": {
-            "performance": 1,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-08-06T00:38:56.168Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_06_00_38_34.report.json",
-          "summary": {
-            "performance": 0.76,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_08_07": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-08-07T00:38:38.170Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_07_00_25_30.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-08-07T00:38:38.170Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_07_00_38_17.report.json",
-          "summary": {
-            "performance": 0.78,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_08_08": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-08-08T00:37:11.988Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_08_00_23_28.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-08-08T00:37:11.988Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_08_00_36_39.report.json",
-          "summary": {
-            "performance": 0.72,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_08_09": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-08-09T00:40:40.979Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_09_00_25_12.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-08-09T00:40:40.979Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_09_00_39_30.report.json",
-          "summary": {
-            "performance": 0.67,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_08_10": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-08-10T00:37:44.038Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_10_00_21_16.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-08-10T00:37:44.038Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_10_00_34_51.report.json",
-          "summary": {
-            "performance": 0.78,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_08_11": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-08-11T00:38:12.367Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_11_00_24_52.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-08-11T00:38:12.367Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_11_00_38_02.report.json",
-          "summary": {
-            "performance": 0.8,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_08_12": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-08-12T00:36:46.703Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_12_00_23_17.report.json",
-          "summary": {
-            "performance": 0.99,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-08-12T00:36:46.703Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_12_00_36_24.report.json",
-          "summary": {
-            "performance": 0.79,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
-            "pwa": 0.7
-          }
-        }
-      },
-      "2022_08_13": {
-        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
-        "desktop": {
-          "jsonPath": "2022-08-13T00:38:46.443Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_13_00_24_58.report.json",
-          "summary": {
-            "performance": 0.98,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.92,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-08-13T00:38:46.443Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_13_00_38_36.report.json",
-          "summary": {
-            "performance": 0.78,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 0.93,
+            "seo": 1,
             "pwa": 0.7
           }
         }
       }
     },
     "www_consumerfinance_gov-_about_us_blog_know_your_rights_and_protections_when_it_comes_to_medical_bills_and_collections_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/about-us/blog/know-your-rights-and-protections-when-it-comes-to-medical-bills-and-collections/",
-        "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_about_us_blog_know_your_rights_and_protections_when_it_comes_to_medical_bills_and_collections_-2022_07_13_00_24_33.report.json",
-          "summary": {
-            "performance": 1,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 1,
-            "pwa": 0.67
-          }
-        },
-        "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_about_us_blog_know_your_rights_and_protections_when_it_comes_to_medical_bills_and_collections_-2022_07_13_00_38_09.report.json",
-          "summary": {
-            "performance": 0.77,
-            "accessibility": 1,
-            "best-practices": 1,
-            "seo": 1,
-            "pwa": 0.7
-          }
-        }
-      },
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/about-us/blog/know-your-rights-and-protections-when-it-comes-to-medical-bills-and-collections/",
         "desktop": {
@@ -13583,32 +12822,32 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_rules_policy_regulations_1026_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/about-us/blog/know-your-rights-and-protections-when-it-comes-to-medical-bills-and-collections/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_07_13_00_25_30.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_about_us_blog_know_your_rights_and_protections_when_it_comes_to_medical_bills_and_collections_-2022_08_14_00_24_00.report.json",
           "summary": {
-            "performance": 0.97,
-            "accessibility": 0.98,
+            "performance": 1,
+            "accessibility": 1,
             "best-practices": 1,
             "seo": 1,
-            "pwa": 0.89
+            "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_07_13_00_38_32.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_about_us_blog_know_your_rights_and_protections_when_it_comes_to_medical_bills_and_collections_-2022_08_14_00_39_13.report.json",
           "summary": {
-            "performance": 0.61,
-            "accessibility": 0.98,
+            "performance": 0.74,
+            "accessibility": 1,
             "best-practices": 1,
             "seo": 1,
-            "pwa": 0.9
+            "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_rules_policy_regulations_1026_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/",
         "desktop": {
@@ -14298,32 +13537,747 @@
             "pwa": 0.9
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_about_us_contact_us_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/about-us/contact-us/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_about_us_contact_us_-2022_07_13_00_25_42.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_08_14_00_25_01.report.json",
           "summary": {
-            "performance": 1,
-            "accessibility": 0.99,
+            "performance": 0.98,
+            "accessibility": 0.98,
             "best-practices": 1,
             "seo": 1,
+            "pwa": 0.89
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2022_08_14_00_39_50.report.json",
+          "summary": {
+            "performance": 0.58,
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.9
+          }
+        }
+      }
+    },
+    "www_consumerfinance_gov-_consumer_tools_prepaid_cards_": {
+      "2022_07_15": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-07-15T00:39:54.444Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_15_00_24_26.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
             "pwa": 0.67
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_about_us_contact_us_-2022_07_13_00_39_08.report.json",
+          "jsonPath": "2022-07-15T00:39:54.444Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_15_00_38_10.report.json",
           "summary": {
-            "performance": 0.77,
-            "accessibility": 0.99,
+            "performance": 0.72,
+            "accessibility": 1,
             "best-practices": 1,
-            "seo": 1,
+            "seo": 0.93,
             "pwa": 0.7
           }
         }
       },
+      "2022_07_16": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-07-16T00:38:41.267Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_16_00_24_10.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-07-16T00:38:41.267Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_16_00_37_22.report.json",
+          "summary": {
+            "performance": 0.72,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_07_17": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-07-17T00:37:08.028Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_17_00_22_50.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-07-17T00:37:08.028Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_17_00_35_28.report.json",
+          "summary": {
+            "performance": 0.75,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_07_18": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-07-18T00:38:10.865Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_18_00_22_42.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-07-18T00:38:10.865Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_18_00_35_52.report.json",
+          "summary": {
+            "performance": 0.69,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_07_19": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-07-19T00:39:27.935Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_19_00_24_19.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-07-19T00:39:27.935Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_19_00_37_13.report.json",
+          "summary": {
+            "performance": 0.77,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_07_20": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-07-20T00:39:43.708Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_20_00_23_40.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-07-20T00:39:43.708Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_20_00_37_46.report.json",
+          "summary": {
+            "performance": 0.7,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_07_21": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-07-21T00:38:24.540Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_21_00_23_45.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-07-21T00:38:24.540Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_21_00_36_54.report.json",
+          "summary": {
+            "performance": 0.76,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_07_22": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-07-22T00:39:01.071Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_22_00_24_16.report.json",
+          "summary": {
+            "performance": 0.96,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-07-22T00:39:01.071Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_22_00_37_19.report.json",
+          "summary": {
+            "performance": 0.64,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_07_23": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-07-23T00:39:44.192Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_23_00_24_26.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-07-23T00:39:44.192Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_23_00_38_10.report.json",
+          "summary": {
+            "performance": 0.7,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_07_24": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-07-24T00:42:24.701Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_24_00_25_56.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-07-24T00:42:24.701Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_24_00_40_36.report.json",
+          "summary": {
+            "performance": 0.66,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_07_25": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-07-25T00:38:11.287Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_25_00_22_33.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-07-25T00:38:11.287Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_25_00_35_54.report.json",
+          "summary": {
+            "performance": 0.72,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_07_26": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-07-26T00:41:30.864Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_26_00_24_31.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-07-26T00:41:30.864Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_26_00_39_04.report.json",
+          "summary": {
+            "performance": 0.68,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_07_27": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-07-27T00:38:33.320Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_27_00_24_21.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-07-27T00:38:33.320Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_27_00_37_13.report.json",
+          "summary": {
+            "performance": 0.76,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_07_28": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-07-28T00:38:49.795Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_28_00_23_41.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-07-28T00:38:49.795Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_28_00_37_02.report.json",
+          "summary": {
+            "performance": 0.73,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_07_29": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-07-29T00:38:59.472Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_29_00_23_33.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-07-29T00:38:59.472Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_29_00_37_35.report.json",
+          "summary": {
+            "performance": 0.7,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_07_30": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-07-30T00:38:08.678Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_30_00_22_44.report.json",
+          "summary": {
+            "performance": 0.97,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-07-30T00:38:08.678Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_30_00_36_44.report.json",
+          "summary": {
+            "performance": 0.74,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_07_31": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-07-31T00:40:22.755Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_31_00_24_39.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-07-31T00:40:22.755Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_07_31_00_38_58.report.json",
+          "summary": {
+            "performance": 0.74,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_08_01": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-08-01T00:39:11.100Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_01_00_24_04.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-08-01T00:39:11.100Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_01_00_37_38.report.json",
+          "summary": {
+            "performance": 0.73,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_08_02": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-08-02T00:37:56.320Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_02_00_22_27.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-08-02T00:37:56.320Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_02_00_35_51.report.json",
+          "summary": {
+            "performance": 0.75,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_08_03": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-08-03T00:37:35.012Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_03_00_23_51.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-08-03T00:37:35.012Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_03_00_36_51.report.json",
+          "summary": {
+            "performance": 0.8,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_08_04": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-08-04T00:37:39.525Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_04_00_23_28.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-08-04T00:37:39.525Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_04_00_36_55.report.json",
+          "summary": {
+            "performance": 0.77,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_08_05": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-08-05T00:39:27.044Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_05_00_25_40.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-08-05T00:39:27.044Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_05_00_39_16.report.json",
+          "summary": {
+            "performance": 0.81,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_08_06": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-08-06T00:38:56.168Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_06_00_25_11.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-08-06T00:38:56.168Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_06_00_38_34.report.json",
+          "summary": {
+            "performance": 0.76,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_08_07": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-08-07T00:38:38.170Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_07_00_25_30.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-08-07T00:38:38.170Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_07_00_38_17.report.json",
+          "summary": {
+            "performance": 0.78,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_08_08": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-08-08T00:37:11.988Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_08_00_23_28.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-08-08T00:37:11.988Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_08_00_36_39.report.json",
+          "summary": {
+            "performance": 0.72,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_08_09": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-08-09T00:40:40.979Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_09_00_25_12.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-08-09T00:40:40.979Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_09_00_39_30.report.json",
+          "summary": {
+            "performance": 0.67,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_08_10": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-08-10T00:37:44.038Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_10_00_21_16.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-08-10T00:37:44.038Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_10_00_34_51.report.json",
+          "summary": {
+            "performance": 0.78,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_08_11": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-08-11T00:38:12.367Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_11_00_24_52.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-08-11T00:38:12.367Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_11_00_38_02.report.json",
+          "summary": {
+            "performance": 0.8,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_08_12": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-08-12T00:36:46.703Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_12_00_23_17.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-08-12T00:36:46.703Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_12_00_36_24.report.json",
+          "summary": {
+            "performance": 0.79,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_08_13": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-08-13T00:38:46.443Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_13_00_24_58.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-08-13T00:38:46.443Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_13_00_38_36.report.json",
+          "summary": {
+            "performance": 0.78,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/consumer-tools/prepaid-cards/",
+        "desktop": {
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_14_00_26_51.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_consumer_tools_prepaid_cards_-2022_08_14_00_41_41.report.json",
+          "summary": {
+            "performance": 0.65,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.7
+          }
+        }
+      }
+    },
+    "www_consumerfinance_gov-_about_us_contact_us_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/about-us/contact-us/",
         "desktop": {
@@ -15013,13 +14967,11 @@
             "pwa": 0.7
           }
         }
-      }
-    },
-    "www_consumerfinance_gov-_ask_cfpb_how_do_i_get_my_money_back_after_i_discovered_an_unauthorized_transaction_or_money_missing_from_my_bank_account_en_1017_": {
-      "2022_07_13": {
-        "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-my-money-back-after-i-discovered-an-unauthorized-transaction-or-money-missing-from-my-bank-account-en-1017/",
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/about-us/contact-us/",
         "desktop": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_my_money_back_after_i_discovered_an_unauthorized_transaction_or_money_missing_from_my_bank_account_en_1017_-2022_07_13_00_26_30.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_about_us_contact_us_-2022_08_14_00_25_50.report.json",
           "summary": {
             "performance": 1,
             "accessibility": 0.99,
@@ -15029,16 +14981,18 @@
           }
         },
         "mobile": {
-          "jsonPath": "2022-07-13T00:40:18.339Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_my_money_back_after_i_discovered_an_unauthorized_transaction_or_money_missing_from_my_bank_account_en_1017_-2022_07_13_00_39_55.report.json",
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_about_us_contact_us_-2022_08_14_00_41_16.report.json",
           "summary": {
-            "performance": 0.77,
+            "performance": 0.73,
             "accessibility": 0.99,
             "best-practices": 1,
             "seo": 1,
             "pwa": 0.7
           }
         }
-      },
+      }
+    },
+    "www_consumerfinance_gov-_ask_cfpb_how_do_i_get_my_money_back_after_i_discovered_an_unauthorized_transaction_or_money_missing_from_my_bank_account_en_1017_": {
       "2022_07_15": {
         "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-my-money-back-after-i-discovered-an-unauthorized-transaction-or-money-missing-from-my-bank-account-en-1017/",
         "desktop": {
@@ -15726,6 +15680,29 @@
           "jsonPath": "2022-08-13T00:38:46.443Z/www_consumerfinance_gov-_about_us_newsroom_cfpb_fines_us_bank_37_5_million_for_illegally_exploiting_personal_data_to_open_sham_accounts_for_unsuspecting_customers_-2022_08_13_00_34_56.report.json",
           "summary": {
             "performance": 0.86,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2022_08_14": {
+        "url": "https://www.consumerfinance.gov/about-us/newsroom/cfpb-fines-us-bank-37-5-million-for-illegally-exploiting-personal-data-to-open-sham-accounts-for-unsuspecting-customers/",
+        "desktop": {
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_about_us_newsroom_cfpb_fines_us_bank_37_5_million_for_illegally_exploiting_personal_data_to_open_sham_accounts_for_unsuspecting_customers_-2022_08_14_00_22_58.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2022-08-14T00:42:05.393Z/www_consumerfinance_gov-_about_us_newsroom_cfpb_fines_us_bank_37_5_million_for_illegally_exploiting_personal_data_to_open_sham_accounts_for_unsuspecting_customers_-2022_08_14_00_37_46.report.json",
+          "summary": {
+            "performance": 0.75,
             "accessibility": 1,
             "best-practices": 1,
             "seo": 1,
