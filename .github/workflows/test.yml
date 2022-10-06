@@ -21,5 +21,8 @@ jobs:
       - name: Process Lighthouse reports to generate reports.json
         run: yarn process-reports
 
+      - name: Download the web fonts
+        run: yarn fonts
+
       - name: Verify the static website builds without errors
         run: yarn build
