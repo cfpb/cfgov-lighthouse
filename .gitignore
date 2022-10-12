@@ -4,3 +4,4 @@ docs/reports/*/*.html
 !docs/reports/*/index.html
 node_modules
 urls.txt
+static
