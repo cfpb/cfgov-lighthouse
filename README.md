@@ -8,15 +8,6 @@ To serve the Lighthouse Report Summary dashboard on your local machine,
 use the command `yarn && yarn serve` and visit `http://127.0.0.1:8080`
 (hit `ctrl` + `c` when you're ready to stop the server).
 
-This installs the dependencies. If you received an error
-`Module not found: Error: Can't resolve …` in regard to the font files,
-follow the next step to install the fonts.
-
-### Install font files
-
-To install self-hosted fonts locally, place the font files
-in `./static/fonts/`. This can be done with the command `yarn fonts`.
-
 ### Run Lighthouse audit
 
 To run a Lighthouse audit, use the command `yarn lighthouse`. This command
