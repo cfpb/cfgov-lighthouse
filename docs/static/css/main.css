@@ -3559,28 +3559,28 @@ a.a-heading__icon.active {
    ========================================================================== */
 @font-face {
   font-family: 'AvenirNextLTW01-Regular';
-  src: url(../../2cb2996f891802343ea9.woff2) format('woff2'), url(../../03d341cf88778a1bbb68.woff) format('woff');
+  src: url(../../2cb2996f891802343ea9.woff2) format('woff2'), url(../../1882a1d2d72ed811f92d.woff) format('woff');
   font-style: normal;
   font-weight: normal;
   font-display: fallback;
 }
 @font-face {
   font-family: 'AvenirNextLTW01-Medium';
-  src: url(../../97d413324fe440efec23.woff2) format('woff2'), url(../../3457746b8497234e6389.woff) format('woff');
+  src: url(../../97d413324fe440efec23.woff2) format('woff2'), url(../../13abd5bd9c0f298248b3.woff) format('woff');
   font-style: normal;
   font-weight: 500;
   font-display: fallback;
 }
 @font-face {
   font-family: 'Avenir Next';
-  src: url(../../2cb2996f891802343ea9.woff2) format('woff2'), url(../../03d341cf88778a1bbb68.woff) format('woff');
+  src: url(../../2cb2996f891802343ea9.woff2) format('woff2'), url(../../1882a1d2d72ed811f92d.woff) format('woff');
   font-style: normal;
   font-weight: normal;
   font-display: fallback;
 }
 @font-face {
   font-family: 'Avenir Next';
-  src: url(../../97d413324fe440efec23.woff2) format('woff2'), url(../../3457746b8497234e6389.woff) format('woff');
+  src: url(../../97d413324fe440efec23.woff2) format('woff2'), url(../../13abd5bd9c0f298248b3.woff) format('woff');
   font-style: normal;
   font-weight: 500;
   font-display: fallback;
