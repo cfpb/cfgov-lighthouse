@@ -11,8 +11,7 @@ const REPORTS_ROOT = path.resolve( __dirname, '../../docs/reports' );
 
 /**
  * Get list of Lighthouse report subdirectories.
- *
- * @param {String} reportsDir Lighthouse reports directory.
+ * @param {string} reportsDir - Lighthouse reports directory.
  * @returns {Array} List of report subdirectories.
  */
 async function getReportSubdirectories( reportsDir ) {
@@ -22,7 +21,7 @@ async function getReportSubdirectories( reportsDir ) {
 
 /**
  * Get list of Lighthouse report manifest locations.
- * @param {String} reportsDir Location of lighthouse reports directory.
+ * @param {string} reportsDir - Location of lighthouse reports directory.
  * @returns {Array} List of manifest locations.
  */
 async function getManifests( reportsDir ) {
@@ -35,8 +34,8 @@ async function getManifests( reportsDir ) {
 
 /**
  * Read manifest file.
- * @param {String} manifestLocation Location of Lighthouse manifest file.
- * @returns {Object} {returnawaitJSON.parse(fs.readFile(manifestFilename
+ * @param {string} manifestLocation - Location of Lighthouse manifest file.
+ * @returns {object} {returnawaitJSON.parse(fs.readFile(manifestFilename
  */
 async function readManifest( manifestLocation ) {
   const manifest = await fs.readFile( manifestLocation );
@@ -45,8 +44,8 @@ async function readManifest( manifestLocation ) {
 
 /**
  * Get a list of a manifest's representative runs and its non-representative runs.
- * @param {Object} manifest Contents of a Lighthouse manifest file.
- * @returns {Object} Two separate run arrays.
+ * @param {object} manifest - Contents of a Lighthouse manifest file.
+ * @returns {object} Two separate run arrays.
  */
 function getManifestRuns( manifest ) {
   const runs = {
@@ -65,8 +64,8 @@ function getManifestRuns( manifest ) {
 /**
  * Get the local location of a run's JSON. The manifest files store
  * their locations relative to GitHub Action's filesystem.
- * @param {String} jsonPath Lighthouse run's JSON path from its manifest file.
- * @returns {String} Local location of run's JSON.
+ * @param {string} jsonPath - Lighthouse run's JSON path from its manifest file.
+ * @returns {string} Local location of run's JSON.
  */
 function getRunLocation( jsonPath ) {
   const fileName = path.basename( jsonPath );
@@ -76,8 +75,8 @@ function getRunLocation( jsonPath ) {
 
 /**
  * Delete a Lighthouse run file.
- * @param {String} runFile Location of a Lighthouse run file.
- * @returns {String} Deleted filename or error message.
+ * @param {string} runFile - Location of a Lighthouse run file.
+ * @returns {string} Deleted filename or error message.
  */
 async function deleteRun( runFile ) {
   await fs.unlink( runFile );
@@ -87,7 +86,7 @@ async function deleteRun( runFile ) {
 /**
  * Given a list of Lighthouse run data, pull out the useful info and return
  * a better-organized array.
- * @param {Array} runs List of Lighthouse runs.
+ * @param {Array} runs - List of Lighthouse runs.
  * @returns {Array} List of Lighthouse runs with additional metadata.
  */
 function processManifestRuns( runs ) {
@@ -116,9 +115,9 @@ function processManifestRuns( runs ) {
  * Given an array of Lighthouse runs from a manifest file, build an object
  * that organizes them first by page slug and then by date.
  * See test/fixtures/partial-index.json for an example of expected output.
- * @param {Array} runs List of Lighthouse runs.
- * @param {Object} index Object to add runs to.
- * @returns {Object} Object of Lighthouse runs organized by date and page.
+ * @param {Array} runs - List of Lighthouse runs.
+ * @param {object} index - Object to add runs to.
+ * @returns {object} Object of Lighthouse runs organized by date and page.
  */
 function buildIndex( runs, index = { pages: {}} ) {
   const reducer = ( idx, run ) => {
