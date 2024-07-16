@@ -27,7 +27,7 @@ nunjucksEnvironment.addFilter("scoreIcon", filters.scoreIcon);
  */
 function getPageTemplates(reports) {
   const templates = [];
-  for (const [slug, summary] of Object.entries(reports.pages)) {
+  for (const [slug, summary] of Object.entries(reports)) {
     templates.push({
       from: "./src/templates/page.njk",
       to: `${slug}/index.html`,
@@ -45,10 +45,28 @@ function getPageTemplates(reports) {
  * Create plugin to generate HTML files using Nunjucks templates. Plugin will
  * generate a Lighthouse summary HTML file for each subdirectory under
  * ./docs/reports, plus an index.html that links to each of those summary files.
+ * Filter out pages that aren't in the most recent result set.
  * @param {object} reports - All the Lighthouse reports read from reports.json.
  * @returns {NunjucksWebpackPlugin} Webpack plugin to create HTML files.
  */
 function buildReportPlugin(reports) {
+  const latestReportDates = Object.keys(reports).map((key) =>
+      reports[key]
+        ? Object.keys(reports[key]).sort()[Object.keys(reports[key]).length - 1]
+        : []
+    ),
+    latestReportDate = latestReportDates
+      ? latestReportDates.sort()[latestReportDates.length - 1]
+      : null,
+    latestReports = Object.keys(reports)
+      .filter((key) => latestReportDate in reports[key])
+      .reduce((obj, key) => {
+        return {
+          ...obj,
+          [key]: reports[key],
+        };
+      }, {});
+
   return new NunjucksWebpackPlugin({
     templates: [
       {
@@ -56,10 +74,10 @@ function buildReportPlugin(reports) {
         to: "index.html",
         context: {
           RELATIVE_URL,
-          pages: allReports.pages,
+          pages: latestReports,
         },
       },
-      ...getPageTemplates(reports),
+      ...getPageTemplates(latestReports),
     ],
     configure: nunjucksEnvironment,
   });
@@ -79,7 +97,7 @@ module.exports = (env, argv) => {
       new MiniCssExtractPlugin({
         filename: "static/css/[name].css",
       }),
-      buildReportPlugin(allReports),
+      buildReportPlugin(allReports.pages),
     ],
     module: {
       rules: [
