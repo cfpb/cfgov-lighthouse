@@ -25,8 +25,8 @@ function getUrlPaths() {
 
 /**
  * Generate a list of absolute URLs for testing.
- * @param {string} baseUrl Base URL, e.g. https://www.consumerfinance.gov.
- * @param {boolean} mobile Whether URLs should be decorated for mobile testing.
+ * @param {string} baseUrl - Base URL, e.g. https://www.consumerfinance.gov.
+ * @param {boolean} mobile - Whether URLs should be decorated for mobile testing.
  * @returns {URL[]} List of absolute URLs.
  */
 function getUrls( baseUrl, mobile ) {
@@ -45,7 +45,7 @@ function getUrls( baseUrl, mobile ) {
 
 /**
  * Remove mobile testing parameter from a URL, if it exists.
- * @param {string} url URL, e.g. https://www.consumerfinance.gov/?mobile=1.
+ * @param {string} url - URL, e.g. https://www.consumerfinance.gov/?mobile=1.
  * @returns {URL} URL without mobile testing parameter.
  */
 function getUrlWithoutMobileTestingParameter( url ) {
@@ -58,7 +58,7 @@ function getUrlWithoutMobileTestingParameter( url ) {
 
 /**
  * Test if a URL has been decorated for mobile testing.
- * @param {string} url URL, e.g. https://www.consumerfinance.gov.
+ * @param {string} url - URL, e.g. https://www.consumerfinance.gov.
  * @returns {boolean} Whether the URL has the ?mobile testing flag.
  */
 function hasMobileTestingParameter( url ) {

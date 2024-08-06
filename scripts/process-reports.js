@@ -35,8 +35,7 @@ const logger = winston.createLogger( {
 
 /**
  * Delete any report subdirectories that are older than KEEP_REPORTS_DAYS.
- *
- * @param {String} reportsRoot Directory containing report subdirectories.
+ * @param {string} reportsRoot - Directory containing report subdirectories.
  */
 async function deleteOldReportSubdirectories( reportsRoot ) {
   const deleteOlderThan = new Date();
@@ -62,9 +61,8 @@ async function deleteOldReportSubdirectories( reportsRoot ) {
  *
  * This function also deletes any non-representative run reports in order to
  * save disk space.
- *
- * @param {String} reportsRoot Directory containing all the report subdirectories.
- * @returns {Object} Object of Lighthouse runs organized by date and page.
+ * @param {string} reportsRoot - Directory containing all the report subdirectories.
+ * @returns {object} Object of Lighthouse runs organized by date and page.
  */
 async function buildIndexOfAllReports( reportsRoot ) {
   const emptyIndex = { pages: {}};
