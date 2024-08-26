@@ -1,7 +1,6 @@
-@import "@cfpb/cfpb-layout/src/cfpb-layout.less";
-@import "@cfpb/cfpb-typography/src/cfpb-typography.less";
+@use '@cfpb/cfpb-design-system/src/' as *;
 
-@use-font-cdn: true;
+@include define-custom-props();
 
 .cfpblh-container {
   width: 100%;
@@ -12,11 +11,6 @@
 .cfpblh-table {
   margin: auto;
   width: calc(100% - 60px);
-}
-
-// First column.
-.cfpblh-table td:nth-child(1) {
-  //max-width: 25%;
 }
 
 // Second column
@@ -39,19 +33,19 @@
 }
 
 .u-fill-red {
-  fill: @red;
+  fill: var(--red);
 }
 
 .u-fill-gold {
-  fill: @gold;
+  fill: var(--gold);
 }
 
 .u-unstyled-link {
   font-style: none !important;
-  color: @black !important;
+  color: var(--black) !important;
   border-bottom: none !important;
 
   &:hover {
-    color: @pacific-dark !important;
+    color: var(--pacific-dark) !important;
   }
 }
