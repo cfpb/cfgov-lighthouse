@@ -188,40 +188,10 @@
     "@babel/helper-validator-identifier" "^7.19.1"
     to-fast-properties "^2.0.0"
 
-"@cfpb/cfpb-core@^0.17.9":
-  version "0.17.9"
-  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-core/-/cfpb-core-0.17.9.tgz#8af514c0758ed6e0921a260d1f6a342a09e03c04"
-  integrity sha512-oxnGozGc4AaEQb8ogsmkASeSmyUIcl7EZL6uKjSEJb3ijLvIcOecQl9K4raPqBzQ2MkjMYvgqMfCHYH6YK+tdg==
-  dependencies:
-    normalize-css "^2.0.0"
-
-"@cfpb/cfpb-grid@^0.17.9":
-  version "0.17.9"
-  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-grid/-/cfpb-grid-0.17.9.tgz#955f371e81f610d1620aa89ee8a6864482312d96"
-  integrity sha512-CvF0hWSQPvZTPl2VDXYVBEFeyb/YT4py2hrwKtBSfFPSZd9WBGnKKwqUS62yQDYLBiv7bEQI4CU6uFPibDWuCA==
-  dependencies:
-    normalize-css "^2.0.0"
-
-"@cfpb/cfpb-icons@^0.17.9":
-  version "0.17.9"
-  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-icons/-/cfpb-icons-0.17.9.tgz#e6435f4140d03bb76626b34bde7cdea2f4d61f30"
-  integrity sha512-hDETcVtJ89xPmbNpuWHnNPFn6b429B74eqSZkWnd1m2DoH5nokf+HjWhFZJR3MtrjbZ4JvNb8m6HdNTidczXYA==
-
-"@cfpb/cfpb-layout@^0.17.9":
-  version "0.17.9"
-  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-layout/-/cfpb-layout-0.17.9.tgz#7ecaf573f045aa6a851b151af095caa1f4f55f62"
-  integrity sha512-VRnRG0Z3Pvf4mnjg9urkd0tyJuhqNM+XCf/7phFSygP0A18AvGWaODaocexj9BJQOKH7tIbbbZIWfThLzKQdhg==
-  dependencies:
-    "@cfpb/cfpb-core" "^0.17.9"
-    "@cfpb/cfpb-grid" "^0.17.9"
-
-"@cfpb/cfpb-typography@^0.17.9":
-  version "0.17.9"
-  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-typography/-/cfpb-typography-0.17.9.tgz#7059b52ae2682eba7d015d126a41444f9439c4ee"
-  integrity sha512-ZSexsjBGJfvylWsqZz8Mf4Z4dzkq9AbBLxzUQKnHPIl+yiQvV1jQaIef54tMruSCKcBSHr+7CnmZBj4OOVinHA==
-  dependencies:
-    "@cfpb/cfpb-core" "^0.17.9"
-    "@cfpb/cfpb-icons" "^0.17.9"
+"@cfpb/cfpb-design-system@^3.0.3":
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/@cfpb/cfpb-design-system/-/cfpb-design-system-3.0.3.tgz#5e4808ae5307c4e400d3aedbca733101103fc67f"
+  integrity sha512-YixhR9GRqfI2bP1Ek/q0iXbR83mZM+1TH2OquvCovUSCAdAH5LXUfqCwy/AEOMOWJCrP7q+v2pfTRPEKyKp0og==
 
 "@colors/colors@1.5.0":
   version "1.5.0"
@@ -1049,6 +1019,21 @@ charenc@0.0.2:
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/charenc/-/charenc-0.0.2.tgz#c0a1d2f3a7092e03774bfa83f14c0fc5790a8667"
   integrity sha1-wKHS86cJLgN3S/qD8UwPxXkKhmc=
+
+"chokidar@>=3.0.0 <4.0.0":
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-3.6.0.tgz#197c6cc669ef2a8dc5e7b4d97ee4e092c3eb0d5b"
+  integrity sha512-7VT13fmjotKpGipCW9JEQAusEPE+Ei8nl6/g4FBAmIm0GOOLMua9NDDo/DWp0ZAxCr3cPq5ZpBqmPAQgDda2Pw==
+  dependencies:
+    anymatch "~3.1.2"
+    braces "~3.0.2"
+    glob-parent "~5.1.2"
+    is-binary-path "~2.1.0"
+    is-glob "~4.0.1"
+    normalize-path "~3.0.0"
+    readdirp "~3.6.0"
+  optionalDependencies:
+    fsevents "~2.3.2"
 
 chokidar@^3.5.3:
   version "3.5.3"
@@ -2435,6 +2420,11 @@ image-ssim@^0.2.0:
   resolved "https://registry.yarnpkg.com/image-ssim/-/image-ssim-0.2.0.tgz#83b42c7a2e6e4b85505477fe6917f5dbc56420e5"
   integrity sha1-g7Qsei5uS4VQVHf+aRf128VkIOU=
 
+immutable@^4.0.0:
+  version "4.3.7"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-4.3.7.tgz#c70145fc90d89fb02021e65c84eb0226e4e5a381"
+  integrity sha512-1hqclzwYwjRDFLjcFxOM5AYkkG0rpFPpr1RLPMEuGczoS7YA8gLhy8SWXYRAA/XwfEHpfo3cw5JGioS32fnMRw==
+
 import-fresh@^3.0.0, import-fresh@^3.2.1:
   version "3.3.0"
   resolved "https://registry.yarnpkg.com/import-fresh/-/import-fresh-3.3.0.tgz#37162c25fcb9ebaa2e6e53d5b4d88ce17d9e0c2b"
@@ -2517,11 +2507,6 @@ inquirer@^6.3.1:
     string-width "^2.1.0"
     strip-ansi "^5.1.0"
     through "^2.3.6"
-
-insert-css@0.0.0:
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/insert-css/-/insert-css-0.0.0.tgz#2304bfa6f893abecb8ff9ca8d9c7605d94cf2911"
-  integrity sha1-IwS/pviTq+y4/5yo2cdgXZTPKRE=
 
 interpret@^2.2.0:
   version "2.2.0"
@@ -3331,13 +3316,6 @@ nofilter@^3.1.0:
   resolved "https://registry.yarnpkg.com/nofilter/-/nofilter-3.1.0.tgz#c757ba68801d41ff930ba2ec55bab52ca184aa66"
   integrity sha512-l2NNj07e9afPnhAhvgVrCD/oy2Ai1yfLpuo3EpiO1jFTsB4sFz6oIfAfSZyQzVpkZQ9xS8ZS5g1jCBgq4Hwo0g==
 
-normalize-css@^2.0.0:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/normalize-css/-/normalize-css-2.3.1.tgz#fc03e3b91e3a51aa7a1836bae7b2b6ac6d51e156"
-  integrity sha1-/APjuR46Uap6GDa657K2rG1R4VY=
-  dependencies:
-    insert-css "0.0.0"
-
 normalize-path@^3.0.0, normalize-path@~3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/normalize-path/-/normalize-path-3.0.0.tgz#0dcd69ff23a1c9b11fd0978316644a0388216a65"
@@ -4016,6 +3994,22 @@ safe-stable-stringify@^2.3.1:
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
+sass-loader@^16.0.1:
+  version "16.0.1"
+  resolved "https://registry.yarnpkg.com/sass-loader/-/sass-loader-16.0.1.tgz#57049c1787076e923b21a1dccc612546ecaf4295"
+  integrity sha512-xACl1ToTsKnL9Ce5yYpRxrLj9QUDCnwZNhzpC7tKiFyA8zXsd3Ap+HGVnbCgkdQcm43E+i6oKAWBsvGA6ZoiMw==
+  dependencies:
+    neo-async "^2.6.2"
+
+sass@^1.77.8:
+  version "1.77.8"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.77.8.tgz#9f18b449ea401759ef7ec1752a16373e296b52bd"
+  integrity sha512-4UHg6prsrycW20fqLGPShtEvo/WyHRVRHwOP4DzkUrObWoWI05QBSfzU71TVB7PFaL104TwNaHpjlWXAZbQiNQ==
+  dependencies:
+    chokidar ">=3.0.0 <4.0.0"
+    immutable "^4.0.0"
+    source-map-js ">=0.6.2 <2.0.0"
+
 sax@^1.2.4:
   version "1.2.4"
   resolved "https://registry.yarnpkg.com/sax/-/sax-1.2.4.tgz#2816234e2378bddc4e5354fab5caa895df7100d9"
@@ -4217,6 +4211,11 @@ slice-ansi@^5.0.0:
   dependencies:
     ansi-styles "^6.0.0"
     is-fullwidth-code-point "^4.0.0"
+
+"source-map-js@>=0.6.2 <2.0.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/source-map-js/-/source-map-js-1.2.0.tgz#16b809c162517b5b8c3e7dcd315a2a5c2612b2af"
+  integrity sha512-itJW8lvSA0TXEphiRoawsCksnlf8SyvmFzIhltqAHluXd88pkCd+cXJVHTDwdCr0IzwptSm035IHQktUu1QUMg==
 
 source-map-js@^1.0.2:
   version "1.0.2"

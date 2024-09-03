@@ -70,7 +70,7 @@ module.exports = ( env, argv ) => {
   const config = {
     mode: argv.mode || 'development',
     entry: {
-      main: [ './src/css/main.less', './src/js/main.js' ]
+      main: [ './src/css/main.scss', './src/js/main.js' ]
     },
     output: {
       path: path.resolve( __dirname, 'docs' ),
@@ -87,9 +87,9 @@ module.exports = ( env, argv ) => {
     module: {
       rules: [
         {
-          test: /\.less$/,
+          test: /\.scss$/,
           exclude: /node_modules/,
-          use: [ MiniCssExtractPlugin.loader, 'css-loader', 'less-loader' ]
+          use: [ MiniCssExtractPlugin.loader, 'css-loader', 'sass-loader' ]
         },
         {
           test: /\.js$/,
