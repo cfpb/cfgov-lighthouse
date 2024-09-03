@@ -34,6 +34,9 @@
     "winston": "^3.8.2"
   },
   "dependencies": {
-    "@cfpb/cfpb-design-system": "^3.0.3"
+    "@cfpb/cfpb-design-system": "^3.0.3",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-jsdoc": "^48.7.0"
   }
 }
