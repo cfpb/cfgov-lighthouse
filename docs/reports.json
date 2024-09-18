@@ -713,6 +713,29 @@
             "pwa": 0.5
           }
         }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/learnmore/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_learnmore_-2024_09_18_00_13_50.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_learnmore_-2024_09_18_00_29_20.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.5
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_": {
@@ -1420,6 +1443,29 @@
         },
         "mobile": {
           "jsonPath": "2024-09-17T00:38:42.964Z/www_consumerfinance_gov-_-2024_09_17_00_24_40.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.5
+          }
+        }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_-2024_09_18_00_12_23.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_-2024_09_18_00_27_52.report.json",
           "summary": {
             "performance": 0.99,
             "accessibility": 1,
@@ -2143,6 +2189,29 @@
             "pwa": 0.5
           }
         }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/complaint/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_complaint_-2024_09_18_00_13_04.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_complaint_-2024_09_18_00_28_26.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.5
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_housing_housing_insecurity_help_for_renters_get_help_paying_rent_and_bills_": {
@@ -2858,6 +2927,29 @@
             "pwa": 0.5
           }
         }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/get-help-paying-rent-and-bills/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_housing_housing_insecurity_help_for_renters_get_help_paying_rent_and_bills_-2024_09_18_00_14_33.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_housing_housing_insecurity_help_for_renters_get_help_paying_rent_and_bills_-2024_09_18_00_30_05.report.json",
+          "summary": {
+            "performance": 0.9,
+            "accessibility": 0.92,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.5
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_find_a_housing_counselor_": {
@@ -3565,6 +3657,29 @@
         },
         "mobile": {
           "jsonPath": "2024-09-17T00:38:42.964Z/www_consumerfinance_gov-_find_a_housing_counselor_-2024_09_17_00_27_15.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.5
+          }
+        }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/find-a-housing-counselor/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_find_a_housing_counselor_-2024_09_18_00_14_55.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_find_a_housing_counselor_-2024_09_18_00_30_49.report.json",
           "summary": {
             "performance": 1,
             "accessibility": 1,
@@ -4704,6 +4819,29 @@
             "pwa": 0.5
           }
         }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/what-should-i-do-when-a-debt-collector-contacts-me-en-1695/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2024_09_18_00_15_50.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 0.92,
+            "seo": 1,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_ask_cfpb_what_should_i_do_when_a_debt_collector_contacts_me_en_1695_-2024_09_18_00_31_32.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 0.92,
+            "seo": 1,
+            "pwa": 0.5
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_ask_cfpb_how_do_i_negotiate_a_settlement_with_a_debt_collector_en_1447_": {
@@ -5413,6 +5551,29 @@
           "jsonPath": "2024-09-17T00:38:42.964Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_negotiate_a_settlement_with_a_debt_collector_en_1447_-2024_09_17_00_28_32.report.json",
           "summary": {
             "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 0.92,
+            "seo": 1,
+            "pwa": 0.5
+          }
+        }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-negotiate-a-settlement-with-a-debt-collector-en-1447/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_negotiate_a_settlement_with_a_debt_collector_en_1447_-2024_09_18_00_17_30.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 0.92,
+            "seo": 1,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_negotiate_a_settlement_with_a_debt_collector_en_1447_-2024_09_18_00_32_19.report.json",
+          "summary": {
+            "performance": 0.97,
             "accessibility": 1,
             "best-practices": 0.92,
             "seo": 1,
@@ -6134,6 +6295,29 @@
             "pwa": 0.5
           }
         }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-a-free-copy-of-my-credit-reports-en-5/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_free_copy_of_my_credit_reports_en_5_-2024_09_18_00_18_49.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 0.99,
+            "best-practices": 0.92,
+            "seo": 1,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_ask_cfpb_how_do_i_get_a_free_copy_of_my_credit_reports_en_5_-2024_09_18_00_33_40.report.json",
+          "summary": {
+            "performance": 0.96,
+            "accessibility": 0.99,
+            "best-practices": 0.92,
+            "seo": 1,
+            "pwa": 0.5
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_about_us_contact_us_": {
@@ -6841,6 +7025,29 @@
         },
         "mobile": {
           "jsonPath": "2024-09-17T00:38:42.964Z/www_consumerfinance_gov-_about_us_contact_us_-2024_09_17_00_29_18.report.json",
+          "summary": {
+            "performance": 0.98,
+            "accessibility": 0.99,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.5
+          }
+        }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/about-us/contact-us/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_about_us_contact_us_-2024_09_18_00_18_04.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 0.99,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_about_us_contact_us_-2024_09_18_00_33_05.report.json",
           "summary": {
             "performance": 0.98,
             "accessibility": 0.99,
@@ -7564,6 +7771,29 @@
             "pwa": 0.5
           }
         }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/housing/housing-insecurity/help-for-renters/what-to-do-if-youre-facing-eviction/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_housing_housing_insecurity_help_for_renters_what_to_do_if_youre_facing_eviction_-2024_09_18_00_19_12.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_housing_housing_insecurity_help_for_renters_what_to_do_if_youre_facing_eviction_-2024_09_18_00_34_03.report.json",
+          "summary": {
+            "performance": 0.9,
+            "accessibility": 0.92,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.5
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_rules_policy_regulations_": {
@@ -8273,6 +8503,29 @@
           "jsonPath": "2024-09-17T00:38:42.964Z/www_consumerfinance_gov-_rules_policy_regulations_-2024_09_17_00_32_17.report.json",
           "summary": {
             "performance": 0.96,
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 0.99,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/rules-policy/regulations/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_rules_policy_regulations_-2024_09_18_00_20_41.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_rules_policy_regulations_-2024_09_18_00_35_55.report.json",
+          "summary": {
+            "performance": 0.99,
             "accessibility": 0.98,
             "best-practices": 1,
             "seo": 0.99,
@@ -8994,6 +9247,29 @@
             "pwa": 0.5
           }
         }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2024_09_18_00_19_45.report.json",
+          "summary": {
+            "performance": 0.81,
+            "accessibility": 0.94,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_data_research_consumer_complaints_search_-2024_09_18_00_34_48.report.json",
+          "summary": {
+            "performance": 0.63,
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.5
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_about_us_newsroom_": {
@@ -9701,6 +9977,29 @@
         },
         "mobile": {
           "jsonPath": "2024-09-17T00:38:42.964Z/www_consumerfinance_gov-_about_us_newsroom_-2024_09_17_00_33_33.report.json",
+          "summary": {
+            "performance": 0.92,
+            "accessibility": 0.92,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.5
+          }
+        }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/about-us/newsroom/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_about_us_newsroom_-2024_09_18_00_21_59.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 0.99,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_about_us_newsroom_-2024_09_18_00_36_53.report.json",
           "summary": {
             "performance": 0.92,
             "accessibility": 0.92,
@@ -10424,6 +10723,29 @@
             "pwa": 0.5
           }
         }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/rural-or-underserved-tool/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_rural_or_underserved_tool_-2024_09_18_00_20_30.report.json",
+          "summary": {
+            "performance": 0.97,
+            "accessibility": 0.92,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_rural_or_underserved_tool_-2024_09_18_00_35_00.report.json",
+          "summary": {
+            "performance": 0.77,
+            "accessibility": 0.92,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.5
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_housing_housing_insecurity_help_for_homeowners_get_homeowner_assistance_fund_help_": {
@@ -11131,6 +11453,29 @@
         },
         "mobile": {
           "jsonPath": "2024-09-17T00:38:42.964Z/www_consumerfinance_gov-_housing_housing_insecurity_help_for_homeowners_get_homeowner_assistance_fund_help_-2024_09_17_00_32_50.report.json",
+          "summary": {
+            "performance": 0.86,
+            "accessibility": 0.91,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.5
+          }
+        }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/housing/housing-insecurity/help-for-homeowners/get-homeowner-assistance-fund-help/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_housing_housing_insecurity_help_for_homeowners_get_homeowner_assistance_fund_help_-2024_09_18_00_21_15.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_housing_housing_insecurity_help_for_homeowners_get_homeowner_assistance_fund_help_-2024_09_18_00_36_18.report.json",
           "summary": {
             "performance": 0.86,
             "accessibility": 0.91,
@@ -11854,6 +12199,29 @@
             "pwa": 0.5
           }
         }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/enforcement/actions/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_enforcement_actions_-2024_09_18_00_23_17.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 0.99,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_enforcement_actions_-2024_09_18_00_37_49.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 0.99,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.5
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_ask_cfpb_what_is_a_reverse_mortgage_en_224_": {
@@ -12563,6 +12931,29 @@
           "jsonPath": "2024-09-17T00:38:42.964Z/www_consumerfinance_gov-_ask_cfpb_what_is_a_reverse_mortgage_en_224_-2024_09_17_00_34_51.report.json",
           "summary": {
             "performance": 1,
+            "accessibility": 1,
+            "best-practices": 0.92,
+            "seo": 1,
+            "pwa": 0.5
+          }
+        }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-a-reverse-mortgage-en-224/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_ask_cfpb_what_is_a_reverse_mortgage_en_224_-2024_09_18_00_23_28.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 0.92,
+            "seo": 1,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_ask_cfpb_what_is_a_reverse_mortgage_en_224_-2024_09_18_00_38_45.report.json",
+          "summary": {
+            "performance": 0.98,
             "accessibility": 1,
             "best-practices": 0.92,
             "seo": 1,
@@ -13700,6 +14091,29 @@
             "pwa": 0.5
           }
         }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/does-a-persons-debt-go-away-when-they-die-en-1463/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_ask_cfpb_does_a_persons_debt_go_away_when_they_die_en_1463_-2024_09_18_00_26_26.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 0.92,
+            "seo": 1,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_ask_cfpb_does_a_persons_debt_go_away_when_they_die_en_1463_-2024_09_18_00_41_36.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 0.92,
+            "seo": 1,
+            "pwa": 0.5
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_rules_policy_regulations_1026_": {
@@ -14407,6 +14821,29 @@
         },
         "mobile": {
           "jsonPath": "2024-09-17T00:38:42.964Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2024_09_17_00_36_09.report.json",
+          "summary": {
+            "performance": 0.85,
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/rules-policy/regulations/1026/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2024_09_18_00_24_57.report.json",
+          "summary": {
+            "performance": 0.97,
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_rules_policy_regulations_1026_-2024_09_18_00_39_42.report.json",
           "summary": {
             "performance": 0.85,
             "accessibility": 0.98,
@@ -15130,6 +15567,29 @@
             "pwa": 0.5
           }
         }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_data_research_consumer_complaints_-2024_09_18_00_26_03.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 0.98,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_data_research_consumer_complaints_-2024_09_18_00_40_40.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 0.98,
+            "best-practices": 0.92,
+            "seo": 1,
+            "pwa": 0.5
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_rules_policy_regulations_search_regulations_results_": {
@@ -15837,6 +16297,29 @@
         },
         "mobile": {
           "jsonPath": "2024-09-17T00:38:42.964Z/www_consumerfinance_gov-_rules_policy_regulations_search_regulations_results_-2024_09_17_00_38_10.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.7
+          }
+        }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/rules-policy/regulations/search-regulations/results/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_rules_policy_regulations_search_regulations_results_-2024_09_18_00_26_56.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.67
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_rules_policy_regulations_search_regulations_results_-2024_09_18_00_42_10.report.json",
           "summary": {
             "performance": 1,
             "accessibility": 1,
@@ -16978,6 +17461,29 @@
             "pwa": 0.5
           }
         }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/what-is-student-loan-forbearance-en-631/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_ask_cfpb_what_is_student_loan_forbearance_en_631_-2024_09_18_00_22_32.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 0.92,
+            "seo": 1,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_ask_cfpb_what_is_student_loan_forbearance_en_631_-2024_09_18_00_37_26.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 0.92,
+            "seo": 1,
+            "pwa": 0.5
+          }
+        }
       }
     },
     "www_consumerfinance_gov-_ask_cfpb_": {
@@ -17271,6 +17777,29 @@
         },
         "mobile": {
           "jsonPath": "2024-09-17T00:38:42.964Z/www_consumerfinance_gov-_ask_cfpb_-2024_09_17_00_35_25.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.5
+          }
+        }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/ask-cfpb/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_ask_cfpb_-2024_09_18_00_24_23.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 1,
+            "best-practices": 1,
+            "seo": 1,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_ask_cfpb_-2024_09_18_00_39_19.report.json",
           "summary": {
             "performance": 0.99,
             "accessibility": 1,
@@ -17580,6 +18109,29 @@
             "pwa": 0.5
           }
         }
+      },
+      "2024_09_18": {
+        "url": "https://www.consumerfinance.gov/about-us/blog/",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_about_us_blog_-2024_09_18_00_25_08.report.json",
+          "summary": {
+            "performance": 1,
+            "accessibility": 0.99,
+            "best-practices": 1,
+            "seo": 0.92,
+            "pwa": 0.44
+          }
+        },
+        "mobile": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/www_consumerfinance_gov-_about_us_blog_-2024_09_18_00_40_05.report.json",
+          "summary": {
+            "performance": 0.99,
+            "accessibility": 0.99,
+            "best-practices": 1,
+            "seo": 0.93,
+            "pwa": 0.5
+          }
+        }
       }
     },
     "search_consumerfinance_gov-_search": {
@@ -17745,6 +18297,19 @@
           "jsonPath": "2024-09-17T00:38:42.964Z/search_consumerfinance_gov-_search-2024_09_17_00_27_37.report.json",
           "summary": {
             "performance": 0.81,
+            "accessibility": 0.91,
+            "best-practices": 0.92,
+            "seo": 0.74,
+            "pwa": 0.3
+          }
+        }
+      },
+      "2024_09_18": {
+        "url": "https://search.consumerfinance.gov/search?utf8=%E2%9C%93&affiliate=cfpb&query=",
+        "desktop": {
+          "jsonPath": "2024-09-18T00:42:20.115Z/search_consumerfinance_gov-_search-2024_09_18_00_31_22.report.json",
+          "summary": {
+            "performance": 0.8,
             "accessibility": 0.91,
             "best-practices": 0.92,
             "seo": 0.74,
