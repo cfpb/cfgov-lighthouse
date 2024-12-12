@@ -19,8 +19,9 @@ jobs:
       - name: Optionally fetch list of cf.gov pages to test
         env:
           TEST_PAGES_URL: ${{ secrets.TEST_PAGES_URL }}
+        # Add a random date query string to the URL to cache-bust.
         run: >
-          [[ -n "${TEST_PAGES_URL}" ]] && wget -O urls.txt "$TEST_PAGES_URL"
+          [[ -n "${TEST_PAGES_URL}" ]] && wget -O urls.txt "$TEST_PAGES_URL?$(date +%s)"
         continue-on-error: true
 
       - name: Run Lighthouse CLI against specified cf.gov pages
